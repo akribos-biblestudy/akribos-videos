@@ -1,0 +1,31 @@
+const { showFirstResult, capture, reader, nav, search } = require('../../folge-02-orientierung/capture/session.cjs')
+async function searches(p, take, config) {
+  await nav(p, reader('Joh1,1', ['ELB1905']))
+  let list = await search(p, 'Liebe')
+  await take()
+  list = await search(p, 'Liebe Gott')
+  await showFirstResult(list)
+  await take()
+  list = await search(p, '"am Anfang"')
+  await showFirstResult(list)
+  await take()
+  list = await search(p, 'lieb')
+  await showFirstResult(list)
+  await take()
+  await p.setViewportSize(config.phraseViewport)
+  list = await search(p, 'liebe "des Vaters"')
+  await showFirstResult(list)
+  await take()
+  await p.setViewportSize({ width: config.width, height: config.height })
+  list = await search(p, 'Liebe -Welt')
+  await take()
+  const bar = p.locator('button[aria-label^="Joh:"]').first()
+  await bar.locator('.bar').click()
+  await p.getByRole('button', { name: 'Buchfilter aufheben' }).waitFor()
+
+  await take()
+}
+capture(__dirname, searches).catch((error) => {
+  console.error(error.message)
+  process.exitCode = 1
+})

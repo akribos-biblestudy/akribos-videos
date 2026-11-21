@@ -1,0 +1,13 @@
+Die Suche gehört zum geöffneten Werk. Gib im Bibel-Tab zum Beispiel „Liebe“ ein und drücke Enter. Auch passende Wortformen werden gefunden.
+
+Suchst du Liebe und Gott im selben Vers? Schreibe beide Wörter mit einem Leerzeichen ins Suchfeld. Die Reihenfolge ist dabei egal.
+
+Für eine feste Wortfolge setze „am Anfang“ in gerade Anführungszeichen. Jetzt sucht Akribos genau diese Folge.
+
+Schon der Wortanfang „lieb“ findet längere Formen.
+
+Kombiniere auch ein einzelnes Wort mit einer Wortfolge. Hier suchen wir Liebe zusammen mit „des Vaters“ in Anführungszeichen.
+
+Mit einem Minus direkt vor „Welt“ schließt du Verse mit diesem Wort aus. Vor dem Minus steht der Begriff, den du finden möchtest.
+
+Die Balken zeigen die Treffer pro Buch. Klicke auf Johannes, um die Liste einzugrenzen. Ein Klick auf einen Treffer öffnet den Vers im Zusammenhang.

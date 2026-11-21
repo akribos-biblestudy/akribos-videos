@@ -1,0 +1,104 @@
+{
+  "number": 4,
+  "title": "Wörter und Formulierungen suchen",
+  "slug": "suche",
+  "scenes": [
+    {
+      "title": "Im richtigen Werk suchen",
+      "text": "Die Suche gehört zum geöffneten Werk. Gib im Bibel-Tab zum Beispiel „Liebe“ ein und drücke Enter. Auch passende Wortformen werden gefunden.",
+      "image": "screenshots/01-wortsuche.png",
+      "focus": [
+        0,
+        40,
+        1700,
+        1030
+      ],
+      "point": [
+        819,
+        259
+      ]
+    },
+    {
+      "title": "Zwei Wörter kombinieren",
+      "text": "Suchst du Liebe und Gott im selben Vers? Schreibe beide Wörter mit einem Leerzeichen ins Suchfeld. Die Reihenfolge ist dabei egal.",
+      "image": "screenshots/02-zwei-woerter.png",
+      "focus": [
+        0,
+        10,
+        1700,
+        960
+      ]
+    },
+    {
+      "title": "Eine Wortfolge finden",
+      "text": "Für eine feste Wortfolge setze „am Anfang“ in gerade Anführungszeichen. Jetzt sucht Akribos genau diese Folge.",
+      "image": "screenshots/03-wortfolge.png",
+      "focus": [
+        0,
+        10,
+        1700,
+        960
+      ]
+    },
+    {
+      "title": "Wortanfänge finden",
+      "text": "Schon der Wortanfang „lieb“ findet längere Formen.",
+      "image": "screenshots/04-wortanfang.png",
+      "focus": [
+        0,
+        0,
+        1690,
+        940
+      ],
+      "point": [
+        819,
+        259
+      ]
+    },
+    {
+      "title": "Wort und Wortfolge kombinieren",
+      "text": "Kombiniere auch ein einzelnes Wort mit einer Wortfolge. Hier suchen wir Liebe zusammen mit „des Vaters“ in Anführungszeichen.",
+      "image": "screenshots/05-wort-und-phrase.png",
+      "focus": [
+        0,
+        0,
+        1690,
+        940
+      ],
+      "point": [
+        819,
+        259
+      ]
+    },
+    {
+      "title": "Ein Wort ausschließen",
+      "text": "Mit einem Minus direkt vor „Welt“ schließt du Verse mit diesem Wort aus. Vor dem Minus steht der Begriff, den du finden möchtest.",
+      "image": "screenshots/06-ausschluss.png",
+      "focus": [
+        0,
+        0,
+        1610,
+        910
+      ],
+      "point": [
+        819,
+        259
+      ]
+    },
+    {
+      "title": "Auf ein Buch eingrenzen",
+      "text": "Die Balken zeigen die Treffer pro Buch. Klicke auf Johannes, um die Liste einzugrenzen. Ein Klick auf einen Treffer öffnet den Vers im Zusammenhang.",
+      "image": "screenshots/07-buchfilter.png",
+      "focus": [
+        0,
+        148,
+        1700,
+        1132
+      ],
+      "point": [
+        282,
+        796
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+1
+00:00:01,470 --> 00:00:04,020
+Die Suche gehört zum geöffneten Werk.
+
+2
+00:00:04,020 --> 00:00:08,190
+Gib im Bibel-Tab zum Beispiel „Liebe“ ein
+und drücke Enter.
+
+3
+00:00:08,190 --> 00:00:10,860
+Auch passende Wortformen werden gefunden.
+
+4
+00:00:10,860 --> 00:00:13,830
+Suchst du Liebe und Gott im selben Vers?
+
+5
+00:00:13,830 --> 00:00:17,040
+Schreibe beide Wörter mit einem Leerzeichen
+ins Suchfeld.
+
+6
+00:00:17,040 --> 00:00:18,840
+Die Reihenfolge ist dabei egal.
+
+7
+00:00:18,840 --> 00:00:23,850
+Für eine feste Wortfolge setze „am Anfang“
+in gerade Anführungszeichen.
+
+8
+00:00:23,850 --> 00:00:26,670
+Jetzt sucht Akribos genau diese Folge.
+
+9
+00:00:26,670 --> 00:00:30,060
+Schon der Wortanfang „lieb“ findet längere
+Formen.
+
+10
+00:00:30,060 --> 00:00:33,120
+Kombiniere auch ein einzelnes Wort mit
+einer Wortfolge.
+
+11
+00:00:33,120 --> 00:00:37,680
+Hier suchen wir Liebe zusammen mit „des
+Vaters“ in Anführungszeichen.
+
+12
+00:00:37,680 --> 00:00:42,210
+Mit einem Minus direkt vor „Welt“ schließt
+du Verse mit diesem Wort aus.
+
+13
+00:00:42,210 --> 00:00:45,420
+Vor dem Minus steht der Begriff, den du
+finden möchtest.
+
+14
+00:00:45,420 --> 00:00:47,820
+Die Balken zeigen die Treffer pro Buch.
+
+15
+00:00:47,820 --> 00:00:50,610
+Klicke auf Johannes, um die Liste
+einzugrenzen.
+
+16
+00:00:50,610 --> 00:00:53,790
+Ein Klick auf einen Treffer öffnet den Vers
+im Zusammenhang.
