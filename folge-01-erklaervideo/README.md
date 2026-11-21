@@ -20,6 +20,8 @@ Du findest diese Werte auch direkt im Projekt. Markiere die Sequenz im Projektfe
 
 Für einen anderen Anzeigenamen öffne im Projektfenster **Render-Ausgaben**, markiere die gewünschte Ausgabekomposition und drücke **Enter** oder wähle **Rechtsklick → Rename**. Die Render Queue zeigt ihren neuen Namen direkt an. Bildinhalt und Animation bearbeitest du weiterhin unter **Szenen** oder in der Hauptkomposition.
 
+![Die drei Renderaufträge für Szene 08 in der eingeklappten Render Queue](docs/render-queue.png)
+
 EffectCraft 0.24.1 kann beim Speichern absolute Medienpfade eintragen. Damit die Projekte nach einem Umzug oder Klonen weiter funktionieren, speichere deine Editoränderungen und führe vor dem Commit im **Repo-Hauptordner** `python3 scripts/project_paths.py folge-01-erklaervideo` aus.
 
 Bei einer Linux-Flatpak-Installation braucht EffectCraft Lese- und Schreibzugriff auf den Checkout. Liegt er außerhalb der freigegebenen Ordner, führe im **Repo-Hauptordner** einmal `flatpak override --user --filesystem="$PWD" ai.storyteller.effectcraft` aus und starte EffectCraft neu.
