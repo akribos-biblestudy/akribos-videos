@@ -4,23 +4,23 @@ Die Quelldateien der Akribos-Erklärvideos. Jede Folge hat ihren eigenen Ordner 
 
 [YouTube-Titel, Beschreibungen und Schlagwörter](youtube/README.md) · [Kanalbanner](youtube/akribos-kanalbanner.jpg)
 
-| Folge | Thema und Projektdateien | Fertiges Video |
-| --- | --- | --- |
-| 01 | [Akribos kennenlernen](folge-01-erklaervideo/README.md) | [1:00](folge-01-erklaervideo/folge-01.mp4) |
-| 02 | [Wo finde ich was in Akribos?](folge-02-orientierung/README.md) | [0:41](folge-02-orientierung/folge-02.mp4) |
-| 03 | [Tabs miteinander verknüpfen](folge-03-tab-verknuepfungen/README.md) | [0:43](folge-03-tab-verknuepfungen/folge-03.mp4) |
-| 04 | [Wörter und Formulierungen suchen](folge-04-suche/README.md) | [0:56](folge-04-suche/folge-04.mp4) |
-| 05 | [Strong-Suche auf Griechisch und Hebräisch](folge-05-strong-suche/README.md) | [1:01](folge-05-strong-suche/folge-05.mp4) |
-| 06 | [Arbeitsbereiche und Layouts einrichten](folge-06-arbeitsbereiche-layouts/README.md) | [1:22](folge-06-arbeitsbereiche-layouts/folge-06.mp4) |
-| 07 | [Verse markieren und kopieren](folge-07-verse-markieren-und-kopieren/README.md) | [1:05](folge-07-verse-markieren-und-kopieren/folge-07.mp4) |
-| 08 | [Bibelstellen zu einem Thema sammeln](folge-08-stellensammlungen/README.md) | [0:55](folge-08-stellensammlungen/folge-08.mp4) |
-| 09 | [Notizen mit dem Bibeltext verknüpfen](folge-09-notizen-am-bibeltext/README.md) | [1:17](folge-09-notizen-am-bibeltext/folge-09.mp4) |
-| 10 | [Ausarbeitungen auf dem Board organisieren](folge-10-ausarbeitungen-organisieren/README.md) | [0:43](folge-10-ausarbeitungen-organisieren/folge-10.mp4) |
-| 11 | [Eine Ausarbeitung für den Einsatz vorbereiten](folge-11-ausarbeitungen-bearbeiten/README.md) | [0:47](folge-11-ausarbeitungen-bearbeiten/folge-11.mp4) |
-| 12 | [Notizen und Ausarbeitungen weitergeben](folge-12-dokumente-teilen/README.md) | [0:56](folge-12-dokumente-teilen/folge-12.mp4) |
-| 13 | [Notizen importieren und exportieren](folge-13-notizen-import-export/README.md) | [1:37](folge-13-notizen-import-export/folge-13.mp4) |
-| 14 | [Die Bibelausgaben in Akribos](folge-14-bibelausgaben/README.md) | [1:24](folge-14-bibelausgaben/folge-14.mp4) |
-| 15 | [Feedback an Akribos geben](folge-15-feedback/README.md) | [0:43](folge-15-feedback/folge-15.mp4) |
+| Folge | Thema und Projektdateien | Fertiges Video | YouTube-Thumbnail |
+| --- | --- | --- | --- |
+| 01 | [Akribos kennenlernen](folge-01-erklaervideo/README.md) | [1:00](folge-01-erklaervideo/folge-01.mp4) | [Thumbnail](folge-01-erklaervideo/youtube-thumbnail.jpg) |
+| 02 | [Wo finde ich was in Akribos?](folge-02-orientierung/README.md) | [0:41](folge-02-orientierung/folge-02.mp4) | [Thumbnail](folge-02-orientierung/youtube-thumbnail.jpg) |
+| 03 | [Tabs miteinander verknüpfen](folge-03-tab-verknuepfungen/README.md) | [0:43](folge-03-tab-verknuepfungen/folge-03.mp4) | [Thumbnail](folge-03-tab-verknuepfungen/youtube-thumbnail.jpg) |
+| 04 | [Wörter und Formulierungen suchen](folge-04-suche/README.md) | [0:56](folge-04-suche/folge-04.mp4) | [Thumbnail](folge-04-suche/youtube-thumbnail.jpg) |
+| 05 | [Strong-Suche auf Griechisch und Hebräisch](folge-05-strong-suche/README.md) | [1:01](folge-05-strong-suche/folge-05.mp4) | [Thumbnail](folge-05-strong-suche/youtube-thumbnail.jpg) |
+| 06 | [Arbeitsbereiche und Layouts einrichten](folge-06-arbeitsbereiche-layouts/README.md) | [1:22](folge-06-arbeitsbereiche-layouts/folge-06.mp4) | [Thumbnail](folge-06-arbeitsbereiche-layouts/youtube-thumbnail.jpg) |
+| 07 | [Verse markieren und kopieren](folge-07-verse-markieren-und-kopieren/README.md) | [1:05](folge-07-verse-markieren-und-kopieren/folge-07.mp4) | [Thumbnail](folge-07-verse-markieren-und-kopieren/youtube-thumbnail.jpg) |
+| 08 | [Bibelstellen zu einem Thema sammeln](folge-08-stellensammlungen/README.md) | [0:55](folge-08-stellensammlungen/folge-08.mp4) | [Thumbnail](folge-08-stellensammlungen/youtube-thumbnail.jpg) |
+| 09 | [Notizen mit dem Bibeltext verknüpfen](folge-09-notizen-am-bibeltext/README.md) | [1:17](folge-09-notizen-am-bibeltext/folge-09.mp4) | [Thumbnail](folge-09-notizen-am-bibeltext/youtube-thumbnail.jpg) |
+| 10 | [Ausarbeitungen auf dem Board organisieren](folge-10-ausarbeitungen-organisieren/README.md) | [0:43](folge-10-ausarbeitungen-organisieren/folge-10.mp4) | [Thumbnail](folge-10-ausarbeitungen-organisieren/youtube-thumbnail.jpg) |
+| 11 | [Eine Ausarbeitung für den Einsatz vorbereiten](folge-11-ausarbeitungen-bearbeiten/README.md) | [0:47](folge-11-ausarbeitungen-bearbeiten/folge-11.mp4) | [Thumbnail](folge-11-ausarbeitungen-bearbeiten/youtube-thumbnail.jpg) |
+| 12 | [Notizen und Ausarbeitungen weitergeben](folge-12-dokumente-teilen/README.md) | [0:56](folge-12-dokumente-teilen/folge-12.mp4) | [Thumbnail](folge-12-dokumente-teilen/youtube-thumbnail.jpg) |
+| 13 | [Notizen importieren und exportieren](folge-13-notizen-import-export/README.md) | [1:37](folge-13-notizen-import-export/folge-13.mp4) | [Thumbnail](folge-13-notizen-import-export/youtube-thumbnail.jpg) |
+| 14 | [Die Bibelausgaben in Akribos](folge-14-bibelausgaben/README.md) | [1:24](folge-14-bibelausgaben/folge-14.mp4) | [Thumbnail](folge-14-bibelausgaben/youtube-thumbnail.jpg) |
+| 15 | [Feedback an Akribos geben](folge-15-feedback/README.md) | [0:43](folge-15-feedback/folge-15.mp4) | [Thumbnail](folge-15-feedback/youtube-thumbnail.jpg) |
 
 ## Auf einem neuen Rechner starten
 
