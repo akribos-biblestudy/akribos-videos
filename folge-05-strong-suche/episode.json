@@ -1,0 +1,81 @@
+{
+  "number": 5,
+  "title": "Strong-Suche auf Griechisch und Hebräisch",
+  "slug": "strong-suche",
+  "scenes": [
+    {
+      "title": "Vom deutschen Wort ausgehen",
+      "text": "Welches Wort steht hinter „geliebt“ in Johannes drei, Vers sechzehn? Klicke in einer Bibel mit Wortverknüpfungen auf „geliebt“.",
+      "image": "screenshots/01-griechisch-geliebt.png",
+      "focus": [
+        0,
+        46,
+        1228,
+        666
+      ],
+      "point": [
+        789,
+        379
+      ]
+    },
+    {
+      "title": "Die Nummer lesen",
+      "text": "Das Lexikon zeigt das griechische Verb und seine Strong-Nummer, G fünfundzwanzig. Das G steht für Griechisch.",
+      "image": "screenshots/02-lexikon-g25.png",
+      "focus": [
+        1220,
+        176,
+        1260,
+        950
+      ]
+    },
+    {
+      "title": "Nach G25 suchen",
+      "text": "Gib G fünfundzwanzig im Suchfeld der Bibel ein. So findest du Stellen mit demselben zugeordneten Grundwort, auch wenn es im Deutschen anders wiedergegeben wird.",
+      "image": "screenshots/03-suche-g25.png",
+      "focus": [
+        0,
+        112,
+        1700,
+        900
+      ]
+    },
+    {
+      "title": "Vorkommen und Übersetzungen",
+      "text": "Ein Vers kann mehrere Vorkommen enthalten. Unter „Übersetzt als“ siehst du, welche deutschen Wörter dafür stehen.",
+      "image": "screenshots/04-vorkommen-uebersetzungen.png",
+      "focus": [
+        0,
+        220,
+        1684,
+        1170
+      ]
+    },
+    {
+      "title": "Hebräisch mit H suchen",
+      "text": "Für Hebräisch beginnt die Nummer mit H. Suche nach H vierhundertdreißig. In Erster Mose eins, Vers eins gehört diese Nummer zum Wort „Gott“.",
+      "image": "screenshots/05-suche-h430.png",
+      "focus": [
+        0,
+        46,
+        1250,
+        770
+      ],
+      "point": [
+        619,
+        480
+      ]
+    },
+    {
+      "title": "Das Grundwort nachschlagen",
+      "text": "Öffne den Vers und klicke auf „Gott“. Im hebräischen Lexikon erscheint Elohim. So gelangst du vom Suchergebnis zurück zum Wort an seiner konkreten Stelle.",
+      "image": "screenshots/06-lexikon-elohim.png",
+      "focus": [
+        1240,
+        208,
+        1222,
+        858
+      ]
+    }
+  ]
+}

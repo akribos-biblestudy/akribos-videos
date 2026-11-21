@@ -1,0 +1,9 @@
+Du hast eine Notiz in Word oder Markdown geschrieben? Öffne in /aˈkʁiːbɔs/ die Notizbibliothek und wähle „Importieren“.
+
+Wähle deine Datei und klicke auf „Importvorschau erstellen“. Hier prüfst du den Titel, den Text und die erkannten Bibelstellen.
+
+Lies auch die Hinweise zu ausgelassenen Inhalten. Erst mit „Als privates Dokument importieren“ landet die Notiz in deiner Bibliothek.
+
+Öffne die gespeicherte Notiz. Unter „Exportieren“ findest du Word zum Weiterbearbeiten und PDF zum Lesen oder Ausdrucken.
+
+Für einen späteren Import nimm Markdown. Darin stehen neben dem Text auch Schlagwörter und verknüpfte Bibelstellen. Beim erneuten Import entsteht eine neue private Kopie.

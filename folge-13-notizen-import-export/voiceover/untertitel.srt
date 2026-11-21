@@ -1,0 +1,57 @@
+1
+00:00:01,530 --> 00:00:04,680
+Du hast eine Notiz in Word oder Markdown
+geschrieben?
+
+2
+00:00:04,680 --> 00:00:08,910
+Öffne in Akribos die Notizbibliothek und
+wähle „Importieren“.
+
+3
+00:00:08,910 --> 00:00:12,960
+Wähle deine Datei und klicke auf
+„Importvorschau erstellen“.
+
+4
+00:00:12,960 --> 00:00:16,950
+Hier prüfst du den Titel, den Text und die
+erkannten Bibelstellen.
+
+5
+00:00:16,950 --> 00:00:19,920
+Lies auch die Hinweise zu ausgelassenen
+Inhalten.
+
+6
+00:00:19,920 --> 00:00:24,150
+Erst mit „Als privates Dokument
+importieren“ landet die Notiz in deiner
+
+7
+00:00:24,150 --> 00:00:25,350
+Bibliothek.
+
+8
+00:00:25,350 --> 00:00:30,060
+Öffne die gespeicherte Notiz. Unter
+„Exportieren“ findest du Word zum
+
+9
+00:00:30,060 --> 00:00:33,600
+Weiterbearbeiten und PDF zum Lesen oder
+Ausdrucken.
+
+10
+00:00:33,600 --> 00:00:36,090
+Für einen späteren Import nimm Markdown.
+
+11
+00:00:36,090 --> 00:00:40,080
+Darin stehen neben dem Text auch
+Schlagwörter und verknüpfte Bibelstellen.
+
+12
+00:00:40,080 --> 00:00:43,310
+Beim erneuten Import entsteht eine neue
+private Kopie.
