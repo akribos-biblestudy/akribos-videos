@@ -16,7 +16,8 @@
       "point": [
         842,
         1448
-      ]
+      ],
+      "cue": "ihren Titel"
     },
     {
       "title": "Den Einsatz planen",
@@ -31,11 +32,12 @@
       "point": [
         2349,
         871
-      ]
+      ],
+      "cue": "Arbeitsstand speichern"
     },
     {
       "title": "Eine Sammlung verknüpfen",
-      "text": "Unter „Stellensammlungen“ wählst du die passende Sammlung und verknüpfst sie. Ihre Bibelstellen bleiben so beim Schreiben griffbereit.",
+      "text": "Du kannst auch eine Stellensammlung mit der Ausarbeitung verknüpfen. Über ihren Titel öffnest du die gesammelten Bibelstellen direkt beim Schreiben.",
       "image": "screenshots/03-verknuepfte-sammlung.png",
       "focus": [
         1820,
@@ -46,7 +48,8 @@
       "point": [
         2042,
         1341
-      ]
+      ],
+      "cue": "ihren Titel"
     },
     {
       "title": "Material dazulegen",
@@ -61,7 +64,8 @@
       "point": [
         2094,
         1083
-      ]
+      ],
+      "cue": "Dateien hinzufügen"
     },
     {
       "title": "Einen Termin dokumentieren",

@@ -4,7 +4,7 @@ Die fünf PNG-Dateien dieser Folge stammen aus einer lokal betriebenen Akribos-W
 
 ## Aufnahme wiederholen
 
-Bibel und Kommentar müssen die gezeigten Kapitel enthalten. Die Schlussansicht hat zwei unabhängige Lesestellen: Johannes 4,1 in der Bibel, Johannes 3,16 im Kommentar. Ein Login ist für diese Folge entbehrlich.
+Bibel und Kommentar müssen die gezeigten Kapitel enthalten. In der Szenendatei stehen die gesprochenen Stichwörter für die Markierungen am Buchstaben, an Gruppe A und an „Keine“. Die Schlussansicht hat zwei unabhängige Lesestellen: Johannes 4,1 in der Bibel, Johannes 3,16 im Kommentar. Ein Login ist für diese Folge entbehrlich.
 
 Benötigte Werke: ELB1905 und GERKINGCOMMENTS.
 

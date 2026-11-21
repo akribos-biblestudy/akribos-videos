@@ -1,52 +1,58 @@
 1
-00:00:01,500 --> 00:00:05,910
-Welche Vorbereitung ist schon fertig, und
-wo fehlt noch die Gliederung?
+00:00:01,530 --> 00:00:04,380
+Du möchtest Predigten und Hauskreise
+vorbereiten?
 
 2
-00:00:05,910 --> 00:00:10,650
-Unter „Notizen und Ausarbeitungen“ öffnest
-du „Ausarbeitungen“.
+00:00:04,380 --> 00:00:06,510
+Klicke oben rechts auf deinen Namen.
 
 3
-00:00:10,650 --> 00:00:13,050
-Das Board zeigt deinen Arbeitsstand.
+00:00:06,510 --> 00:00:09,300
+Wähle „Notizen und Ausarbeitungen“.
 
 4
-00:00:13,050 --> 00:00:16,110
-Oben gibst du deiner neuen Ausarbeitung
-einen Titel.
+00:00:09,300 --> 00:00:12,630
+Über den Reiter „Ausarbeitungen“ öffnest du
+das Board.
 
 5
-00:00:16,110 --> 00:00:20,280
-Wähle Format und Vorlage aus und klicke auf
-„Erstellen“.
+00:00:12,630 --> 00:00:15,210
+Jede Karte steht für eine Vorbereitung.
 
 6
-00:00:20,280 --> 00:00:23,880
-Zurück auf dem Board steht die neue Karte
-in der ersten Spalte.
+00:00:15,210 --> 00:00:17,910
+An der Spalte siehst du, wo du gerade
+stehst.
 
 7
-00:00:23,880 --> 00:00:28,500
-Ziehe sie von „Idee“ nach „Recherche“,
-sobald du Material sammelst.
+00:00:17,910 --> 00:00:22,920
+Sobald du Material sammelst, ziehst du die
+Karte von „Idee“ nach „Recherche“.
 
 8
-00:00:28,500 --> 00:00:30,780
-Bereitest du mehrere Hauskreise vor?
+00:00:22,920 --> 00:00:27,270
+Über dem Board kannst du nach Format
+filtern, zum Beispiel nach Hauskreisen.
 
 9
-00:00:30,780 --> 00:00:36,000
-Wähle über dem Board das Format oder eine
-Reihe und bestätige mit „Filtern“.
+00:00:27,270 --> 00:00:30,480
+Möchtest du nur die Vorbereitungen einer
+bestimmten Reihe sehen?
 
 10
-00:00:36,000 --> 00:00:38,700
-Jetzt siehst du nur die passenden
-Vorbereitungen.
+00:00:30,480 --> 00:00:32,670
+Wähle hier „Johannes entdecken“.
 
 11
-00:00:38,700 --> 00:00:41,630
-Über den Titel der Karte öffnest du deinen
-Text wieder.
+00:00:32,670 --> 00:00:35,160
+Bestätige die Auswahl mit „Filtern“.
+
+12
+00:00:35,160 --> 00:00:37,560
+Jetzt siehst du nur die passenden Karten.
+
+13
+00:00:37,560 --> 00:00:40,830
+Über den Titel öffnest du die Ausarbeitung
+und schreibst weiter.

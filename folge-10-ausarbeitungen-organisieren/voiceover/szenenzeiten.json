@@ -1,15 +1,100 @@
 {
   "fps": 30,
   "voiceOffset": 1.47,
-  "recordingDuration": 40.16,
+  "recordingDuration": 39.36,
   "sceneStartFrames": [
     41,
-    389,
-    606,
-    852,
-    1077
+    191,
+    274,
+    374,
+    533,
+    683,
+    814,
+    976,
+    1050
   ],
-  "closingFrame": 1253,
-  "totalFrames": 1302,
-  "alignment": 0.99
+  "closingFrame": 1231,
+  "totalFrames": 1280,
+  "alignment": 0.996,
+  "visualCues": [
+    {
+      "scene": 1,
+      "cue": "deinen Namen",
+      "anchor": "deinen",
+      "audioSeconds": 4.02,
+      "frame": 165,
+      "nearestRecognized": [
+        "rechts",
+        "auf",
+        "deinen",
+        "namen"
+      ]
+    },
+    {
+      "scene": 2,
+      "cue": "Notizen und Ausarbeitungen",
+      "anchor": "notizen",
+      "audioSeconds": 5.58,
+      "frame": 212,
+      "nearestRecognized": [
+        "wähle",
+        "notizen"
+      ]
+    },
+    {
+      "scene": 3,
+      "cue": "Ausarbeitungen",
+      "anchor": "ausarbeitungen",
+      "audioSeconds": 8.64,
+      "frame": 303,
+      "nearestRecognized": [
+        "reiter",
+        "ausarbeitungen"
+      ]
+    },
+    {
+      "scene": 6,
+      "cue": "Format",
+      "anchor": "format",
+      "audioSeconds": 22.77,
+      "frame": 727,
+      "nearestRecognized": [
+        "nach",
+        "format"
+      ]
+    },
+    {
+      "scene": 7,
+      "cue": "Johannes entdecken",
+      "anchor": "johannes",
+      "audioSeconds": 29.76,
+      "frame": 937,
+      "nearestRecognized": [
+        "hier",
+        "johannes"
+      ]
+    },
+    {
+      "scene": 8,
+      "cue": "Filtern",
+      "anchor": "filtern",
+      "audioSeconds": 32.64,
+      "frame": 1023,
+      "nearestRecognized": [
+        "mit",
+        "filtern"
+      ]
+    },
+    {
+      "scene": 9,
+      "cue": "den Titel",
+      "anchor": "titel",
+      "audioSeconds": 36.48,
+      "frame": 1138,
+      "nearestRecognized": [
+        "den",
+        "titel"
+      ]
+    }
+  ]
 }

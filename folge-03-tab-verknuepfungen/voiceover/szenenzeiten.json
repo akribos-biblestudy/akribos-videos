@@ -4,12 +4,47 @@
   "recordingDuration": 40.16,
   "sceneStartFrames": [
     41,
-    347,
-    541,
-    805,
-    980
+    345,
+    539,
+    804,
+    978
   ],
-  "closingFrame": 1253,
-  "totalFrames": 1302,
-  "alignment": 0.981
+  "closingFrame": 1255,
+  "totalFrames": 1304,
+  "alignment": 0.981,
+  "visualCues": [
+    {
+      "scene": 1,
+      "cue": "ein Buchstabe",
+      "anchor": "buchstabe",
+      "audioSeconds": 9.067,
+      "frame": 316,
+      "nearestRecognized": [
+        "ein",
+        "buchstabe"
+      ]
+    },
+    {
+      "scene": 2,
+      "cue": "die Gruppe A",
+      "anchor": "gruppe",
+      "audioSeconds": 13.62,
+      "frame": 453,
+      "nearestRecognized": [
+        "die",
+        "gruppe"
+      ]
+    },
+    {
+      "scene": 4,
+      "cue": "„Keine“",
+      "anchor": "keine",
+      "audioSeconds": 30.33,
+      "frame": 954,
+      "nearestRecognized": [
+        "wähle",
+        "keine"
+      ]
+    }
+  ]
 }

@@ -16,7 +16,8 @@
       "point": [
         1089,
         259
-      ]
+      ],
+      "cue": "ein Buchstabe"
     },
     {
       "title": "Gruppe A auswählen",
@@ -31,7 +32,8 @@
       "point": [
         1106,
         393
-      ]
+      ],
+      "cue": "die Gruppe A"
     },
     {
       "title": "Die Stelle gemeinsam wechseln",
@@ -57,7 +59,8 @@
       "point": [
         2390,
         393
-      ]
+      ],
+      "cue": "„Keine“"
     },
     {
       "title": "Unabhängig weiterlesen",
@@ -68,10 +71,6 @@
         0,
         2480,
         1120
-      ],
-      "point": [
-        2302,
-        259
       ]
     }
   ]

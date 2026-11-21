@@ -1,15 +1,62 @@
 {
   "fps": 30,
   "voiceOffset": 1.47,
-  "recordingDuration": 43.44,
+  "recordingDuration": 43.76,
   "sceneStartFrames": [
     41,
-    303,
-    558,
-    780,
-    1036
+    302,
+    562,
+    785,
+    1040
   ],
-  "closingFrame": 1351,
-  "totalFrames": 1400,
-  "alignment": 0.931
+  "closingFrame": 1363,
+  "totalFrames": 1412,
+  "alignment": 0.933,
+  "visualCues": [
+    {
+      "scene": 1,
+      "cue": "ihren Titel",
+      "anchor": "ihren",
+      "audioSeconds": 7.08,
+      "frame": 256,
+      "nearestRecognized": [
+        "über",
+        "ihren",
+        "titel"
+      ]
+    },
+    {
+      "scene": 2,
+      "cue": "Arbeitsstand speichern",
+      "anchor": "arbeitsstand",
+      "audioSeconds": 15.72,
+      "frame": 516,
+      "nearestRecognized": [
+        "ausarbeitung"
+      ]
+    },
+    {
+      "scene": 3,
+      "cue": "ihren Titel",
+      "anchor": "ihren",
+      "audioSeconds": 20.94,
+      "frame": 672,
+      "nearestRecognized": [
+        "über",
+        "ihren",
+        "titel"
+      ]
+    },
+    {
+      "scene": 4,
+      "cue": "Dateien hinzufügen",
+      "anchor": "dateien",
+      "audioSeconds": 26.97,
+      "frame": 853,
+      "nearestRecognized": [
+        "über",
+        "dateien"
+      ]
+    }
+  ]
 }

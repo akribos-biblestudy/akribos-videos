@@ -8,12 +8,12 @@ Bibelvers?
 Öffne Bibel und Kommentar nebeneinander.
 
 3
-00:00:07,290 --> 00:00:11,670
+00:00:07,290 --> 00:00:11,640
 Unter jedem Tabnamen steht rechts neben dem
 Stellenfeld ein Buchstabe.
 
 4
-00:00:11,670 --> 00:00:16,290
+00:00:11,640 --> 00:00:16,290
 Klicke auf den Buchstaben und wähle im Menü
 für beide Tabs die Gruppe A.
 

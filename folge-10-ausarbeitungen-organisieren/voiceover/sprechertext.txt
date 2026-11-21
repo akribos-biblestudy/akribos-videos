@@ -1,9 +1,17 @@
-Welche Vorbereitung ist schon fertig, und wo fehlt noch die Gliederung? Unter „Notizen und Ausarbeitungen“ öffnest du „Ausarbeitungen“. Das Board zeigt deinen Arbeitsstand.
+Du möchtest Predigten und Hauskreise vorbereiten? Klicke oben rechts auf deinen Namen.
 
-Oben gibst du deiner neuen Ausarbeitung einen Titel. Wähle Format und Vorlage aus und klicke auf „Erstellen“.
+Wähle „Notizen und Ausarbeitungen“.
 
-Zurück auf dem Board steht die neue Karte in der ersten Spalte. Ziehe sie von „Idee“ nach „Recherche“, sobald du Material sammelst.
+Über den Reiter „Ausarbeitungen“ öffnest du das Board.
 
-Bereitest du mehrere Hauskreise vor? Wähle über dem Board das Format oder eine Reihe und bestätige mit „Filtern“.
+Jede Karte steht für eine Vorbereitung. An der Spalte siehst du, wo du gerade stehst.
 
-Jetzt siehst du nur die passenden Vorbereitungen. Über den Titel der Karte öffnest du deinen Text wieder.
+Sobald du Material sammelst, ziehst du die Karte von „Idee“ nach „Recherche“.
+
+Über dem Board kannst du nach Format filtern, zum Beispiel nach Hauskreisen.
+
+Möchtest du nur die Vorbereitungen einer bestimmten Reihe sehen? Wähle hier „Johannes entdecken“.
+
+Bestätige die Auswahl mit „Filtern“.
+
+Jetzt siehst du nur die passenden Karten. Über den Titel öffnest du die Ausarbeitung und schreibst weiter.

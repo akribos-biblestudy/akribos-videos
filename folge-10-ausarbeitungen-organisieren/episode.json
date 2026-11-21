@@ -4,74 +4,137 @@
   "slug": "ausarbeitungen-organisieren",
   "scenes": [
     {
-      "title": "Das Board öffnen",
-      "text": "Welche Vorbereitung ist schon fertig, und wo fehlt noch die Gliederung? Unter „Notizen und Ausarbeitungen“ öffnest du „Ausarbeitungen“. Das Board zeigt deinen Arbeitsstand.",
-      "image": "screenshots/01-vorbereitung.png",
+      "image": "screenshots/konto-oeffnen.png",
+      "title": "Das Kontomenü öffnen",
+      "text": "Du möchtest Predigten und Hauskreise vorbereiten? Klicke oben rechts auf deinen Namen.",
+      "cue": "deinen Namen",
       "focus": [
-        24,
-        760,
-        1980,
-        935
-      ]
-    },
-    {
-      "title": "Eine Karte anlegen",
-      "text": "Oben gibst du deiner neuen Ausarbeitung einen Titel. Wähle Format und Vorlage aus und klicke auf „Erstellen“.",
-      "image": "screenshots/02-ausarbeitung-erstellen.png",
-      "focus": [
-        25,
-        698,
-        1820,
-        785
+        1320,
+        0,
+        1040,
+        450
       ],
       "point": [
-        511,
-        1364
+        2163,
+        54
       ]
     },
     {
-      "title": "Den Fortschritt sichtbar machen",
-      "text": "Zurück auf dem Board steht die neue Karte in der ersten Spalte. Ziehe sie von „Idee“ nach „Recherche“, sobald du Material sammelst.",
+      "image": "screenshots/dokumente-oeffnen.png",
+      "title": "Die Dokumente öffnen",
+      "text": "Wähle „Notizen und Ausarbeitungen“.",
+      "cue": "Notizen und Ausarbeitungen",
+      "focus": [
+        1480,
+        0,
+        880,
+        532
+      ],
+      "point": [
+        2088,
+        146
+      ]
+    },
+    {
+      "image": "screenshots/ausarbeitungen-oeffnen.png",
+      "title": "Das Board aufrufen",
+      "text": "Über den Reiter „Ausarbeitungen“ öffnest du das Board.",
+      "cue": "Ausarbeitungen",
+      "focus": [
+        0,
+        226,
+        1280,
+        520
+      ],
+      "point": [
+        626,
+        522
+      ]
+    },
+    {
+      "title": "Den Arbeitsstand überblicken",
+      "text": "Jede Karte steht für eine Vorbereitung. An der Spalte siehst du, wo du gerade stehst.",
+      "image": "screenshots/01-vorbereitung.png",
+      "focus": [
+        0,
+        510,
+        1820,
+        720
+      ]
+    },
+    {
+      "title": "Eine Karte verschieben",
+      "text": "Sobald du Material sammelst, ziehst du die Karte von „Idee“ nach „Recherche“.",
       "image": "screenshots/03-karte-verschoben.png",
       "focus": [
         105,
-        780,
+        591,
         1190,
-        705
-      ],
-      "point": [
-        842,
-        1050
+        534
       ]
     },
     {
-      "title": "Die Reihe eingrenzen",
-      "text": "Bereitest du mehrere Hauskreise vor? Wähle über dem Board das Format oder eine Reihe und bestätige mit „Filtern“.",
+      "image": "screenshots/format.png",
+      "title": "Nach Format auswählen",
+      "text": "Über dem Board kannst du nach Format filtern, zum Beispiel nach Hauskreisen.",
+      "cue": "Format",
+      "focus": [
+        28,
+        136,
+        910,
+        204
+      ],
+      "point": [
+        483,
+        238
+      ]
+    },
+    {
+      "image": "screenshots/reihe.png",
+      "title": "Eine Reihe wählen",
+      "text": "Möchtest du nur die Vorbereitungen einer bestimmten Reihe sehen? Wähle hier „Johannes entdecken“.",
+      "cue": "Johannes entdecken",
+      "focus": [
+        913,
+        136,
+        910,
+        204
+      ],
+      "point": [
+        1368,
+        238
+      ]
+    },
+    {
+      "title": "Die Filter anwenden",
+      "text": "Bestätige die Auswahl mit „Filtern“.",
       "image": "screenshots/04-filtern.png",
       "focus": [
-        8,
-        1170,
-        1870,
-        420
+        0,
+        170,
+        1876,
+        232
       ],
+      "cue": "Filtern",
       "point": [
-        1383,
-        1560
+        1368,
+        334
       ]
     },
     {
-      "title": "An einer Karte weiterarbeiten",
-      "text": "Jetzt siehst du nur die passenden Vorbereitungen. Über den Titel der Karte öffnest du deinen Text wieder.",
+      "title": "Am Text weiterarbeiten",
+      "text": "Jetzt siehst du nur die passenden Karten. Über den Titel öffnest du die Ausarbeitung und schreibst weiter.",
       "image": "screenshots/05-passende-ausarbeitung.png",
       "focus": [
-        452,
-        1185,
-        790,
-        550
+        426,
+        589,
+        832,
+        500
       ],
+      "cue": "den Titel",
       "point": [
         842,
-        1448
+        740
       ]
     }
   ]

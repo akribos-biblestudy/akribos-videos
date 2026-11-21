@@ -2,19 +2,19 @@
 
 [Film ansehen](folge-11.mp4) · [Animation in EffectCraft](folge-11.ecproj) · [Schnitt in FilmCraft](folge-11.fcproj)
 
-46,7 Sekunden · 1920 × 1080 · 30 Bilder pro Sekunde
+47,1 Sekunden · 1920 × 1080 · 30 Bilder pro Sekunde
 
 | Bildzeit | Gezeigter Schritt |
 | --- | --- |
 | 0:01,4 | Die Vorbereitung öffnen |
 | 0:10,1 | Den Einsatz planen |
-| 0:18,6 | Eine Sammlung verknüpfen |
-| 0:26,0 | Material dazulegen |
-| 0:34,5 | Einen Termin dokumentieren |
+| 0:18,7 | Eine Sammlung verknüpfen |
+| 0:26,2 | Material dazulegen |
+| 0:34,7 | Einen Termin dokumentieren |
 
 ## Bearbeiten und exportieren
 
-Öffne in EffectCraft die Komposition mit dem Namen des Schritts. Der Titel, die Aufnahme, die Vergrößerung und ein gegebenenfalls eingeblendeter Klickring sind einzeln bearbeitbar. Die Zeitmarken in der Hauptkomposition zeigen die Szenenfolge. In der **Render Queue** trägt jede Ausgabe den Namen ihrer Szene. Rendere geänderte Szenen wieder auf das eingestellte Ziel unter `media/`.
+Öffne in EffectCraft die Komposition mit dem Namen des Schritts. Der Titel, die Aufnahme, die Vergrößerung und ein gegebenenfalls eingeblendeter Klickring sind einzeln bearbeitbar. Die Bildnummer für jede Markierung steht zusammen mit dem gesprochenen Stichwort unter `visualCues` in den Szenenzeiten. Die Zeitmarken in der Hauptkomposition zeigen die Szenenfolge. In der **Render Queue** trägt jede Ausgabe den Namen ihrer Szene. Rendere geänderte Szenen wieder auf das eingestellte Ziel unter `media/`.
 
 Öffne das [FilmCraft-Projekt](folge-11.fcproj) und wähle **File → Export → Media…**. Verwende H.264, **Match Source – Adaptive High Bitrate**, **VBR, 1 pass**, Ziel **20 Mbit/s**, Maximum **30 Mbit/s** und **Range → Entire Source**. Lass GPU Rendering ausgeschaltet. Der Mix verwendet AAC Stereo, 48 kHz und 320 kbit/s. Diese Werte stehen auch bei der Sequenz unter **Window → Metadata**.
 
