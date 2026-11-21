@@ -1,0 +1,9 @@
+Wie bleibt der Kommentar beim richtigen Bibelvers? Öffne Bibel und Kommentar nebeneinander. Unter jedem Tabnamen steht rechts neben dem Stellenfeld ein Buchstabe.
+
+Klicke auf den Buchstaben und wähle im Menü für beide Tabs die Gruppe A. Jetzt gehören sie zusammen.
+
+Gib in der Bibel Johannes drei, Vers sechzehn ein. Der Kommentar folgt an dieselbe Stelle. Auch beim Weiterlesen bleiben die beiden verbunden.
+
+Soll der Kommentar bei Johannes bleiben? Öffne seine Tabgruppe noch einmal und wähle „Keine“.
+
+Wechsle in der Bibel zu Johannes vier. Der Kommentar bleibt bei Kapitel drei. Für eine zweite verbundene Gruppe nimmst du einfach einen anderen Buchstaben.

@@ -1,0 +1,78 @@
+{
+  "number": 9,
+  "title": "Notizen mit dem Bibeltext verknüpfen",
+  "slug": "notizen-am-bibeltext",
+  "scenes": [
+    {
+      "title": "Vom Vers ausgehen",
+      "text": "Was möchtest du beim nächsten Lesen sofort wiedersehen? Klicke auf die Versnummer und öffne die Notizen zu dieser Stelle.",
+      "image": "screenshots/01-versnotizen.png",
+      "focus": [
+        1000,
+        600,
+        810,
+        510
+      ],
+      "point": [
+        1407,
+        948
+      ]
+    },
+    {
+      "title": "Den Bezug wählen",
+      "text": "Der Notizbereich zeigt die aktuelle Stelle. Geht es um den Gedanken des Verses, wähle „Kanonisch“. Geht es um einen besonderen Wortlaut, wähle die Übersetzung.",
+      "image": "screenshots/02-uebersetzungsbezug.png",
+      "focus": [
+        1722,
+        212,
+        906,
+        699
+      ],
+      "point": [
+        2195,
+        683
+      ]
+    },
+    {
+      "title": "Am Bibeltext schreiben",
+      "text": "Lege die Notiz an, gib ihr einen Titel und schreibe deine Beobachtung. Der Bibeltext bleibt daneben sichtbar.",
+      "image": "screenshots/03-beobachtung.png",
+      "focus": [
+        1370,
+        80,
+        1240,
+        980
+      ]
+    },
+    {
+      "title": "Eine zweite Stelle verknüpfen",
+      "text": "Öffne den vollständigen Editor. Unter „Bibelstellen“ gibst du eine weitere Referenz ein und klickst auf „Bibelstelle hinzufügen“.",
+      "image": "screenshots/04-weitere-bibelstelle.png",
+      "focus": [
+        1800,
+        1060,
+        806,
+        654
+      ],
+      "point": [
+        2102,
+        1590
+      ]
+    },
+    {
+      "title": "Die Notiz wiederfinden",
+      "text": "Öffnest du später die Notizen an einer verknüpften Stelle, erscheint derselbe Titel. Ein Klick genügt, um an deinem Text weiterzuschreiben.",
+      "image": "screenshots/05-verknuepfte-notiz.png",
+      "focus": [
+        1660,
+        13,
+        970,
+        555
+      ],
+      "point": [
+        2199,
+        315
+      ]
+    }
+  ]
+}

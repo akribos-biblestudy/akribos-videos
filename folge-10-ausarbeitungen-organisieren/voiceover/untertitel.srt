@@ -1,0 +1,52 @@
+1
+00:00:01,500 --> 00:00:05,910
+Welche Vorbereitung ist schon fertig, und
+wo fehlt noch die Gliederung?
+
+2
+00:00:05,910 --> 00:00:10,650
+Unter „Notizen und Ausarbeitungen“ öffnest
+du „Ausarbeitungen“.
+
+3
+00:00:10,650 --> 00:00:13,050
+Das Board zeigt deinen Arbeitsstand.
+
+4
+00:00:13,050 --> 00:00:16,110
+Oben gibst du deiner neuen Ausarbeitung
+einen Titel.
+
+5
+00:00:16,110 --> 00:00:20,280
+Wähle Format und Vorlage aus und klicke auf
+„Erstellen“.
+
+6
+00:00:20,280 --> 00:00:23,880
+Zurück auf dem Board steht die neue Karte
+in der ersten Spalte.
+
+7
+00:00:23,880 --> 00:00:28,500
+Ziehe sie von „Idee“ nach „Recherche“,
+sobald du Material sammelst.
+
+8
+00:00:28,500 --> 00:00:30,780
+Bereitest du mehrere Hauskreise vor?
+
+9
+00:00:30,780 --> 00:00:36,000
+Wähle über dem Board das Format oder eine
+Reihe und bestätige mit „Filtern“.
+
+10
+00:00:36,000 --> 00:00:38,700
+Jetzt siehst du nur die passenden
+Vorbereitungen.
+
+11
+00:00:38,700 --> 00:00:41,630
+Über den Titel der Karte öffnest du deinen
+Text wieder.

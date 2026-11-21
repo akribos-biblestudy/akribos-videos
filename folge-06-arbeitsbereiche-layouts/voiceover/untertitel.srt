@@ -1,0 +1,61 @@
+1
+00:00:01,530 --> 00:00:04,500
+Wie behältst du deine Studienansicht für
+morgen?
+
+2
+00:00:04,500 --> 00:00:06,840
+Öffne im Reader die Kachelanordnung.
+
+3
+00:00:06,840 --> 00:00:11,370
+Für Bibel, Kommentar und Lexikon wähle
+„Drei Spalten“.
+
+4
+00:00:11,370 --> 00:00:14,910
+Über das Plus einer Kachel fügst du dort
+ein Werk hinzu.
+
+5
+00:00:14,910 --> 00:00:18,990
+Ziehe den Trenner zur Seite, wenn der
+Bibeltext mehr Platz bekommen soll.
+
+6
+00:00:18,990 --> 00:00:23,970
+Öffne oben „Arbeitsbereiche“. Angemeldet
+kannst du „Neuer Arbeitsbereich“
+
+7
+00:00:23,970 --> 00:00:27,660
+wählen. Er übernimmt die Zusammenstellung,
+die du gerade siehst.
+
+8
+00:00:27,660 --> 00:00:32,070
+Nenne ihn zum Beispiel „Johannes studieren“
+und klicke auf „Anlegen“.
+
+9
+00:00:32,070 --> 00:00:36,150
+Deine offenen Tabs, ihre Lesestellen und
+die Anordnung werden für diesen
+
+10
+00:00:36,150 --> 00:00:37,800
+Arbeitsbereich gespeichert.
+
+11
+00:00:37,800 --> 00:00:41,010
+Später wählst du im Menü wieder „Johannes
+studieren“.
+
+12
+00:00:41,010 --> 00:00:44,610
+So kehrst du zu deiner Ansicht zurück, auch
+wenn du zwischendurch in einem
+
+13
+00:00:44,610 --> 00:00:46,510
+anderen Arbeitsbereich gelesen hast.

@@ -1,0 +1,58 @@
+1
+00:00:01,500 --> 00:00:04,590
+Wie bleibt der Kommentar beim richtigen
+Bibelvers?
+
+2
+00:00:04,590 --> 00:00:07,290
+Öffne Bibel und Kommentar nebeneinander.
+
+3
+00:00:07,290 --> 00:00:11,670
+Unter jedem Tabnamen steht rechts neben dem
+Stellenfeld ein Buchstabe.
+
+4
+00:00:11,670 --> 00:00:16,290
+Klicke auf den Buchstaben und wähle im Menü
+für beide Tabs die Gruppe A.
+
+5
+00:00:16,290 --> 00:00:18,120
+Jetzt gehören sie zusammen.
+
+6
+00:00:18,120 --> 00:00:21,630
+Gib in der Bibel Johannes drei, Vers
+sechzehn ein.
+
+7
+00:00:21,630 --> 00:00:24,030
+Der Kommentar folgt an dieselbe Stelle.
+
+8
+00:00:24,030 --> 00:00:26,940
+Auch beim Weiterlesen bleiben die beiden
+verbunden.
+
+9
+00:00:26,940 --> 00:00:29,280
+Soll der Kommentar bei Johannes bleiben?
+
+10
+00:00:29,280 --> 00:00:32,760
+Öffne seine Tabgruppe noch einmal und wähle
+„Keine“.
+
+11
+00:00:32,760 --> 00:00:35,220
+Wechsle in der Bibel zu Johannes vier.
+
+12
+00:00:35,220 --> 00:00:37,740
+Der Kommentar bleibt bei Kapitel drei.
+
+13
+00:00:37,740 --> 00:00:41,630
+Für eine zweite verbundene Gruppe nimmst du
+einfach einen anderen Buchstaben.

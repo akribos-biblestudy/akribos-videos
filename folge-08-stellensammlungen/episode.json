@@ -1,0 +1,78 @@
+{
+  "number": 8,
+  "title": "Bibelstellen zu einem Thema sammeln",
+  "slug": "stellensammlungen",
+  "scenes": [
+    {
+      "title": "Eine Sammlung beginnen",
+      "text": "Für den Hauskreis willst du mehrere Stellen über Licht und Leben vergleichen. Öffne „Notizen und Ausarbeitungen“ und gehe zu „Stellensammlungen“.",
+      "image": "screenshots/01-dokumentbereich.png",
+      "focus": [
+        20,
+        165,
+        1230,
+        530
+      ],
+      "point": [
+        1007,
+        522
+      ]
+    },
+    {
+      "title": "Das Thema benennen",
+      "text": "Trage einen Titel ein und klicke auf „Neue Stellensammlung“. Nun hat dein Thema einen eigenen Platz.",
+      "image": "screenshots/02-neue-sammlung.png",
+      "focus": [
+        45,
+        405,
+        2040,
+        670
+      ],
+      "point": [
+        1857,
+        708
+      ]
+    },
+    {
+      "title": "Einen Abschnitt aufnehmen",
+      "text": "Gib auf der Sammlungsseite Johannes eins, Vers vier bis fünf ein. Mit „Zur Stellensammlung hinzufügen“ erhält jeder Vers einen eigenen Eintrag.",
+      "image": "screenshots/03-versbereich.png",
+      "focus": [
+        125,
+        290,
+        1520,
+        970
+      ],
+      "point": [
+        1313,
+        454
+      ]
+    },
+    {
+      "title": "Beim Lesen ergänzen",
+      "text": "Du findest beim Weiterlesen einen passenden Vers? Klicke auf seine Versnummer und wähle im Menü die bestehende Sammlung.",
+      "image": "screenshots/04-sammlung-im-versmenue.png",
+      "focus": [
+        1644,
+        738,
+        772,
+        526
+      ],
+      "point": [
+        2042,
+        1084
+      ]
+    },
+    {
+      "title": "Gedanken am Vers festhalten",
+      "text": "In der Sammlung kannst du unter „Kommentar hinzufügen“ eine Beobachtung festhalten. Speichere sie direkt am Vers. Über die Stellenangabe springst du wieder zum Bibeltext.",
+      "image": "screenshots/05-kommentar-am-vers.png",
+      "focus": [
+        537,
+        823,
+        1520,
+        652
+      ]
+    }
+  ]
+}

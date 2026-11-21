@@ -1,0 +1,55 @@
+1
+00:00:01,500 --> 00:00:04,830
+Was möchtest du beim nächsten Lesen sofort
+wiedersehen?
+
+2
+00:00:04,830 --> 00:00:08,700
+Klicke auf die Versnummer und öffne die
+Notizen zu dieser Stelle.
+
+3
+00:00:08,700 --> 00:00:11,430
+Der Notizbereich zeigt die aktuelle Stelle.
+
+4
+00:00:11,430 --> 00:00:15,090
+Geht es um den Gedanken des Verses, wähle
+„Kanonisch“.
+
+5
+00:00:15,090 --> 00:00:18,750
+Geht es um einen besonderen Wortlaut, wähle
+die Übersetzung.
+
+6
+00:00:18,750 --> 00:00:23,220
+Lege die Notiz an, gib ihr einen Titel und
+schreibe deine Beobachtung.
+
+7
+00:00:23,220 --> 00:00:25,770
+Der Bibeltext bleibt daneben sichtbar.
+
+8
+00:00:25,770 --> 00:00:27,900
+Öffne den vollständigen Editor.
+
+9
+00:00:27,900 --> 00:00:32,100
+Unter „Bibelstellen“ gibst du eine weitere
+Referenz ein und klickst auf
+
+10
+00:00:32,100 --> 00:00:33,840
+„Bibelstelle hinzufügen“.
+
+11
+00:00:33,840 --> 00:00:37,620
+Öffnest du später die Notizen an einer
+verknüpften Stelle, erscheint derselbe
+
+12
+00:00:37,620 --> 00:00:41,230
+Titel. Ein Klick genügt, um an deinem Text
+weiterzuschreiben.

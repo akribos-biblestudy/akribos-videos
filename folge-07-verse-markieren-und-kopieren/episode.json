@@ -1,0 +1,78 @@
+{
+  "number": 7,
+  "title": "Verse markieren und kopieren",
+  "slug": "verse-markieren-und-kopieren",
+  "scenes": [
+    {
+      "title": "Das Versmenü öffnen",
+      "text": "Du möchtest einen Vers zitieren und ihn beim nächsten Lesen schnell wiederfinden? Klicke im Bibeltext auf seine kleine Versnummer.",
+      "image": "screenshots/01-versnummer.png",
+      "focus": [
+        210,
+        220,
+        1240,
+        610
+      ],
+      "point": [
+        643,
+        368
+      ]
+    },
+    {
+      "title": "Wortlaut kopieren",
+      "text": "Mit „Vers kopieren“ landen der Wortlaut und die Stellenangabe zusammen in deiner Zwischenablage. So kannst du das Zitat gleich einfügen.",
+      "image": "screenshots/02-wortlaut.png",
+      "focus": [
+        550,
+        374,
+        800,
+        440
+      ],
+      "point": [
+        940,
+        574
+      ]
+    },
+    {
+      "title": "Einen Link weitergeben",
+      "text": "Möchtest du jemandem die Stelle zum Nachlesen schicken, wähle stattdessen „Link kopieren“.",
+      "image": "screenshots/03-stellenlink.png",
+      "focus": [
+        540,
+        432,
+        820,
+        420
+      ],
+      "point": [
+        940,
+        644
+      ]
+    },
+    {
+      "title": "Eine Farbe wählen",
+      "text": "Wenn du angemeldet bist, kannst du im selben Menü eine Farbe wählen. Jetzt ist der ganze Vers markiert.",
+      "image": "screenshots/04-gelb-markiert.png",
+      "focus": [
+        40,
+        230,
+        1660,
+        700
+      ]
+    },
+    {
+      "title": "Markierung wiederfinden",
+      "text": "Unter „Darstellung“ findest du deine Versmarkierungen. Über „Verse anzeigen“ siehst du alle Stellen einer Farbe. Klicke auf die Stellenangabe, um weiterzulesen.",
+      "image": "screenshots/05-markierte-verse.png",
+      "focus": [
+        92,
+        183,
+        1510,
+        700
+      ],
+      "point": [
+        267,
+        517
+      ]
+    }
+  ]
+}

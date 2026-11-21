@@ -1,0 +1,53 @@
+1
+00:00:01,530 --> 00:00:07,230
+Dein Hauskreistext steht. Wo bleiben
+Termin, Bibelstellen und Gesprächsfragen?
+
+2
+00:00:07,230 --> 00:00:10,200
+Öffne die Ausarbeitung über ihren Titel auf
+dem Board.
+
+3
+00:00:10,200 --> 00:00:14,310
+Unter „Arbeitsstand“ wählst du Format und
+Planungsstand.
+
+4
+00:00:14,310 --> 00:00:18,690
+Ergänze Termin und Reihe und bestätige mit
+„Arbeitsstand speichern“.
+
+5
+00:00:18,690 --> 00:00:22,980
+Unter „Stellensammlungen“ wählst du die
+passende Sammlung und verknüpfst sie.
+
+6
+00:00:22,980 --> 00:00:26,100
+Ihre Bibelstellen bleiben so beim Schreiben
+griffbereit.
+
+7
+00:00:26,100 --> 00:00:30,990
+Bei „Anlagen“ kannst du über „Dateien
+hinzufügen“ zum Beispiel ein Arbeitsblatt
+
+8
+00:00:30,990 --> 00:00:34,620
+ablegen. Über den Dateinamen lädst du es
+wieder herunter.
+
+9
+00:00:34,620 --> 00:00:39,270
+Nach dem Hauskreis trägst du unter „Bereits
+gehalten“ Datum und Ort ein.
+
+10
+00:00:39,270 --> 00:00:41,520
+Wähle „Durchführung hinzufügen“.
+
+11
+00:00:41,520 --> 00:00:44,910
+So siehst du auch später, wo du die
+Ausarbeitung eingesetzt hast.

@@ -1,0 +1,78 @@
+{
+  "number": 3,
+  "title": "Tabs miteinander verknüpfen",
+  "slug": "tab-verknuepfungen",
+  "scenes": [
+    {
+      "title": "Bibel und Kommentar öffnen",
+      "text": "Wie bleibt der Kommentar beim richtigen Bibelvers? Öffne Bibel und Kommentar nebeneinander. Unter jedem Tabnamen steht rechts neben dem Stellenfeld ein Buchstabe.",
+      "image": "screenshots/01-bibel-und-kommentar.png",
+      "focus": [
+        0,
+        0,
+        2480,
+        1094
+      ],
+      "point": [
+        1089,
+        259
+      ]
+    },
+    {
+      "title": "Gruppe A auswählen",
+      "text": "Klicke auf den Buchstaben und wähle im Menü für beide Tabs die Gruppe A. Jetzt gehören sie zusammen.",
+      "image": "screenshots/02-tabgruppe-a.png",
+      "focus": [
+        506,
+        56,
+        1200,
+        676
+      ],
+      "point": [
+        1106,
+        393
+      ]
+    },
+    {
+      "title": "Die Stelle gemeinsam wechseln",
+      "text": "Gib in der Bibel Johannes drei, Vers sechzehn ein. Der Kommentar folgt an dieselbe Stelle. Auch beim Weiterlesen bleiben die beiden verbunden.",
+      "image": "screenshots/03-beide-folgen.png",
+      "focus": [
+        0,
+        0,
+        2480,
+        1130
+      ]
+    },
+    {
+      "title": "Einen Tab lösen",
+      "text": "Soll der Kommentar bei Johannes bleiben? Öffne seine Tabgruppe noch einmal und wähle „Keine“.",
+      "image": "screenshots/04-tab-loesen.png",
+      "focus": [
+        1440,
+        84,
+        1040,
+        620
+      ],
+      "point": [
+        2390,
+        393
+      ]
+    },
+    {
+      "title": "Unabhängig weiterlesen",
+      "text": "Wechsle in der Bibel zu Johannes vier. Der Kommentar bleibt bei Kapitel drei. Für eine zweite verbundene Gruppe nimmst du einfach einen anderen Buchstaben.",
+      "image": "screenshots/05-unabhaengig.png",
+      "focus": [
+        0,
+        0,
+        2480,
+        1120
+      ],
+      "point": [
+        2302,
+        259
+      ]
+    }
+  ]
+}

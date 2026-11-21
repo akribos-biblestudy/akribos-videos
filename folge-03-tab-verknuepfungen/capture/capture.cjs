@@ -1,0 +1,27 @@
+const { capture, reader, nav, field, group } = require('../../folge-02-orientierung/capture/session.cjs')
+async function groups(p, take) {
+  await nav(p, reader('Joh3,1', ['ELB1905', 'GERKINGCOMMENTS']))
+  await take()
+  await group(p, 0).click()
+  const a = p.getByRole('menuitemradio', { name: 'A', exact: true })
+  await a.waitFor()
+  await take()
+  await a.click()
+  await field(p).fill('Joh 3,16')
+  await field(p).press('Enter')
+  await p.locator('[data-verse-key="43:3:16"].highlighted').first().waitFor()
+  await take()
+  await group(p, 1).click()
+  const none = p.getByRole('menuitemradio', { name: 'Keine' })
+  await none.waitFor()
+  await take()
+  await none.click()
+  await nav(p, reader('Joh4,1', ['ELB1905', 'GERKINGCOMMENTS'], ['A', '-'], ['Joh4,1', 'Joh3,16']))
+  await field(p).waitFor()
+  if (!/^Joh 4/.test(await field(p).inputValue())) throw Error('Bible did not reach John 4')
+  await take()
+}
+capture(__dirname, groups).catch((error) => {
+  console.error(error.message)
+  process.exitCode = 1
+})

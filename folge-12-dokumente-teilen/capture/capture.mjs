@@ -1,0 +1,27 @@
+import {readFile} from 'node:fs/promises';
+import {captureEpisode} from '../../scripts/capture-browser.mjs';
+const {sermon,privateNote,publishedNote,noteTitle} = JSON.parse(await readFile(new URL('targets.json',import.meta.url)));
+await captureEpisode(import.meta.url, {login:true}, async ({page,go,snap}) => {
+  await go(sermon);
+  const editor=page.getByTestId('document-editor'), saved=editor.getByText('Gespeichert',{exact:true});
+  await saved.waitFor();
+  await snap(1,[editor.locator('input').first(),saved],{size:[940,405],offset:[0,70]});
+  const menu=page.locator('details.export-menu');
+  await menu.locator('summary').click();
+  const pdf=menu.getByText('PDF',{exact:true});
+  await snap(2,menu.locator('div'),{size:[335,195],point:pdf});
+  await go(privateNote);
+  const controls=page.getByTestId('publication-controls');
+  const publish=controls.getByRole('button',{name:'Schnappschuss freigeben'});
+  await snap(3,controls,{size:[440,400],point:publish});
+  await go(publishedNote);
+  const link=controls.getByRole('link',{name:'Freigegebenen Link öffnen'});
+  await link.click(); await page.getByRole('heading',{name:noteTitle}).waitFor();
+  const title=page.getByRole('heading',{name:noteTitle});
+  await snap(4,title,{size:[825,360],offset:[0,93]});
+  await go(publishedNote);
+  const update=controls.getByRole('button',{name:'Freigabe aktualisieren'});
+  const revoke=controls.getByRole('button',{name:'Freigabe zurückziehen'});
+  await revoke.scrollIntoViewIfNeeded();
+  await snap(5,[update,revoke],{scroll:false,size:[480,205],point:revoke});
+});

@@ -1,0 +1,52 @@
+1
+00:00:01,530 --> 00:00:04,830
+Du möchtest einen Vers zitieren und ihn
+beim nächsten Lesen schnell
+
+2
+00:00:04,830 --> 00:00:08,670
+wiederfinden? Klicke im Bibeltext auf seine
+kleine Versnummer.
+
+3
+00:00:08,670 --> 00:00:13,230
+Mit „Vers kopieren“ landen der Wortlaut und
+die Stellenangabe zusammen in
+
+4
+00:00:13,230 --> 00:00:17,010
+deiner Zwischenablage. So kannst du das
+Zitat gleich einfügen.
+
+5
+00:00:17,010 --> 00:00:21,000
+Möchtest du jemandem die Stelle zum
+Nachlesen schicken, wähle stattdessen „Link
+
+6
+00:00:21,000 --> 00:00:22,050
+kopieren“.
+
+7
+00:00:22,050 --> 00:00:25,680
+Wenn du angemeldet bist, kannst du im
+selben Menü eine Farbe wählen.
+
+8
+00:00:25,680 --> 00:00:27,840
+Jetzt ist der ganze Vers markiert.
+
+9
+00:00:27,840 --> 00:00:31,050
+Unter „Darstellung“ findest du deine
+Versmarkierungen.
+
+10
+00:00:31,050 --> 00:00:34,830
+Über „Verse anzeigen“ siehst du alle
+Stellen einer Farbe.
+
+11
+00:00:34,830 --> 00:00:37,390
+Klicke auf die Stellenangabe, um
+weiterzulesen.

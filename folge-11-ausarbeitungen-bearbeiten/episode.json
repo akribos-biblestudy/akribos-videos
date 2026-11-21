@@ -1,0 +1,78 @@
+{
+  "number": 11,
+  "title": "Eine Ausarbeitung für den Einsatz vorbereiten",
+  "slug": "ausarbeitungen-bearbeiten",
+  "scenes": [
+    {
+      "title": "Die Vorbereitung öffnen",
+      "text": "Dein Hauskreistext steht. Wo bleiben Termin, Bibelstellen und Gesprächsfragen? Öffne die Ausarbeitung über ihren Titel auf dem Board.",
+      "image": "screenshots/01-hauskreis-oeffnen.png",
+      "focus": [
+        460,
+        1170,
+        810,
+        550
+      ],
+      "point": [
+        842,
+        1448
+      ]
+    },
+    {
+      "title": "Den Einsatz planen",
+      "text": "Unter „Arbeitsstand“ wählst du Format und Planungsstand. Ergänze Termin und Reihe und bestätige mit „Arbeitsstand speichern“.",
+      "image": "screenshots/02-arbeitsstand.png",
+      "focus": [
+        1795,
+        84,
+        800,
+        952
+      ],
+      "point": [
+        2349,
+        871
+      ]
+    },
+    {
+      "title": "Eine Sammlung verknüpfen",
+      "text": "Unter „Stellensammlungen“ wählst du die passende Sammlung und verknüpfst sie. Ihre Bibelstellen bleiben so beim Schreiben griffbereit.",
+      "image": "screenshots/03-verknuepfte-sammlung.png",
+      "focus": [
+        1820,
+        1040,
+        774,
+        692
+      ],
+      "point": [
+        2042,
+        1341
+      ]
+    },
+    {
+      "title": "Material dazulegen",
+      "text": "Bei „Anlagen“ kannst du über „Dateien hinzufügen“ zum Beispiel ein Arbeitsblatt ablegen. Über den Dateinamen lädst du es wieder herunter.",
+      "image": "screenshots/04-arbeitsblatt.png",
+      "focus": [
+        1810,
+        610,
+        778,
+        668
+      ],
+      "point": [
+        2094,
+        1083
+      ]
+    },
+    {
+      "title": "Einen Termin dokumentieren",
+      "text": "Nach dem Hauskreis trägst du unter „Bereits gehalten“ Datum und Ort ein. Wähle „Durchführung hinzufügen“. So siehst du auch später, wo du die Ausarbeitung eingesetzt hast.",
+      "image": "screenshots/05-bereits-gehalten.png",
+      "focus": [
+        1818,
+        470,
+        775,
+        805
+      ]
+    }
+  ]
+}

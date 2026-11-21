@@ -1,0 +1,82 @@
+{
+  "number": 6,
+  "title": "Arbeitsbereiche und Layouts einrichten",
+  "slug": "arbeitsbereiche-layouts",
+  "scenes": [
+    {
+      "title": "Eine Anordnung wählen",
+      "text": "Wie behältst du deine Studienansicht für morgen? Öffne im Reader die Kachelanordnung. Für Bibel, Kommentar und Lexikon wähle „Drei Spalten“.",
+      "image": "screenshots/01-drei-spalten.png",
+      "focus": [
+        1280,
+        0,
+        1200,
+        800
+      ],
+      "point": [
+        1960,
+        325
+      ]
+    },
+    {
+      "title": "Werke verteilen",
+      "text": "Über das Plus einer Kachel fügst du dort ein Werk hinzu. Ziehe den Trenner zur Seite, wenn der Bibeltext mehr Platz bekommen soll.",
+      "image": "screenshots/02-trenner.png",
+      "focus": [
+        0,
+        0,
+        2480,
+        1140
+      ],
+      "point": [
+        1527,
+        173
+      ]
+    },
+    {
+      "title": "Ansicht als Arbeitsbereich anlegen",
+      "text": "Öffne oben „Arbeitsbereiche“. Angemeldet kannst du „Neuer Arbeitsbereich“ wählen. Er übernimmt die Zusammenstellung, die du gerade siehst.",
+      "image": "screenshots/03-arbeitsbereich-menue.png",
+      "focus": [
+        1132,
+        44,
+        1210,
+        700
+      ],
+      "point": [
+        1738,
+        393
+      ]
+    },
+    {
+      "title": "Einen Namen vergeben",
+      "text": "Nenne ihn zum Beispiel „Johannes studieren“ und klicke auf „Anlegen“. Deine offenen Tabs, ihre Lesestellen und die Anordnung werden für diesen Arbeitsbereich gespeichert.",
+      "image": "screenshots/04-arbeitsbereich-anlegen.png",
+      "focus": [
+        586,
+        396,
+        1280,
+        830
+      ],
+      "point": [
+        1567,
+        1022
+      ]
+    },
+    {
+      "title": "Gespeicherte Ansicht öffnen",
+      "text": "Später wählst du im Menü wieder „Johannes studieren“. So kehrst du zu deiner Ansicht zurück, auch wenn du zwischendurch in einem anderen Arbeitsbereich gelesen hast.",
+      "image": "screenshots/05-gespeicherte-ansicht.png",
+      "focus": [
+        1270,
+        0,
+        1210,
+        710
+      ],
+      "point": [
+        1938,
+        217
+      ]
+    }
+  ]
+}

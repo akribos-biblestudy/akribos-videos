@@ -1,0 +1,36 @@
+import { readFile } from 'node:fs/promises';
+import { captureEpisode } from '../../scripts/capture-browser.mjs';
+import { openVerse, openVerseMenu } from '../../scripts/capture-study.mjs';
+
+const target = JSON.parse(await readFile(new URL('targets.json', import.meta.url), 'utf8'));
+await captureEpisode(import.meta.url, { login:true }, async capture => {
+  const { page, go, snap } = capture;
+  await page.setViewportSize({ width: 1320, height: 870 });
+  await go('/notes');
+  const nav = page.getByRole('link', { name: 'Stellensammlungen', exact: true }).last();
+  await snap(1, nav, { size: [670, 285], offset: [-180,-40], point: nav });
+  await nav.click();
+  const form = page.locator('form[action$="createList"]');
+  await form.locator('input[name=title]').fill(target.collection);
+  const create = form.getByRole('button');
+  await snap(2, form, { size: [1050, 330], point: create });
+  const collectionLink = page.locator('main li a').filter({has:page.getByText(target.collection,{exact:true})});
+  const href = await collectionLink.getAttribute('href');
+  const beforeLink = page.locator('main li a').filter({has:page.getByText(target.collectionBefore,{exact:true})});
+  const beforeHref = await beforeLink.getAttribute('href');
+  await page.setViewportSize({ width: 900, height: 760 });
+  await go(beforeHref);
+  const field = page.locator('#add-verse');
+  await field.fill(target.range);
+  const last = page.locator('main ol > li').nth(1);
+  const add = page.getByRole('button',{name:'Zur Stellensammlung hinzufügen'});
+  await snap(3, [field, last], {size:[760,500],point:add});
+  await page.setViewportSize({ width: 1320, height: 870 });
+  const { number } = await openVerse(capture, target);
+  const menu = await openVerseMenu(page, number);
+  const list = menu.getByText(target.collection, { exact: true });
+  await snap(4, list, { size: [395, 275], offset: [0,-50], point: list });
+  await go(href);
+  const comment = page.getByText(target.comment, { exact: true });
+  await snap(5, page.locator('main ol > li').filter({has:comment}).first(), { size: [775, 350] });
+});

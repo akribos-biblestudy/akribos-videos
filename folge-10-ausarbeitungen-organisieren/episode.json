@@ -1,0 +1,78 @@
+{
+  "number": 10,
+  "title": "Ausarbeitungen auf dem Board organisieren",
+  "slug": "ausarbeitungen-organisieren",
+  "scenes": [
+    {
+      "title": "Das Board öffnen",
+      "text": "Welche Vorbereitung ist schon fertig, und wo fehlt noch die Gliederung? Unter „Notizen und Ausarbeitungen“ öffnest du „Ausarbeitungen“. Das Board zeigt deinen Arbeitsstand.",
+      "image": "screenshots/01-vorbereitung.png",
+      "focus": [
+        24,
+        760,
+        1980,
+        935
+      ]
+    },
+    {
+      "title": "Eine Karte anlegen",
+      "text": "Oben gibst du deiner neuen Ausarbeitung einen Titel. Wähle Format und Vorlage aus und klicke auf „Erstellen“.",
+      "image": "screenshots/02-ausarbeitung-erstellen.png",
+      "focus": [
+        25,
+        698,
+        1820,
+        785
+      ],
+      "point": [
+        511,
+        1364
+      ]
+    },
+    {
+      "title": "Den Fortschritt sichtbar machen",
+      "text": "Zurück auf dem Board steht die neue Karte in der ersten Spalte. Ziehe sie von „Idee“ nach „Recherche“, sobald du Material sammelst.",
+      "image": "screenshots/03-karte-verschoben.png",
+      "focus": [
+        105,
+        780,
+        1190,
+        705
+      ],
+      "point": [
+        842,
+        1050
+      ]
+    },
+    {
+      "title": "Die Reihe eingrenzen",
+      "text": "Bereitest du mehrere Hauskreise vor? Wähle über dem Board das Format oder eine Reihe und bestätige mit „Filtern“.",
+      "image": "screenshots/04-filtern.png",
+      "focus": [
+        8,
+        1170,
+        1870,
+        420
+      ],
+      "point": [
+        1383,
+        1560
+      ]
+    },
+    {
+      "title": "An einer Karte weiterarbeiten",
+      "text": "Jetzt siehst du nur die passenden Vorbereitungen. Über den Titel der Karte öffnest du deinen Text wieder.",
+      "image": "screenshots/05-passende-ausarbeitung.png",
+      "focus": [
+        452,
+        1185,
+        790,
+        550
+      ],
+      "point": [
+        842,
+        1448
+      ]
+    }
+  ]
+}

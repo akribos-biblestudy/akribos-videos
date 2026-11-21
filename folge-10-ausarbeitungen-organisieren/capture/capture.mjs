@@ -1,0 +1,30 @@
+import { readFile } from 'node:fs/promises';
+import { captureEpisode } from '../../scripts/capture-browser.mjs';
+
+const target = JSON.parse(await readFile(new URL('targets.json', import.meta.url), 'utf8'));
+await captureEpisode(import.meta.url, { login:true }, async capture => {
+  const { page, go, snap } = capture;
+  await page.setViewportSize({ width: 1320, height: 870 });
+  await go('/sermons');
+  const card = page.getByTestId('sermon-card').filter({has: page.getByRole('link',{name:target.title,exact:true})});
+  const title = card.getByRole('link',{name:target.title,exact:true});
+  await snap(1,card,{size:[1000,470],offset:[10,0]});
+  await page.setViewportSize({ width: 950, height: 800 });
+  const create = page.locator('[data-tour-target=sermon-create]');
+  await create.locator('[name=title]').fill(target.title);
+  await create.locator('[name=series]').fill(target.series);
+  await create.locator('[name=passage]').fill(target.passage);
+  await create.locator('[name=format]').selectOption({label:target.format});
+  await snap(2,create,{size:[910,395],point:create.getByRole('button',{name:'Erstellen'})});
+  await page.setViewportSize({ width: 1320, height: 870 });
+  await snap(3,card,{size:[595,350],offset:[-90,0],point:title});
+  await page.setViewportSize({ width: 950, height: 800 });
+  const filter = page.locator('form[method=get]').last();
+  await filter.locator('[name=format]').selectOption({label:target.format});
+  await filter.locator('[name=series]').selectOption({label:target.series});
+  const apply = filter.getByRole('button',{name:'Filtern'});
+  await snap(4,filter,{size:[920,210],point:apply});
+  await apply.click();
+  await page.setViewportSize({ width: 1320, height: 870 });
+  await snap(5,card,{size:[395,275],point:title});
+});
