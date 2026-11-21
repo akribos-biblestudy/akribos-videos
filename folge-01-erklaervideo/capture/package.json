@@ -1,0 +1,8 @@
+{
+  "name": "akribos-episode-screenshots",
+  "private": true,
+  "type": "module",
+  "scripts": { "capture": "node capture.mjs" },
+  "engines": { "node": ">=22" },
+  "dependencies": { "playwright": "1.62.0" }
+}

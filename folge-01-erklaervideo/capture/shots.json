@@ -1,0 +1,29 @@
+{
+  "profiles": {
+    "desktop": { "width": 1536, "height": 864, "scale": 2.5, "readerFont": 115 },
+    "reader": { "width": 660, "height": 552, "scale": 4, "readerFont": 125 },
+    "definition": { "width": 1160, "height": 1000, "scale": 3, "readerFont": 115 },
+    "statistics": { "width": 708, "height": 900, "scale": 6, "readerFont": 115 },
+    "highlight": { "width": 615, "height": 735, "scale": 3, "readerFont": 135 },
+    "note": { "width": 1180, "height": 740, "scale": 4, "readerFont": 125 },
+    "collection": { "width": 620, "height": 626, "scale": 4, "readerFont": 125 }
+  },
+  "defaults": { "profile": "desktop", "reference": "Joh3,16", "resources": ["ELB1905"], "referenceInput": "Joh 3,16", "referenceKey": "43:3:16" },
+  "shots": [
+    { "id": "reference", "file": "02-bibelstelle-lesefenster.png", "profile": "reader", "action": "input", "value": "Joh 3,16" },
+    { "id": "translations", "scroll": { "selector": ".flow-column[data-resource-id='SCH1951'] [data-verse-key='43:3:15']", "offset": 24 }, "file": "03-uebersetzungen-vergleichen.png", "action": "resource", "resources": ["ELB1905", "SCH1951"], "ready": "[data-resource-id='SCH1951'] [data-verse-key='43:3:16']" },
+    { "id": "commentary", "scroll": [{ "selector": ".flow-column[data-resource-id='GERKINGCOMMENTS'] [data-verse-key='43:3:14']", "offset": 24 }, { "selector": ".flow-column[data-resource-id='ELB1905'] [data-verse-key='43:3:16']", "offset": 24 }], "file": "04-bibelkommentar.png", "action": "resource", "resources": ["ELB1905", "GERKINGCOMMENTS"], "readyText": "himmlischen Dinge" },
+    { "id": "cross-references", "scroll": { "selector": ".flow-column[data-resource-id='TSK'] [data-verse-key='43:3:16']", "offset": 24 }, "file": "05-parallelstellen.png", "action": "resource", "resources": ["ELB1905", "TSK"], "readyText": "TSK" },
+    { "id": "word", "file": "06-wortstudie-g25.png", "action": "word", "resources": ["ELB1905", "GREEKDE"], "word": "[data-verse-key='43:3:16'] button[data-strong='G25']" },
+    { "id": "definition", "file": "06b-worterklaerung-agapao.png", "profile": "definition", "action": "word", "resources": ["ELB1905", "GREEKDE"], "word": "[data-verse-key='43:3:16'] button[data-strong='G25']", "scroll": { "selector": ".definition-section", "offset": 45 }, "crop": { "from": ".definition-section h3", "throughText": "zuzuwenden.", "textContainer": ".definition-section .lexicon-body", "paddingX": 14, "paddingTop": 13, "paddingBottom": 14 } },
+    { "id": "occurrences", "file": "07-fundstellen.png", "action": "word", "resources": ["ELB1905", "GREEKDE"], "word": "[data-verse-key='43:3:16'] button[data-strong='G25']", "scroll": { "heading": "Fundstellen", "block": "center" } },
+    { "id": "search", "file": "08-wortsuche-lesefenster.png", "profile": "reader", "action": "input", "value": "geliebt" },
+    { "id": "statistics", "file": "08b-statistik-alle-buecher.png", "profile": "statistics", "action": "search", "value": "geliebt", "resultCount": 144, "crop": { "from": "[aria-label^='Suchergebnisse in Elberfelder']", "maxHeight": 525 } },
+    { "id": "book-filter", "file": "08c-statistik-johannes.png", "profile": "statistics", "action": "search", "value": "geliebt", "bookButton": "Joh:", "resultCount": 11, "crop": { "from": "[aria-label^='Suchergebnisse in Elberfelder']", "maxHeight": 525 } },
+    { "id": "palette", "file": "10b-johannes-15-9-farbwahl.png", "profile": "highlight", "private": true, "action": "highlight", "reference": "Joh15,1", "verseKey": "43:15:9", "openPalette": true, "scroll": { "selector": "[data-verse-key='43:15:9'] a.verse-number", "offset": 163 }, "crop": { "x": 0, "y": 151, "width": 615, "height": 559 } },
+    { "id": "highlighted", "file": "10c-johannes-15-9-gelb-markiert.png", "profile": "highlight", "private": true, "action": "highlight", "reference": "Joh15,1", "verseKey": "43:15:9", "scroll": { "selector": "[data-verse-key='43:15:9'] a.verse-number", "offset": 163 }, "crop": { "x": 0, "y": 151, "width": 615, "height": 559 } },
+    { "id": "note", "file": "11-notiz-lesefenster.png", "profile": "note", "private": true, "action": "note", "reference": "Joh15,9", "verseKey": "43:15:9", "document": "Gottes Liebe im Johannesevangelium", "ending": "Wie beschreibt Jesus hier Gottes Liebe?", "widenBy": 120, "crop": { "from": "[data-testid='reader-notes-sidecar']", "throughElementText": "Wie beschreibt Jesus hier Gottes Liebe?", "paddingX": -1, "paddingBottom": 29 } },
+    { "id": "collection", "file": "12-sammlung-lesefenster.png", "profile": "collection", "private": true, "action": "collection", "collection": "Gottes Liebe im Johannesevangelium", "question": "Was bedeutet es für euch, in Jesu Liebe zu bleiben?", "scroll": { "heading": "Zur Stellensammlung hinzufügen", "offset": 103 } },
+    { "id": "discussion", "file": "13-hauskreis-diskussion.png", "private": true, "action": "discussion", "collection": "Gottes Liebe im Johannesevangelium", "verse": "Johannes 15,9", "question": "Was bedeutet es für euch, in Jesu Liebe zu bleiben?", "answer": "Für mich heißt das: Seine Liebe im Alltag weitergeben, auch wenn es schwerfällt.", "offset": 128 }
+  ]
+}
