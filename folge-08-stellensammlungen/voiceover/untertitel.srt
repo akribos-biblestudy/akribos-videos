@@ -1,52 +1,70 @@
 1
-00:00:01,530 --> 00:00:06,180
-Für den Hauskreis willst du mehrere Stellen
-über Licht und Leben vergleichen.
+00:00:01,530 --> 00:00:05,970
+Für den Hauskreis möchtest du mehrere
+Stellen über Licht und Leben sammeln.
 
 2
-00:00:06,180 --> 00:00:11,190
-Öffne „Notizen und Ausarbeitungen“ und gehe
-zu „Stellensammlungen“.
+00:00:05,970 --> 00:00:08,250
+Klicke oben rechts auf deinen Namen.
 
 3
-00:00:11,190 --> 00:00:15,150
-Trage einen Titel ein und klicke auf „Neue
-Stellensammlung“.
+00:00:08,250 --> 00:00:11,760
+Wähle im Menü „Notizen und Ausarbeitungen“.
 
 4
-00:00:15,150 --> 00:00:17,820
-Nun hat dein Thema einen eigenen Platz.
+00:00:11,760 --> 00:00:15,840
+Hier findest du neben deinen Notizen den
+Reiter „Stellensammlungen“.
 
 5
-00:00:17,820 --> 00:00:22,230
-Gib auf der Sammlungsseite Johannes eins,
-Vers vier bis fünf ein.
+00:00:15,840 --> 00:00:20,250
+Gib deiner Sammlung einen Titel und klicke
+auf „Neue Stellensammlung“.
 
 6
-00:00:22,230 --> 00:00:27,390
-Mit „Zur Stellensammlung hinzufügen“ erhält
-jeder Vers einen eigenen Eintrag.
+00:00:20,250 --> 00:00:23,580
+Trage Johannes eins, Vers vier bis fünf
+ein.
 
 7
-00:00:27,390 --> 00:00:30,060
-Du findest beim Weiterlesen einen passenden
-Vers?
+00:00:23,580 --> 00:00:28,830
+Mit „Zur Stellensammlung hinzufügen“
+bekommt jeder Vers einen eigenen Eintrag.
 
 8
-00:00:30,060 --> 00:00:34,185
-Klicke auf seine Versnummer und wähle im
-Menü die bestehende Sammlung.
+00:00:28,830 --> 00:00:31,110
+Du findest beim Weiterlesen noch einen
+Vers?
 
 9
-00:00:34,185 --> 00:00:37,980
-In der Sammlung kannst du unter „Kommentar
-hinzufügen“ eine Beobachtung
+00:00:31,110 --> 00:00:35,910
+Öffne über seine Nummer das Versmenü und
+wähle die Sammlung „Licht und Leben“.
 
 10
-00:00:37,980 --> 00:00:40,950
-festhalten. Speichere sie direkt am Vers.
+00:00:35,910 --> 00:00:39,570
+Direkt unter dem Vers könnt ihr
+Beobachtungen festhalten und aufeinander
 
 11
-00:00:40,950 --> 00:00:44,030
-Über die Stellenangabe springst du wieder
-zum Bibeltext.
+00:00:39,570 --> 00:00:40,620
+antworten.
+
+12
+00:00:40,620 --> 00:00:44,010
+Unter „Mitglieder“ gibst du die
+E-Mail-Adresse ein.
+
+13
+00:00:44,010 --> 00:00:48,300
+Über „Einladen“ können andere mit dir Verse
+sammeln und kommentieren.
+
+14
+00:00:48,300 --> 00:00:52,830
+Sollen andere nur mitlesen? Unter „Teilen“
+erstellst du einen Leselink für eure
+
+15
+00:00:52,830 --> 00:00:53,390
+Sammlung.

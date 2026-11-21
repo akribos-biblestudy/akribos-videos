@@ -1,15 +1,30 @@
 {
   "fps": 30,
   "voiceOffset": 1.47,
-  "recordingDuration": 51.44,
+  "recordingDuration": 81.2,
   "sceneStartFrames": [
     41,
-    322,
-    730,
-    1036,
-    1311
+    440,
+    818,
+    1165,
+    1437,
+    1712,
+    2075
   ],
-  "closingFrame": 1591,
-  "totalFrames": 1640,
-  "alignment": 0.929
+  "closingFrame": 2486,
+  "totalFrames": 2535,
+  "alignment": 0.961,
+  "visualCues": [
+    {
+      "scene": 7,
+      "cue": "fachlich noch nicht bestätigt",
+      "anchor": "fachlich",
+      "audioSeconds": 76.44,
+      "frame": 2337,
+      "nearestRecognized": [
+        "zuordnung",
+        "fachlich"
+      ]
+    }
+  ]
 }

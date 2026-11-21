@@ -1,15 +1,77 @@
 {
   "fps": 30,
   "voiceOffset": 1.47,
-  "recordingDuration": 41.84,
+  "recordingDuration": 93.52,
   "sceneStartFrames": [
     41,
-    265,
-    506,
-    758,
-    1005
+    243,
+    469,
+    812,
+    1295,
+    1673,
+    1973,
+    2316,
+    2551
   ],
-  "closingFrame": 1303,
-  "totalFrames": 1352,
-  "alignment": 0.954
+  "closingFrame": 2856,
+  "totalFrames": 2905,
+  "alignment": 0.966,
+  "visualCues": [
+    {
+      "scene": 1,
+      "cue": "Importieren",
+      "anchor": "importieren",
+      "audioSeconds": 5.49,
+      "frame": 209,
+      "nearestRecognized": [
+        "wähle",
+        "importieren"
+      ]
+    },
+    {
+      "scene": 2,
+      "cue": "Importvorschau erstellen",
+      "anchor": "importvorschau",
+      "audioSeconds": 9.06,
+      "frame": 316,
+      "nearestRecognized": [
+        "auf",
+        "im",
+        "fort"
+      ]
+    },
+    {
+      "scene": 3,
+      "cue": "Als privates Dokument importieren",
+      "anchor": "als",
+      "audioSeconds": 16.56,
+      "frame": 541,
+      "nearestRecognized": [
+        "wähle",
+        "als",
+        "privates"
+      ]
+    },
+    {
+      "scene": 8,
+      "cue": "Bibelstelle öffnen",
+      "anchor": "bibelstelle",
+      "audioSeconds": 79.32,
+      "frame": 2424,
+      "nearestRecognized": [
+        "mit",
+        "bibelstelle"
+      ]
+    },
+    {
+      "scene": 9,
+      "cue": "Wähle Word",
+      "anchor": "wähle",
+      "audioSeconds": 87.24,
+      "frame": 2661,
+      "nearestRecognized": [
+        "wähle"
+      ]
+    }
+  ]
 }

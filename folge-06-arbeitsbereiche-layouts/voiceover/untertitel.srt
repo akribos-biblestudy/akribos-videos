@@ -1,61 +1,120 @@
 1
-00:00:01,530 --> 00:00:04,500
-Wie behältst du deine Studienansicht für
-morgen?
+00:00:01,500 --> 00:00:05,310
+Wie passt du Akribos an deinen Bildschirm
+und deine Vorlieben an?
 
 2
-00:00:04,500 --> 00:00:06,840
-Öffne im Reader die Kachelanordnung.
+00:00:05,310 --> 00:00:07,440
+Öffne oben die Kachelanordnung.
 
 3
-00:00:06,840 --> 00:00:11,370
-Für Bibel, Kommentar und Lexikon wähle
-„Drei Spalten“.
+00:00:07,440 --> 00:00:11,760
+Wähle zum Beispiel „Zwei Spalten“, um Bibel
+und Kommentar nebeneinander zu
 
 4
-00:00:11,370 --> 00:00:14,910
-Über das Plus einer Kachel fügst du dort
-ein Werk hinzu.
+00:00:11,760 --> 00:00:15,750
+lesen. Du kannst die Kacheln auch
+übereinander oder unterschiedlich groß
 
 5
-00:00:14,910 --> 00:00:18,990
-Ziehe den Trenner zur Seite, wenn der
-Bibeltext mehr Platz bekommen soll.
+00:00:15,750 --> 00:00:16,980
+anordnen.
 
 6
-00:00:18,990 --> 00:00:23,970
-Öffne oben „Arbeitsbereiche“. Angemeldet
-kannst du „Neuer Arbeitsbereich“
+00:00:16,980 --> 00:00:19,800
+In derselben Auswahl findest du den
+Notizbereich.
 
 7
-00:00:23,970 --> 00:00:27,660
-wählen. Er übernimmt die Zusammenstellung,
-die du gerade siehst.
+00:00:19,800 --> 00:00:23,310
+Schalte ihn ein, wenn du neben dem
+Bibeltext schreiben möchtest.
 
 8
-00:00:27,660 --> 00:00:32,070
+00:00:23,310 --> 00:00:27,510
+Rechts kannst du eine Notiz zur aktuellen
+Stelle anlegen oder deine Dokumente
+
+9
+00:00:27,510 --> 00:00:31,890
+durchsuchen. Schließe den Notizbereich, um
+die ganze Breite wieder zum Lesen zu
+
+10
+00:00:31,890 --> 00:00:32,910
+nutzen.
+
+11
+00:00:32,910 --> 00:00:35,430
+Auch geöffnete Tabs lassen sich
+verschieben.
+
+12
+00:00:35,430 --> 00:00:39,390
+Ziehe den Tab der Schlachter-Bibel von der
+linken Spalte auf die Tableiste der
+
+13
+00:00:39,390 --> 00:00:40,680
+rechten Spalte.
+
+14
+00:00:40,680 --> 00:00:43,140
+Rechts liegt die Schlachter jetzt beim
+Kommentar.
+
+15
+00:00:43,140 --> 00:00:45,630
+Links bleibt die Elberfelder geöffnet.
+
+16
+00:00:45,630 --> 00:00:49,590
+Ziehe den Trenner nach rechts, um der
+linken Bibel mehr Platz zu geben.
+
+17
+00:00:49,590 --> 00:00:53,580
+Wenn du angemeldet bist, kannst du diese
+Ansicht für später speichern.
+
+18
+00:00:53,580 --> 00:00:55,800
+Öffne oben „Arbeitsbereiche“.
+
+19
+00:00:55,800 --> 00:01:00,210
+Wähle „Neuer Arbeitsbereich“. Er übernimmt
+die Zusammenstellung, die du gerade
+
+20
+00:01:00,210 --> 00:01:01,020
+siehst.
+
+21
+00:01:01,020 --> 00:01:05,580
 Nenne ihn zum Beispiel „Johannes studieren“
 und klicke auf „Anlegen“.
 
-9
-00:00:32,070 --> 00:00:36,150
+22
+00:01:05,580 --> 00:01:09,540
 Deine offenen Tabs, ihre Lesestellen und
 die Anordnung werden für diesen
 
-10
-00:00:36,150 --> 00:00:37,800
+23
+00:01:09,540 --> 00:01:11,310
 Arbeitsbereich gespeichert.
 
-11
-00:00:37,800 --> 00:00:41,010
+24
+00:01:11,310 --> 00:01:14,610
 Später wählst du im Menü wieder „Johannes
 studieren“.
 
-12
-00:00:41,010 --> 00:00:44,610
+25
+00:01:14,610 --> 00:01:18,150
 So kehrst du zu deiner Ansicht zurück, auch
 wenn du zwischendurch in einem
 
-13
-00:00:44,610 --> 00:00:46,510
+26
+00:01:18,150 --> 00:01:20,030
 anderen Arbeitsbereich gelesen hast.

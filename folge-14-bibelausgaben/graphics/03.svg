@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="820" viewBox="0 0 1920 820" role="img" aria-labelledby="title desc">
+<title id="title">Historische und aktuelle Schreibweise</title><desc id="desc">Das Beispielwort daß steht links, dass mit Doppel-s rechts.</desc>
+<rect x="0" y="0" width="1920" height="820" fill="#173C33" rx="0"/>
+<text x="108" y="113" font-family="Akribos Text, sans-serif" font-size="32" font-weight="600" fill="#C7D9CD" text-anchor="start" letter-spacing="2" font-style="normal">LUTHER 1912</text>
+<text x="106" y="260" font-family="Liberation Serif, serif" font-size="76" font-weight="400" fill="#F9F5E9" text-anchor="start" letter-spacing="0" font-style="normal">Eine Schreibweise im Wandel</text>
+<rect x="120" y="338" width="675" height="275" fill="#254D41" rx="25"/>
+<rect x="1110" y="338" width="675" height="275" fill="#D4E4AC" rx="25"/>
+<text x="457" y="527" font-family="Liberation Serif, serif" font-size="169" font-weight="400" fill="#F9F5E9" text-anchor="middle" letter-spacing="0" font-style="normal">daß</text>
+<text x="1448" y="527" font-family="Liberation Serif, serif" font-size="169" font-weight="400" fill="#163C30" text-anchor="middle" letter-spacing="0" font-style="normal">dass</text>
+<path d="M854 476 H1048 M1017 448 L1048 476 L1017 504" fill="none" stroke="#D5E496" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="120" y="690" font-family="Akribos Text, sans-serif" font-size="40" font-weight="400" fill="#C7D9CD" text-anchor="start" letter-spacing="0" font-style="normal">Historischer Text</text>
+<text x="1110" y="690" font-family="Akribos Text, sans-serif" font-size="40" font-weight="400" fill="#D5E496" text-anchor="start" letter-spacing="0" font-style="normal">Modernisierte Schreibung</text>
+</svg>

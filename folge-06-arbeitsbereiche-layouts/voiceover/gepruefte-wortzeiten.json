@@ -1,0 +1,11 @@
+{
+  "recordingSha256": "dfee1632afed5578467c49071bb15de816d67dba66dafaec70c3e146d87402d5",
+  "method": "Abgleich am Originaltake mit Wav2Vec2 CTC und den benachbarten Wörtern",
+  "words": [
+    {
+      "scene": 4,
+      "cue": "Schließe den Notizbereich",
+      "audioSeconds": 27.12
+    }
+  ]
+}

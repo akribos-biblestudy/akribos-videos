@@ -1,15 +1,145 @@
 {
   "fps": 30,
   "voiceOffset": 1.47,
-  "recordingDuration": 35.92,
+  "recordingDuration": 61.28,
   "sceneStartFrames": [
     41,
-    257,
-    508,
-    659,
-    832
+    243,
+    446,
+    650,
+    802,
+    927,
+    1030,
+    1102,
+    1200,
+    1447,
+    1660,
+    1775
   ],
-  "closingFrame": 1126,
-  "totalFrames": 1175,
-  "alignment": 0.977
+  "closingFrame": 1889,
+  "totalFrames": 1938,
+  "alignment": 0.987,
+  "visualCues": [
+    {
+      "scene": 1,
+      "cue": "seine Versnummer",
+      "anchor": "versnummer",
+      "audioSeconds": 5.7,
+      "frame": 215,
+      "nearestRecognized": [
+        "seine",
+        "vers"
+      ]
+    },
+    {
+      "scene": 2,
+      "cue": "Vers kopieren",
+      "anchor": "vers",
+      "audioSeconds": 7.35,
+      "frame": 265,
+      "nearestRecognized": [
+        "wähle",
+        "vers"
+      ]
+    },
+    {
+      "scene": 3,
+      "cue": "Link kopieren",
+      "anchor": "link",
+      "audioSeconds": 18.69,
+      "frame": 605,
+      "nearestRecognized": [
+        "wähle",
+        "link"
+      ]
+    },
+    {
+      "scene": 4,
+      "cue": "Gelb",
+      "anchor": "gelb",
+      "audioSeconds": 24.63,
+      "frame": 783,
+      "nearestRecognized": [
+        "beispiel",
+        "gelb"
+      ]
+    },
+    {
+      "scene": 6,
+      "cue": "deinen Namen",
+      "anchor": "deinen",
+      "audioSeconds": 31.17,
+      "frame": 979,
+      "nearestRecognized": [
+        "über",
+        "deinen",
+        "namen"
+      ]
+    },
+    {
+      "scene": 7,
+      "cue": "Mein Konto",
+      "anchor": "mein",
+      "audioSeconds": 34.11,
+      "frame": 1067,
+      "nearestRecognized": [
+        "mein"
+      ]
+    },
+    {
+      "scene": 8,
+      "cue": "Darstellung",
+      "anchor": "darstellung",
+      "audioSeconds": 37.53,
+      "frame": 1170,
+      "nearestRecognized": [
+        "darstellung"
+      ]
+    },
+    {
+      "scene": 9,
+      "cue": "Speichern",
+      "anchor": "speichern",
+      "audioSeconds": 45.78,
+      "frame": 1418,
+      "nearestRecognized": [
+        "mit",
+        "speichern"
+      ]
+    },
+    {
+      "scene": 10,
+      "cue": "Farbe hinzufügen",
+      "anchor": "farbe",
+      "audioSeconds": 52.44,
+      "frame": 1617,
+      "nearestRecognized": [
+        "auf",
+        "farbe"
+      ]
+    },
+    {
+      "scene": 11,
+      "cue": "Verse anzeigen",
+      "anchor": "verse",
+      "audioSeconds": 54.48,
+      "frame": 1678,
+      "nearestRecognized": [
+        "über",
+        "verse"
+      ]
+    },
+    {
+      "scene": 12,
+      "cue": "die Stellenangabe",
+      "anchor": "stellenangabe",
+      "audioSeconds": 58.44,
+      "frame": 1797,
+      "nearestRecognized": [
+        "auf",
+        "die",
+        "stellen"
+      ]
+    }
+  ]
 }

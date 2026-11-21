@@ -1,55 +1,102 @@
 1
-00:00:01,500 --> 00:00:04,830
-Was möchtest du beim nächsten Lesen sofort
-wiedersehen?
+00:00:01,530 --> 00:00:04,050
+Dir ist ein Vers besonders wichtig
+geworden?
 
 2
-00:00:04,830 --> 00:00:08,700
-Klicke auf die Versnummer und öffne die
-Notizen zu dieser Stelle.
+00:00:04,050 --> 00:00:06,570
+Füge deine Gedanken als Notiz hinzu.
 
 3
-00:00:08,700 --> 00:00:11,430
-Der Notizbereich zeigt die aktuelle Stelle.
+00:00:06,570 --> 00:00:08,310
+Klicke auf die Versnummer.
 
 4
-00:00:11,430 --> 00:00:15,090
-Geht es um den Gedanken des Verses, wähle
-„Kanonisch“.
+00:00:08,310 --> 00:00:11,340
+Öffne im Versmenü die Notizen zu dieser
+Stelle.
 
 5
-00:00:15,090 --> 00:00:18,750
-Geht es um einen besonderen Wortlaut, wähle
-die Übersetzung.
+00:00:11,340 --> 00:00:15,180
+Unter „Übersetzungsbezug“ kannst du
+„Kanonisch“ wählen.
 
 6
-00:00:18,750 --> 00:00:23,220
-Lege die Notiz an, gib ihr einen Titel und
-schreibe deine Beobachtung.
+00:00:15,180 --> 00:00:18,870
+So gehört deine Notiz in allen
+Übersetzungen zu diesem Vers.
 
 7
-00:00:23,220 --> 00:00:25,770
-Der Bibeltext bleibt daneben sichtbar.
+00:00:18,870 --> 00:00:22,530
+Geht es um einen bestimmten Wortlaut, wähle
+die passende Bibel.
 
 8
-00:00:25,770 --> 00:00:27,900
-Öffne den vollständigen Editor.
+00:00:22,530 --> 00:00:26,460
+Gib deiner Notiz einen Titel und halte
+deine Beobachtung direkt neben dem
 
 9
-00:00:27,900 --> 00:00:32,100
-Unter „Bibelstellen“ gibst du eine weitere
-Referenz ein und klickst auf
+00:00:26,460 --> 00:00:27,840
+Bibeltext fest.
 
 10
-00:00:32,100 --> 00:00:33,840
-„Bibelstelle hinzufügen“.
+00:00:27,840 --> 00:00:32,460
+Schreibst du zum Beispiel Johannes
+fünfzehn, Vers zwölf in die Notiz, erkennt
 
 11
-00:00:33,840 --> 00:00:37,620
-Öffnest du später die Notizen an einer
-verknüpften Stelle, erscheint derselbe
+00:00:32,460 --> 00:00:36,990
+der Editor die Stellenangabe und verknüpft
+sie automatisch mit dem Bibeltext.
 
 12
-00:00:37,620 --> 00:00:41,230
-Titel. Ein Klick genügt, um an deinem Text
-weiterzuschreiben.
+00:00:36,990 --> 00:00:39,510
+Fahre mit der Maus über die Stellenangabe.
+
+13
+00:00:39,510 --> 00:00:41,700
+In der Vorschau siehst du den Wortlaut.
+
+14
+00:00:41,700 --> 00:00:46,710
+Mit „Bibeltext einfügen“ übernimmst du die
+Stelle als Zitat in deine Notiz.
+
+15
+00:00:46,710 --> 00:00:50,790
+Unter dem Text stehen die Stellenangabe und
+die verwendete Übersetzung.
+
+16
+00:00:50,790 --> 00:00:55,560
+Welche Bibel für solche Zitate verwendet
+wird, bestimmst du unter „Mein Konto“,
+
+17
+00:00:55,560 --> 00:00:58,140
+„Darstellung“, „Standardübersetzung“.
+
+18
+00:00:58,140 --> 00:01:02,670
+Zurück im Reader bringt dich das Listensymbol
+in der Notizspalte zur Übersicht.
+
+19
+00:01:02,670 --> 00:01:06,060
+Aktiviere „Nur Notizen zum aktuellen
+Kapitel“.
+
+20
+00:01:06,060 --> 00:01:10,080
+Wechselst du beim Lesen das Kapitel, zeigt
+die Notizspalte die dazugehörigen
+
+21
+00:01:10,080 --> 00:01:10,950
+Notizen.
+
+22
+00:01:10,950 --> 00:01:15,150
+So findest du beim Lesen auch Gedanken zu
+anderen Versen desselben Kapitels.

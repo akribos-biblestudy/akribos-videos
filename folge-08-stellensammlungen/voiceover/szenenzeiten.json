@@ -1,15 +1,110 @@
 {
   "fps": 30,
   "voiceOffset": 1.47,
-  "recordingDuration": 42.56,
+  "recordingDuration": 51.92,
   "sceneStartFrames": [
     41,
-    333,
-    532,
-    819,
-    1023
+    243,
+    348,
+    471,
+    603,
+    860,
+    1073,
+    1214,
+    1444
   ],
-  "closingFrame": 1325,
-  "totalFrames": 1374,
-  "alignment": 0.979
+  "closingFrame": 1608,
+  "totalFrames": 1657,
+  "alignment": 0.991,
+  "visualCues": [
+    {
+      "scene": 1,
+      "cue": "deinen Namen",
+      "anchor": "deinen",
+      "audioSeconds": 5.64,
+      "frame": 213,
+      "nearestRecognized": [
+        "auf",
+        "deinen",
+        "namen"
+      ]
+    },
+    {
+      "scene": 2,
+      "cue": "Notizen und Ausarbeitungen",
+      "anchor": "notizen",
+      "audioSeconds": 7.92,
+      "frame": 282,
+      "nearestRecognized": [
+        "notizen"
+      ]
+    },
+    {
+      "scene": 3,
+      "cue": "Stellensammlungen",
+      "anchor": "stellensammlungen",
+      "audioSeconds": 12.84,
+      "frame": 429,
+      "nearestRecognized": [
+        "reiter",
+        "stellen"
+      ]
+    },
+    {
+      "scene": 4,
+      "cue": "Neue Stellensammlung",
+      "anchor": "neue",
+      "audioSeconds": 16.98,
+      "frame": 554,
+      "nearestRecognized": [
+        "auf",
+        "neue"
+      ]
+    },
+    {
+      "scene": 5,
+      "cue": "Zur Stellensammlung hinzufügen",
+      "anchor": "zur",
+      "audioSeconds": 22.59,
+      "frame": 722,
+      "nearestRecognized": [
+        "mit",
+        "zur",
+        "stellen"
+      ]
+    },
+    {
+      "scene": 6,
+      "cue": "Licht und Leben",
+      "anchor": "licht",
+      "audioSeconds": 33.0,
+      "frame": 1034,
+      "nearestRecognized": [
+        "sammlung",
+        "licht"
+      ]
+    },
+    {
+      "scene": 8,
+      "cue": "Einladen",
+      "anchor": "einladen",
+      "audioSeconds": 43.02,
+      "frame": 1335,
+      "nearestRecognized": [
+        "über",
+        "einladen"
+      ]
+    },
+    {
+      "scene": 9,
+      "cue": "Teilen",
+      "anchor": "teilen",
+      "audioSeconds": 49.02,
+      "frame": 1515,
+      "nearestRecognized": [
+        "unter",
+        "teilen"
+      ]
+    }
+  ]
 }

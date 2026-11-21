@@ -1,9 +1,23 @@
-Du möchtest einen Vers zitieren und ihn beim nächsten Lesen schnell wiederfinden? Klicke im Bibeltext auf seine kleine Versnummer.
+Du möchtest einen Vers zitieren und ihn beim nächsten Lesen wiederfinden? Klicke im Bibeltext auf seine Versnummer.
 
-Mit „Vers kopieren“ landen der Wortlaut und die Stellenangabe zusammen in deiner Zwischenablage. So kannst du das Zitat gleich einfügen.
+Wähle „Vers kopieren“. Jetzt liegen der Wortlaut und die Stellenangabe zusammen in deiner Zwischenablage.
 
-Möchtest du jemandem die Stelle zum Nachlesen schicken, wähle stattdessen „Link kopieren“.
+Möchtest du jemandem die Stelle zum Nachlesen schicken? Öffne das Versmenü erneut und wähle „Link kopieren“.
 
-Wenn du angemeldet bist, kannst du im selben Menü eine Farbe wählen. Jetzt ist der ganze Vers markiert.
+Wenn du angemeldet bist, kannst du im Versmenü eine Farbe wählen, zum Beispiel Gelb.
 
-Unter „Darstellung“ findest du deine Versmarkierungen. Über „Verse anzeigen“ siehst du alle Stellen einer Farbe. Klicke auf die Stellenangabe, um weiterzulesen.
+Die Markierung bleibt beim Vers, auch wenn du ihn später wieder aufschlägst.
+
+Deine Farben verwaltest du über deinen Namen oben rechts.
+
+Wähle im Menü „Mein Konto“.
+
+Öffne in den Einstellungen den Reiter „Darstellung“.
+
+Unter „Versmarkierungen“ kannst du einer Farbe eine Bedeutung geben. Hier heißt Gelb „Zusagen“. Bestätige mit „Speichern“.
+
+Du brauchst eine weitere Farbe? Wähle unten einen Farbton, gib ihm einen Namen und klicke auf „Farbe hinzufügen“.
+
+Über „Verse anzeigen“ siehst du alle Stellen mit dieser Farbe.
+
+Klicke auf die Stellenangabe, um im Bibeltext weiterzulesen.

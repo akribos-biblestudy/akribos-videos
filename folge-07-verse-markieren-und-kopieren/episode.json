@@ -5,70 +5,186 @@
   "scenes": [
     {
       "title": "Das Versmenü öffnen",
-      "text": "Du möchtest einen Vers zitieren und ihn beim nächsten Lesen schnell wiederfinden? Klicke im Bibeltext auf seine kleine Versnummer.",
+      "text": "Du möchtest einen Vers zitieren und ihn beim nächsten Lesen wiederfinden? Klicke im Bibeltext auf seine Versnummer.",
       "image": "screenshots/01-versnummer.png",
       "focus": [
-        210,
-        220,
-        1240,
+        480,
+        68,
+        1280,
         610
       ],
+      "cue": "seine Versnummer",
       "point": [
-        643,
-        368
+        1137,
+        373
       ]
     },
     {
       "title": "Wortlaut kopieren",
-      "text": "Mit „Vers kopieren“ landen der Wortlaut und die Stellenangabe zusammen in deiner Zwischenablage. So kannst du das Zitat gleich einfügen.",
+      "text": "Wähle „Vers kopieren“. Jetzt liegen der Wortlaut und die Stellenangabe zusammen in deiner Zwischenablage.",
       "image": "screenshots/02-wortlaut.png",
       "focus": [
-        550,
-        374,
-        800,
+        980,
+        357,
+        780,
         440
       ],
+      "cue": "Vers kopieren",
       "point": [
-        940,
-        574
+        1220,
+        576
       ]
     },
     {
       "title": "Einen Link weitergeben",
-      "text": "Möchtest du jemandem die Stelle zum Nachlesen schicken, wähle stattdessen „Link kopieren“.",
+      "text": "Möchtest du jemandem die Stelle zum Nachlesen schicken? Öffne das Versmenü erneut und wähle „Link kopieren“.",
       "image": "screenshots/03-stellenlink.png",
       "focus": [
-        540,
-        432,
-        820,
+        960,
+        437,
+        800,
+        420
+      ],
+      "cue": "Link kopieren",
+      "point": [
+        1219,
+        645
+      ]
+    },
+    {
+      "image": "screenshots/farbe-waehlen.png",
+      "title": "Eine Farbe wählen",
+      "text": "Wenn du angemeldet bist, kannst du im Versmenü eine Farbe wählen, zum Beispiel Gelb.",
+      "cue": "Gelb",
+      "focus": [
+        780,
+        574,
+        770,
+        410
+      ],
+      "point": [
+        1165,
+        779
+      ]
+    },
+    {
+      "title": "Den markierten Vers sehen",
+      "text": "Die Markierung bleibt beim Vers, auch wenn du ihn später wieder aufschlägst.",
+      "image": "screenshots/04-gelb-markiert.png",
+      "focus": [
+        35,
+        109,
+        1660,
+        680
+      ]
+    },
+    {
+      "image": "screenshots/konto-oeffnen.png",
+      "title": "Das Kontomenü öffnen",
+      "text": "Deine Farben verwaltest du über deinen Namen oben rechts.",
+      "cue": "deinen Namen",
+      "focus": [
+        720,
+        0,
+        1040,
+        450
+      ],
+      "point": [
+        1563,
+        54
+      ]
+    },
+    {
+      "image": "screenshots/mein-konto.png",
+      "title": "Zum Konto wechseln",
+      "text": "Wähle im Menü „Mein Konto“.",
+      "cue": "Mein Konto",
+      "focus": [
+        880,
+        0,
+        880,
+        532
+      ],
+      "point": [
+        1488,
+        216
+      ]
+    },
+    {
+      "image": "screenshots/darstellung.png",
+      "title": "Darstellung öffnen",
+      "text": "Öffne in den Einstellungen den Reiter „Darstellung“.",
+      "cue": "Darstellung",
+      "focus": [
+        0,
+        180,
+        1140,
+        570
+      ],
+      "point": [
+        256,
+        465
+      ]
+    },
+    {
+      "image": "screenshots/farbe-benennen.png",
+      "title": "Der Farbe einen Namen geben",
+      "text": "Unter „Versmarkierungen“ kannst du einer Farbe eine Bedeutung geben. Hier heißt Gelb „Zusagen“. Bestätige mit „Speichern“.",
+      "cue": "Speichern",
+      "focus": [
+        380,
+        524,
+        1380,
         420
       ],
       "point": [
-        940,
-        644
+        1330,
+        760
       ]
     },
     {
-      "title": "Eine Farbe wählen",
-      "text": "Wenn du angemeldet bist, kannst du im selben Menü eine Farbe wählen. Jetzt ist der ganze Vers markiert.",
-      "image": "screenshots/04-gelb-markiert.png",
+      "image": "screenshots/farbe-hinzufuegen.png",
+      "title": "Eine eigene Farbe ergänzen",
+      "text": "Du brauchst eine weitere Farbe? Wähle unten einen Farbton, gib ihm einen Namen und klicke auf „Farbe hinzufügen“.",
+      "cue": "Farbe hinzufügen",
       "focus": [
-        40,
-        230,
-        1660,
-        700
+        400,
+        1096,
+        1360,
+        250
+      ],
+      "point": [
+        1521,
+        1272
       ]
     },
     {
-      "title": "Markierung wiederfinden",
-      "text": "Unter „Darstellung“ findest du deine Versmarkierungen. Über „Verse anzeigen“ siehst du alle Stellen einer Farbe. Klicke auf die Stellenangabe, um weiterzulesen.",
+      "image": "screenshots/verse-anzeigen.png",
+      "title": "Alle Verse einer Farbe finden",
+      "text": "Über „Verse anzeigen“ siehst du alle Stellen mit dieser Farbe.",
+      "cue": "Verse anzeigen",
+      "focus": [
+        400,
+        187,
+        1360,
+        390
+      ],
+      "point": [
+        1537,
+        382
+      ]
+    },
+    {
+      "title": "Im Text weiterlesen",
+      "text": "Klicke auf die Stellenangabe, um im Bibeltext weiterzulesen.",
       "image": "screenshots/05-markierte-verse.png",
       "focus": [
-        92,
-        183,
-        1510,
-        700
+        135,
+        260,
+        1460,
+        650
       ],
+      "cue": "die Stellenangabe",
       "point": [
         267,
         517

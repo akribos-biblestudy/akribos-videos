@@ -1,15 +1,100 @@
 {
   "fps": 30,
   "voiceOffset": 1.47,
-  "recordingDuration": 39.76,
+  "recordingDuration": 73.68,
   "sceneStartFrames": [
     41,
-    258,
-    560,
-    770,
-    1012
+    245,
+    336,
+    671,
+    831,
+    1105,
+    1246,
+    1397,
+    1519,
+    1740,
+    1876,
+    2124
   ],
-  "closingFrame": 1241,
-  "totalFrames": 1290,
-  "alignment": 0.987
+  "closingFrame": 2261,
+  "totalFrames": 2310,
+  "alignment": 0.966,
+  "visualCues": [
+    {
+      "scene": 1,
+      "cue": "die Versnummer",
+      "anchor": "versnummer",
+      "audioSeconds": 5.7,
+      "frame": 215,
+      "nearestRecognized": [
+        "auf",
+        "die",
+        "versen"
+      ]
+    },
+    {
+      "scene": 2,
+      "cue": "die Notizen",
+      "anchor": "notizen",
+      "audioSeconds": 8.1,
+      "frame": 287,
+      "nearestRecognized": [
+        "mein",
+        "die",
+        "notizen"
+      ]
+    },
+    {
+      "scene": 3,
+      "cue": "Kanonisch",
+      "anchor": "kanonisch",
+      "audioSeconds": 12.3,
+      "frame": 413,
+      "nearestRecognized": [
+        "du",
+        "kanonisch"
+      ]
+    },
+    {
+      "scene": 7,
+      "cue": "Bibeltext einfügen",
+      "anchor": "bibeltext",
+      "audioSeconds": 40.62,
+      "frame": 1263,
+      "nearestRecognized": [
+        "mit",
+        "bibeltext"
+      ]
+    },
+    {
+      "scene": 9,
+      "cue": "Standardübersetzung",
+      "anchor": "standardübersetzung",
+      "audioSeconds": 55.1,
+      "frame": 1697,
+      "nearestRecognized": []
+    },
+    {
+      "scene": 10,
+      "cue": "das Listensymbol",
+      "anchor": "listensymbol",
+      "audioSeconds": 58.2,
+      "frame": 1790,
+      "nearestRecognized": [
+        "das",
+        "lesen"
+      ]
+    },
+    {
+      "scene": 11,
+      "cue": "Nur Notizen zum aktuellen Kapitel",
+      "anchor": "nur",
+      "audioSeconds": 62.07,
+      "frame": 1906,
+      "nearestRecognized": [
+        "aktiviere",
+        "nur"
+      ]
+    }
+  ]
 }

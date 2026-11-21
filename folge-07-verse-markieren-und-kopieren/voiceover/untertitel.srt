@@ -1,52 +1,88 @@
 1
-00:00:01,530 --> 00:00:04,830
+00:00:01,530 --> 00:00:05,670
 Du möchtest einen Vers zitieren und ihn
-beim nächsten Lesen schnell
+beim nächsten Lesen wiederfinden?
 
 2
-00:00:04,830 --> 00:00:08,670
-wiederfinden? Klicke im Bibeltext auf seine
-kleine Versnummer.
+00:00:05,670 --> 00:00:08,250
+Klicke im Bibeltext auf seine Versnummer.
 
 3
-00:00:08,670 --> 00:00:13,230
-Mit „Vers kopieren“ landen der Wortlaut und
-die Stellenangabe zusammen in
+00:00:08,250 --> 00:00:13,291
+Wähle „Vers kopieren“. Jetzt liegen der
+Wortlaut und die Stellenangabe zusammen
 
 4
-00:00:13,230 --> 00:00:17,010
-deiner Zwischenablage. So kannst du das
-Zitat gleich einfügen.
+00:00:13,291 --> 00:00:15,000
+in deiner Zwischenablage.
 
 5
-00:00:17,010 --> 00:00:21,000
+00:00:15,000 --> 00:00:17,790
 Möchtest du jemandem die Stelle zum
-Nachlesen schicken, wähle stattdessen „Link
+Nachlesen schicken?
 
 6
-00:00:21,000 --> 00:00:22,050
+00:00:17,790 --> 00:00:21,810
+Öffne das Versmenü erneut und wähle „Link
 kopieren“.
 
 7
-00:00:22,050 --> 00:00:25,680
+00:00:21,810 --> 00:00:26,100
 Wenn du angemeldet bist, kannst du im
-selben Menü eine Farbe wählen.
+Versmenü eine Farbe wählen, zum Beispiel
 
 8
-00:00:25,680 --> 00:00:27,840
-Jetzt ist der ganze Vers markiert.
+00:00:26,100 --> 00:00:26,880
+Gelb.
 
 9
-00:00:27,840 --> 00:00:31,050
-Unter „Darstellung“ findest du deine
-Versmarkierungen.
+00:00:26,880 --> 00:00:31,050
+Die Markierung bleibt beim Vers, auch wenn
+du ihn später wieder aufschlägst.
 
 10
-00:00:31,050 --> 00:00:34,830
-Über „Verse anzeigen“ siehst du alle
-Stellen einer Farbe.
+00:00:31,050 --> 00:00:34,500
+Deine Farben verwaltest du über deinen
+Namen oben rechts.
 
 11
-00:00:34,830 --> 00:00:37,390
-Klicke auf die Stellenangabe, um
-weiterzulesen.
+00:00:34,500 --> 00:00:36,870
+Wähle im Menü „Mein Konto“.
+
+12
+00:00:36,870 --> 00:00:40,140
+Öffne in den Einstellungen den Reiter
+„Darstellung“.
+
+13
+00:00:40,140 --> 00:00:44,130
+Unter „Versmarkierungen“ kannst du einer
+Farbe eine Bedeutung geben.
+
+14
+00:00:44,130 --> 00:00:48,390
+Hier heißt Gelb „Zusagen“. Bestätige mit
+„Speichern“.
+
+15
+00:00:48,390 --> 00:00:50,100
+Du brauchst eine weitere Farbe?
+
+16
+00:00:50,100 --> 00:00:54,360
+Wähle unten einen Farbton, gib ihm einen
+Namen und klicke auf „Farbe
+
+17
+00:00:54,360 --> 00:00:55,470
+hinzufügen“.
+
+18
+00:00:55,470 --> 00:00:59,310
+Über „Verse anzeigen“ siehst du alle
+Stellen mit dieser Farbe.
+
+19
+00:00:59,310 --> 00:01:02,750
+Klicke auf die Stellenangabe, um im
+Bibeltext weiterzulesen.

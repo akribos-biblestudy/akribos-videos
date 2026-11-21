@@ -79,7 +79,7 @@ async function search(p, value) {
   return list
 }
 
-async function capture(dir, sequence) {
+async function capture(dir, sequence, transformScreenshot) {
   const { values } = parseArgs({
     options: {
       output: { type: 'string' },
@@ -125,7 +125,14 @@ async function capture(dir, sequence) {
       files.push(name)
       await settle(p)
       await p.mouse.move(1, p.viewportSize().height - 2)
-      await p.screenshot({ path: path.join(stage, name), animations: 'disabled', caret: 'hide' })
+      const target = path.join(stage, name)
+      const options = { animations: 'disabled', caret: 'hide' }
+      if (transformScreenshot) {
+        const original = await p.screenshot(options)
+        await fs.writeFile(target, await transformScreenshot(p, original, config))
+      } else {
+        await p.screenshot({ ...options, path: target })
+      }
       console.log(name)
     }
     await sequence(p, take, config)

@@ -22,3 +22,25 @@ export async function openDocumentFromBoard({ page, go }, title) {
   await link.waitFor();
   return { card, link };
 }
+
+export async function captureAccountMenu({ page, snap }, { profileShot, menuShot, destination }) {
+  const profile = page.locator('[data-tour-target="user-menu"]');
+  await snap(profileShot, profile, { size: [520, 225], point: profile });
+  await profile.click();
+  const menu = page.locator('[role="menu"]:visible').last();
+  const link = menu.locator('a[href="' + destination + '"]');
+  await snap(menuShot, [profile, link], { size: [440, 266], point: link });
+  await link.click();
+}
+
+// Capture the position of the visible label within full-width menu rows.
+export function labelPoint(locator) {
+  return {
+    boundingBox: () => locator.evaluate(node => {
+      const range = document.createRange();
+      range.selectNodeContents(node);
+      const { x, y, width, height } = range.getBoundingClientRect();
+      return { x, y, width, height };
+    })
+  };
+}

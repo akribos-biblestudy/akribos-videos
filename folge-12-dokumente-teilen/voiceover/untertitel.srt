@@ -1,53 +1,75 @@
 1
-00:00:01,530 --> 00:00:04,830
+00:00:01,530 --> 00:00:04,680
 Du möchtest deinem Hauskreis eine
 Ausarbeitung mitgeben?
 
 2
-00:00:04,830 --> 00:00:09,510
-Öffne das Dokument und warte, bis der
-Editor „Gespeichert“ anzeigt.
+00:00:04,680 --> 00:00:08,880
+Öffne das Dokument. Du kannst es als Datei
+weitergeben, genau wie eine
 
 3
-00:00:09,510 --> 00:00:15,450
-Unter „Exportieren“ wählst du PDF zum Lesen
-oder Word zum Weiterbearbeiten.
+00:00:08,880 --> 00:00:10,410
+persönliche Notiz.
 
 4
-00:00:15,450 --> 00:00:18,420
-Die heruntergeladene Datei kannst du
-weitergeben.
+00:00:10,410 --> 00:00:13,860
+Im Menü „Exportieren“ findest du mehrere
+Formate.
 
 5
-00:00:18,420 --> 00:00:20,250
-Das geht auch bei Notizen.
+00:00:13,860 --> 00:00:18,240
+Wähle PDF, wenn andere den Text lesen oder
+ausdrucken möchten.
 
 6
-00:00:20,250 --> 00:00:24,450
-Mit einem Administratorkonto kannst du
-eigene Notizen zusätzlich per Link
+00:00:18,240 --> 00:00:21,030
+Eine Word-Datei können sie
+weiterbearbeiten.
 
 7
-00:00:24,450 --> 00:00:29,550
-teilen. Unter „Freigabe per Link“ wählst du
-„Schnappschuss freigeben“.
+00:00:21,030 --> 00:00:23,670
+Eine Notiz kannst du auch per Link teilen.
 
 8
-00:00:29,550 --> 00:00:32,820
-Öffne den freigegebenen Link und kopiere
-die Adresse.
+00:00:23,670 --> 00:00:27,930
+Öffne in deiner Notiz die „Freigabe per
+Link“ und wähle „Schnappschuss
 
 9
-00:00:32,820 --> 00:00:36,300
-Jeder mit diesem Link kann die Fassung ohne
-Anmeldung lesen.
+00:00:27,930 --> 00:00:28,980
+freigeben“.
 
 10
-00:00:36,300 --> 00:00:39,900
-Nach einer Änderung bleibt der alte Stand
-sichtbar, bis du die Freigabe
+00:00:28,980 --> 00:00:32,970
+Öffne den freigegebenen Link und kopiere
+die Adresse aus dem Browser.
 
 11
-00:00:39,900 --> 00:00:44,510
-aktualisierst. Über „Freigabe zurückziehen“
-beendest du den Zugriff.
+00:00:32,970 --> 00:00:36,690
+Wer den Link erhält, kann diese Fassung
+ohne Anmeldung lesen.
+
+12
+00:00:36,690 --> 00:00:41,190
+Wenn du deine Notiz bearbeitest, sehen
+andere zunächst die bisherige Fassung.
+
+13
+00:00:41,190 --> 00:00:45,540
+Mit „Freigabe aktualisieren“ machst du die
+Änderungen unter derselben Adresse
+
+14
+00:00:45,540 --> 00:00:46,410
+sichtbar.
+
+15
+00:00:46,410 --> 00:00:50,520
+Soll die Notiz wieder privat sein, wähle
+„Freigabe zurückziehen“.
+
+16
+00:00:50,520 --> 00:00:53,710
+Danach ist sie unter dem bisherigen Link
+nicht mehr erreichbar.

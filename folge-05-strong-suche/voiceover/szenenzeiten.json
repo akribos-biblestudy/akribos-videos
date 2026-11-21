@@ -1,16 +1,52 @@
 {
   "fps": 30,
   "voiceOffset": 1.47,
-  "recordingDuration": 52.16,
+  "recordingDuration": 58.08,
   "sceneStartFrames": [
     41,
-    292,
-    517,
-    796,
-    1016,
-    1310
+    294,
+    651,
+    968,
+    1188,
+    1484
   ],
-  "closingFrame": 1613,
-  "totalFrames": 1662,
-  "alignment": 0.957
+  "closingFrame": 1793,
+  "totalFrames": 1842,
+  "alignment": 0.957,
+  "visualCues": [
+    {
+      "scene": 1,
+      "cue": "das erste Wort „Frieden“",
+      "anchor": "frieden",
+      "audioSeconds": 7.38,
+      "frame": 266,
+      "nearestRecognized": [
+        "wort",
+        "frieden"
+      ]
+    },
+    {
+      "scene": 3,
+      "cue": "G fünfundzwanzig",
+      "anchor": "g",
+      "audioSeconds": 21.06,
+      "frame": 676,
+      "nearestRecognized": [
+        "auch",
+        "g",
+        "fünfundzwanzig"
+      ]
+    },
+    {
+      "scene": 5,
+      "cue": "In Erster Mose eins, Vers eins",
+      "anchor": "in",
+      "audioSeconds": 43.47,
+      "frame": 1348,
+      "nearestRecognized": [
+        "in",
+        "erster"
+      ]
+    }
+  ]
 }

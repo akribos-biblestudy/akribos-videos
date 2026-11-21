@@ -18,6 +18,8 @@ Lies eine Bibelstelle in mehreren Übersetzungen, schlage ein Wort auf Griechisc
 
 Wie hängen die Wörter eines Verses zusammen? Welche anderen Stellen gehören zu meinem Thema? Hier siehst du, wie du mit Akribos die Bibel liest, Beobachtungen sammelst und einen Hauskreis oder eine Predigt vorbereitest. Probiere die gezeigten Schritte auf [akribos.de](https://akribos.de) selbst aus.
 
+**Schlagwörter für den Kanal** · Akribos, Bibelstudium, Bibelsoftware Deutsch, Bibelübersetzungen, Wortstudie, Strong-Nummern, Bibelnotizen, Hauskreis, Predigtvorbereitung
+
 Das [Kanalbanner](akribos-kanalbanner.jpg) ist eine JPEG-Datei mit 2560 × 1440 Pixeln. Logo und Schrift liegen im mittleren, auch auf schmalen Geräten sichtbaren Bereich. [YouTube-Hilfe zum Kanalbranding](https://support.google.com/youtube/answer/10456525?hl=de)
 
 ## Titel, Beschreibungen und Schlagwörter

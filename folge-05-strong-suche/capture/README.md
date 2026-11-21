@@ -4,7 +4,7 @@ Die sechs PNG-Dateien dieser Folge stammen aus einer lokal betriebenen Akribos-W
 
 ## Aufnahme wiederholen
 
-Die Aufnahme öffnet die verknüpften Wörter in Johannes 3,16 und 1. Mose 1,1. Die Elberfelder-Ausgabe muss dort Strong-Zuordnungen für G25 und H430 enthalten. Beide Lexika müssen die Einträge anbieten. Für die Wortstatistik zeigt das Skript den Suchbereich in einem 850 Pixel breiten Fenster. Im aufgenommenen ELB1905-Datenstand enthält die Statistik zu G25 insgesamt 153 Vorkommen in 109 Versen.
+Die Aufnahme öffnet das erste „Frieden“ in Johannes 14,27 und „Gott“ in 1. Mose 1,1. Benötigt werden die Zuordnungen zu G1515 und H430 im Elberfelder-Text sowie die zugehörigen Lexikoneinträge. Beim ersten Bild verweist `anchorWord` auf das zweite gesprochene „Frieden“ im Satz mit der Klickanweisung. Die freie Suche nach G25 zeigt als zweites griechisches Beispiel das Verb „lieben“. Für die Wortstatistik zeigt das Skript den Suchbereich in einem 850 Pixel breiten Fenster. Im aufgenommenen ELB1905-Datenstand enthält die Statistik zu G25 insgesamt 153 Vorkommen in 109 Versen.
 
 Benötigte Werke: ELB1905, GREEKDE und STRONGS_HEBREW.
 

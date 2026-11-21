@@ -1,15 +1,60 @@
 {
   "fps": 30,
   "voiceOffset": 1.47,
-  "recordingDuration": 43.04,
+  "recordingDuration": 52.24,
   "sceneStartFrames": [
     41,
-    283,
-    605,
-    884,
-    1086
+    308,
+    626,
+    865,
+    1096,
+    1388
   ],
-  "closingFrame": 1339,
-  "totalFrames": 1388,
-  "alignment": 0.984
+  "closingFrame": 1617,
+  "totalFrames": 1666,
+  "alignment": 0.995,
+  "visualCues": [
+    {
+      "scene": 2,
+      "cue": "Wähle PDF",
+      "anchor": "wähle",
+      "audioSeconds": 12.39,
+      "frame": 416,
+      "nearestRecognized": [
+        "wähle"
+      ]
+    },
+    {
+      "scene": 3,
+      "cue": "Schnappschuss freigeben",
+      "anchor": "schnappschuss",
+      "audioSeconds": 25.77,
+      "frame": 817,
+      "nearestRecognized": [
+        "wähle",
+        "schnappschuss"
+      ]
+    },
+    {
+      "scene": 5,
+      "cue": "Freigabe aktualisieren",
+      "anchor": "freigabe",
+      "audioSeconds": 40.32,
+      "frame": 1254,
+      "nearestRecognized": [
+        "freigabe"
+      ]
+    },
+    {
+      "scene": 6,
+      "cue": "Freigabe zurückziehen",
+      "anchor": "freigabe",
+      "audioSeconds": 47.28,
+      "frame": 1462,
+      "nearestRecognized": [
+        "wähle",
+        "freigabe"
+      ]
+    }
+  ]
 }

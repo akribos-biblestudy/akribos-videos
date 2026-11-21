@@ -4,66 +4,85 @@
   "title": "Die Bibelausgaben in Akribos",
   "scenes": [
     {
-      "title": "Die Ausgaben finden",
-      "text": "Öffne im Reader über das Plus die Werkauswahl. Bei den Bibeln findest du mehrere deutsche Übersetzungen. Schau auch auf den Zusatz unter dem Titel.",
-      "image": "screenshots/01.png",
-      "focus": [
-        1170,
-        17,
-        1390,
-        480
-      ],
-      "point": [
-        2476,
-        173
-      ]
-    },
-    {
-      "title": "Elberfelder und Luther",
-      "text": "Die Ausgaben von Akribos für die Elberfelder von neunzehnhundertzweiunddreißig und die Lutherbibel von neunzehnhundertzwölf behalten ihre historische Grundlage. Einzelne Schreibweisen wurden behutsam modernisiert.",
-      "image": "screenshots/02.png",
-      "focus": [
-        1370,
-        316,
-        1190,
-        560
-      ]
-    },
-    {
-      "title": "Schlachter vergleichen",
-      "text": "Auch zur Schlachter von neunzehnhunderteinundfünfzig gibt es eine Ausgabe von Akribos. Hier wurde der Wortlaut beibehalten und die Zuordnung von Strong-Nummern ergänzt.",
-      "image": "screenshots/03.png",
-      "focus": [
-        1046,
-        711,
-        1280,
-        380
-      ],
-      "point": [
-        1686,
-        901
-      ]
-    },
-    {
-      "title": "Ein Wort nachschlagen",
-      "text": "Solche Nummern verbinden deutsche Wörter mit dem hebräischen oder griechischen Grundwort. Über ein entsprechend verknüpftes Wort öffnest du die Wortstudie.",
-      "image": "screenshots/04.png",
+      "title": "Vier historische Übersetzungen",
+      "text": "Warum klingt derselbe Vers in der Elberfelder anders als bei Luther, Schlachter oder Menge? Jede dieser Übersetzungen hat ihre eigene Sprache. Drei davon gibt es in einer eigens bearbeiteten Ausgabe von Akribos.",
+      "image": "graphics/01.png",
       "focus": [
         0,
-        235,
-        1700,
-        1080
+        0,
+        1920,
+        820
       ]
     },
     {
-      "title": "Menge daneben lesen",
-      "text": "Menge von neunzehnhundertneununddreißig findest du als eigene Übersetzung. Öffne denselben Vers in einer zweiten Kachel, um die beiden Formulierungen zu vergleichen.",
-      "image": "screenshots/05.png",
+      "title": "Elberfelder 1932",
+      "text": "Die Elberfelder von neunzehnhundertzweiunddreißig ist die Grundlage der ersten Ausgabe. Einzelne Ausdrücke und Schreibweisen wurden angepasst. Wo zum Beispiel früher „Jehova“ stand, liest du heute „der Herr“.",
+      "image": "graphics/02.png",
       "focus": [
-        15,
         0,
-        2500,
-        730
+        0,
+        1920,
+        820
+      ]
+    },
+    {
+      "title": "Luther 1912",
+      "text": "Auch die Lutherbibel von neunzehnhundertzwölf behält ihre historische Sprache. Einzelne Schreibweisen wurden modernisiert. Aus „daß“ mit scharfem S wird zum Beispiel „dass“ mit Doppel-S.",
+      "image": "graphics/03.png",
+      "focus": [
+        0,
+        0,
+        1920,
+        820
+      ]
+    },
+    {
+      "title": "Schlachter 1951",
+      "text": "Bei der Schlachter von neunzehnhunderteinundfünfzig ist der ursprüngliche Wortlaut erhalten. Die Bearbeitung betrifft hier die Verknüpfung der deutschen Wörter mit dem Grundtext.",
+      "image": "graphics/04.png",
+      "focus": [
+        0,
+        0,
+        1920,
+        820
+      ]
+    },
+    {
+      "title": "Menge 1939",
+      "text": "Die Menge-Bibel von neunzehnhundertneununddreißig kannst du als weitere historische Übersetzung zum Vergleich lesen. Im Reader findest du sie unter dem Namen „Menge-Bibel“.",
+      "image": "graphics/05.png",
+      "focus": [
+        0,
+        0,
+        1920,
+        820
+      ]
+    },
+    {
+      "title": "Was Strong-Nummern leisten",
+      "text": "In allen drei von Akribos bearbeiteten Übersetzungen wurden Strong-Nummern ergänzt oder vorhandene Zuordnungen verbessert. Eine solche Nummer verbindet ein deutsches Wort mit einem hebräischen oder griechischen Grundwort.",
+      "image": "graphics/06.png",
+      "focus": [
+        0,
+        0,
+        1920,
+        820
+      ]
+    },
+    {
+      "title": "Automatisch zugeordnet",
+      "text": "In Johannes drei, Vers zweiundzwanzig, ist „verweilte“ ein Beispiel dafür. Die Wortstudie weist darauf hin, dass die automatische Zuordnung fachlich noch nicht bestätigt ist. So kannst du die Angabe beim Nachschlagen einordnen.",
+      "image": "screenshots/07.png",
+      "focus": [
+        0,
+        254,
+        1490,
+        540
+      ],
+      "cue": "fachlich noch nicht bestätigt",
+      "point": [
+        954,
+        642
       ]
     }
   ]

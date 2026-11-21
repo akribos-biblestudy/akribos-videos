@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="820" viewBox="0 0 1920 820" role="img" aria-labelledby="title desc">
+<title id="title">Jehovasname in der Elberfelder</title><desc id="desc">Beispiel Psalm 23,1. In der Akribos-Ausgabe steht der HERR.</desc>
+<rect x="0" y="0" width="1920" height="820" fill="#F3F0DF" rx="0"/>
+<rect x="955" y="0" width="965" height="820" fill="#E1EBD6" rx="0"/>
+<text x="105" y="114" font-family="Akribos Text, sans-serif" font-size="32" font-weight="600" fill="#597165" text-anchor="start" letter-spacing="2" font-style="normal">ELBERFELDER 1932</text>
+<text x="1030" y="114" font-family="Akribos Text, sans-serif" font-size="32" font-weight="600" fill="#597165" text-anchor="start" letter-spacing="2" font-style="normal">AKRIBOS-AUSGABE</text>
+<path d="M105 160 L822 160" fill="none" stroke="#B6BD9F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1030 160 L1762 160" fill="none" stroke="#ADBEA4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="105" y="405" font-family="Liberation Serif, serif" font-size="155" font-weight="400" fill="#163C30" text-anchor="start" letter-spacing="0" font-style="normal">Jehova</text>
+<text x="1030" y="405" font-family="Liberation Serif, serif" font-size="137" font-weight="400" fill="#163C30" text-anchor="start" letter-spacing="0" font-style="normal">der HERR</text>
+<circle cx="951" cy="350" r="61" fill="#163C30"/>
+<path d="M927 350 H972 M956 335 L972 350 L956 365" fill="none" stroke="#F9F5E9" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1030 445 L1675 445" fill="none" stroke="#A0BB63" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="108" y="604" font-family="Akribos Text, sans-serif" font-size="42" font-weight="600" fill="#597165" text-anchor="start" letter-spacing="0" font-style="normal">Psalm 23,1</text>
+<text x="108" y="690" font-family="Akribos Text, sans-serif" font-size="46" font-weight="400" fill="#163C30" text-anchor="start" letter-spacing="0" font-style="normal">Ein Ausdruck im historischen und im bearbeiteten Wortlaut.</text>
+</svg>

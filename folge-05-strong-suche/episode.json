@@ -4,41 +4,48 @@
   "slug": "strong-suche",
   "scenes": [
     {
-      "title": "Vom deutschen Wort ausgehen",
-      "text": "Welches Wort steht hinter „geliebt“ in Johannes drei, Vers sechzehn? Klicke in einer Bibel mit Wortverknüpfungen auf „geliebt“.",
-      "image": "screenshots/01-griechisch-geliebt.png",
+      "title": "Vom Wort „Frieden“ ausgehen",
+      "text": "Was bedeutet „Frieden“ in Johannes vierzehn, Vers siebenundzwanzig? Klicke in der Elberfelder Bibel auf das erste Wort „Frieden“.",
+      "image": "screenshots/01-griechisch-frieden.png",
       "focus": [
         0,
-        46,
-        1228,
-        666
+        106,
+        1214,
+        606
       ],
       "point": [
-        789,
-        379
-      ]
+        1105,
+        378
+      ],
+      "cue": "das erste Wort „Frieden“",
+      "anchorWord": "frieden"
     },
     {
-      "title": "Die Nummer lesen",
-      "text": "Das Lexikon zeigt das griechische Verb und seine Strong-Nummer, G fünfundzwanzig. Das G steht für Griechisch.",
-      "image": "screenshots/02-lexikon-g25.png",
+      "title": "Bedeutung und Strong-Nummer",
+      "text": "Das Lexikon erklärt das griechische Wort. Es kann zum Beispiel Frieden zwischen Menschen bezeichnen. Die Strong-Nummer lautet G eintausendfünfhundertfünfzehn. Das G steht für Griechisch.",
+      "image": "screenshots/02-lexikon-g1515.png",
       "focus": [
-        1220,
-        176,
-        1260,
-        950
+        1242,
+        220,
+        1206,
+        1020
       ]
     },
     {
       "title": "Nach G25 suchen",
-      "text": "Gib G fünfundzwanzig im Suchfeld der Bibel ein. So findest du Stellen mit demselben zugeordneten Grundwort, auch wenn es im Deutschen anders wiedergegeben wird.",
+      "text": "Du kannst auch G fünfundzwanzig im Suchfeld der Bibel eingeben. Diese Nummer gehört zum Verb „lieben“. Die Treffer zeigen dir, wie dasselbe Grundwort im Deutschen wiedergegeben wird.",
       "image": "screenshots/03-suche-g25.png",
       "focus": [
         0,
         112,
         1700,
         900
-      ]
+      ],
+      "point": [
+        256,
+        259
+      ],
+      "cue": "G fünfundzwanzig"
     },
     {
       "title": "Vorkommen und Übersetzungen",
@@ -57,14 +64,15 @@
       "image": "screenshots/05-suche-h430.png",
       "focus": [
         0,
-        46,
-        1250,
-        770
+        110,
+        1214,
+        708
       ],
       "point": [
-        619,
+        142,
         480
-      ]
+      ],
+      "cue": "In Erster Mose eins, Vers eins"
     },
     {
       "title": "Das Grundwort nachschlagen",

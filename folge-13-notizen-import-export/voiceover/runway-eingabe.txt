@@ -1,9 +1,17 @@
-Du hast eine Notiz in Word oder Markdown geschrieben? Öffne in /aˈkʁiːbɔs/ die Notizbibliothek und wähle „Importieren“.
+Deine Notiz liegt in Word oder Markdown vor? Öffne die Notizbibliothek und wähle „Importieren“.
 
-Wähle deine Datei und klicke auf „Importvorschau erstellen“. Hier prüfst du den Titel, den Text und die erkannten Bibelstellen.
+Wähle deine Datei aus und klicke auf „Importvorschau erstellen“. Damit kannst du den Inhalt prüfen, bevor du ihn übernimmst.
 
-Lies auch die Hinweise zu ausgelassenen Inhalten. Erst mit „Als privates Dokument importieren“ landet die Notiz in deiner Bibliothek.
+Stimmen Titel und Inhalt, wähle „Als privates Dokument importieren“. Auch im Fließtext importierter Dateien erkennt /aˈkʁiːbɔs/ Bibelstellen automatisch und verknüpft sie mit dem Bibeltext.
 
-Öffne die gespeicherte Notiz. Unter „Exportieren“ findest du Word zum Weiterbearbeiten und PDF zum Lesen oder Ausdrucken.
+Buchnamen können ausgeschrieben oder abgekürzt sein, auch auf Englisch. Römer acht führt zum ganzen Kapitel. Bei Johannes drei, Vers sechzehn, kannst du Kapitel und Vers durch Komma, Doppelpunkt oder Unterstrich trennen. Das Leerzeichen nach dem Buchnamen ist optional.
 
-Für einen späteren Import nimm Markdown. Darin stehen neben dem Text auch Schlagwörter und verknüpfte Bibelstellen. Beim erneuten Import entsteht eine neue private Kopie.
+Ein Bindestrich oder Gedankenstrich verbindet Anfang und Ende eines Abschnitts, auch über Kapitel und Bücher hinweg. Bei nummerierten Büchern funktionieren arabische und römische Ziffern, etwa beim zweiten Samuelbuch.
+
+Die Zusätze a, b und c verweisen auf den ganzen Vers. Ein f nimmt den folgenden Vers dazu. Zwei f stehen hier für die beiden nächsten Verse.
+
+Ein Pluszeichen oder Punkt trennt einzelne Verse desselben Kapitels. Ein Semikolon führt die Liste im selben Buch fort, etwa von Johannes drei, Vers sechzehn, zu Kapitel vier, Vers zwei.
+
+Wählst du einen erkannten Vers, erscheint die Vorschau. Mit „Bibelstelle öffnen“ springst du von deiner Notiz direkt in den Bibeltext.
+
+Über „Exportieren“ bekommst du deine Notiz als Datei. Wähle Word zum Weiterbearbeiten, PDF zum Lesen oder Markdown für einen Texteditor.

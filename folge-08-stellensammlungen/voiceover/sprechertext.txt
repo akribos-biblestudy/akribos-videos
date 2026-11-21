@@ -1,9 +1,17 @@
-Für den Hauskreis willst du mehrere Stellen über Licht und Leben vergleichen. Öffne „Notizen und Ausarbeitungen“ und gehe zu „Stellensammlungen“.
+Für den Hauskreis möchtest du mehrere Stellen über Licht und Leben sammeln. Klicke oben rechts auf deinen Namen.
 
-Trage einen Titel ein und klicke auf „Neue Stellensammlung“. Nun hat dein Thema einen eigenen Platz.
+Wähle im Menü „Notizen und Ausarbeitungen“.
 
-Gib auf der Sammlungsseite Johannes eins, Vers vier bis fünf ein. Mit „Zur Stellensammlung hinzufügen“ erhält jeder Vers einen eigenen Eintrag.
+Hier findest du neben deinen Notizen den Reiter „Stellensammlungen“.
 
-Du findest beim Weiterlesen einen passenden Vers? Klicke auf seine Versnummer und wähle im Menü die bestehende Sammlung.
+Gib deiner Sammlung einen Titel und klicke auf „Neue Stellensammlung“.
 
-In der Sammlung kannst du unter „Kommentar hinzufügen“ eine Beobachtung festhalten. Speichere sie direkt am Vers. Über die Stellenangabe springst du wieder zum Bibeltext.
+Trage Johannes eins, Vers vier bis fünf ein. Mit „Zur Stellensammlung hinzufügen“ bekommt jeder Vers einen eigenen Eintrag.
+
+Du findest beim Weiterlesen noch einen Vers? Öffne über seine Nummer das Versmenü und wähle die Sammlung „Licht und Leben“.
+
+Direkt unter dem Vers könnt ihr Beobachtungen festhalten und aufeinander antworten.
+
+Unter „Mitglieder“ gibst du die E-Mail-Adresse ein. Über „Einladen“ können andere mit dir Verse sammeln und kommentieren.
+
+Sollen andere nur mitlesen? Unter „Teilen“ erstellst du einen Leselink für eure Sammlung.

@@ -1,9 +1,13 @@
-Öffne im Reader über das Plus die Werkauswahl. Bei den Bibeln findest du mehrere deutsche Übersetzungen. Schau auch auf den Zusatz unter dem Titel.
+Warum klingt derselbe Vers in der Elberfelder anders als bei Luther, Schlachter oder Menge? Jede dieser Übersetzungen hat ihre eigene Sprache. Drei davon gibt es in einer eigens bearbeiteten Ausgabe von Akribos.
 
-Die Ausgaben von Akribos für die Elberfelder von neunzehnhundertzweiunddreißig und die Lutherbibel von neunzehnhundertzwölf behalten ihre historische Grundlage. Einzelne Schreibweisen wurden behutsam modernisiert.
+Die Elberfelder von neunzehnhundertzweiunddreißig ist die Grundlage der ersten Ausgabe. Einzelne Ausdrücke und Schreibweisen wurden angepasst. Wo zum Beispiel früher „Jehova“ stand, liest du heute „der Herr“.
 
-Auch zur Schlachter von neunzehnhunderteinundfünfzig gibt es eine Ausgabe von Akribos. Hier wurde der Wortlaut beibehalten und die Zuordnung von Strong-Nummern ergänzt.
+Auch die Lutherbibel von neunzehnhundertzwölf behält ihre historische Sprache. Einzelne Schreibweisen wurden modernisiert. Aus „daß“ mit scharfem S wird zum Beispiel „dass“ mit Doppel-S.
 
-Solche Nummern verbinden deutsche Wörter mit dem hebräischen oder griechischen Grundwort. Über ein entsprechend verknüpftes Wort öffnest du die Wortstudie.
+Bei der Schlachter von neunzehnhunderteinundfünfzig ist der ursprüngliche Wortlaut erhalten. Die Bearbeitung betrifft hier die Verknüpfung der deutschen Wörter mit dem Grundtext.
 
-Menge von neunzehnhundertneununddreißig findest du als eigene Übersetzung. Öffne denselben Vers in einer zweiten Kachel, um die beiden Formulierungen zu vergleichen.
+Die Menge-Bibel von neunzehnhundertneununddreißig kannst du als weitere historische Übersetzung zum Vergleich lesen. Im Reader findest du sie unter dem Namen „Menge-Bibel“.
+
+In allen drei von Akribos bearbeiteten Übersetzungen wurden Strong-Nummern ergänzt oder vorhandene Zuordnungen verbessert. Eine solche Nummer verbindet ein deutsches Wort mit einem hebräischen oder griechischen Grundwort.
+
+In Johannes drei, Vers zweiundzwanzig, ist „verweilte“ ein Beispiel dafür. Die Wortstudie weist darauf hin, dass die automatische Zuordnung fachlich noch nicht bestätigt ist. So kannst du die Angabe beim Nachschlagen einordnen.

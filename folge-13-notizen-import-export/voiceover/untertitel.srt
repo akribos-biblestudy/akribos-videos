@@ -1,57 +1,126 @@
 1
-00:00:01,530 --> 00:00:04,680
-Du hast eine Notiz in Word oder Markdown
-geschrieben?
+00:00:01,530 --> 00:00:04,740
+Deine Notiz liegt in Word oder Markdown
+vor?
 
 2
-00:00:04,680 --> 00:00:08,910
-Öffne in Akribos die Notizbibliothek und
-wähle „Importieren“.
+00:00:04,740 --> 00:00:08,250
+Öffne die Notizbibliothek und wähle
+„Importieren“.
 
 3
-00:00:08,910 --> 00:00:12,960
-Wähle deine Datei und klicke auf
+00:00:08,250 --> 00:00:12,570
+Wähle deine Datei aus und klicke auf
 „Importvorschau erstellen“.
 
 4
-00:00:12,960 --> 00:00:16,950
-Hier prüfst du den Titel, den Text und die
-erkannten Bibelstellen.
+00:00:12,570 --> 00:00:15,780
+Damit kannst du den Inhalt prüfen, bevor du
+ihn übernimmst.
 
 5
-00:00:16,950 --> 00:00:19,920
-Lies auch die Hinweise zu ausgelassenen
-Inhalten.
+00:00:15,780 --> 00:00:20,550
+Stimmen Titel und Inhalt, wähle „Als
+privates Dokument importieren“.
 
 6
-00:00:19,920 --> 00:00:24,150
-Erst mit „Als privates Dokument
-importieren“ landet die Notiz in deiner
+00:00:20,550 --> 00:00:25,080
+Auch im Fließtext importierter Dateien
+erkennt Akribos Bibelstellen automatisch
 
 7
-00:00:24,150 --> 00:00:25,350
-Bibliothek.
+00:00:25,080 --> 00:00:27,210
+und verknüpft sie mit dem Bibeltext.
 
 8
-00:00:25,350 --> 00:00:30,060
-Öffne die gespeicherte Notiz. Unter
-„Exportieren“ findest du Word zum
+00:00:27,210 --> 00:00:31,500
+Buchnamen können ausgeschrieben oder
+abgekürzt sein, auch auf Englisch.
 
 9
-00:00:30,060 --> 00:00:33,600
-Weiterbearbeiten und PDF zum Lesen oder
-Ausdrucken.
+00:00:31,500 --> 00:00:34,080
+Römer acht führt zum ganzen Kapitel.
 
 10
-00:00:33,600 --> 00:00:36,090
-Für einen späteren Import nimm Markdown.
+00:00:34,080 --> 00:00:38,100
+Bei Johannes drei, Vers sechzehn, kannst du
+Kapitel und Vers durch Komma,
 
 11
-00:00:36,090 --> 00:00:40,080
-Darin stehen neben dem Text auch
-Schlagwörter und verknüpfte Bibelstellen.
+00:00:38,100 --> 00:00:40,320
+Doppelpunkt oder Unterstrich trennen.
 
 12
-00:00:40,080 --> 00:00:43,310
-Beim erneuten Import entsteht eine neue
-private Kopie.
+00:00:40,320 --> 00:00:43,320
+Das Leerzeichen nach dem Buchnamen ist
+optional.
+
+13
+00:00:43,320 --> 00:00:47,760
+Ein Bindestrich oder Gedankenstrich
+verbindet Anfang und Ende eines Abschnitts,
+
+14
+00:00:47,760 --> 00:00:50,100
+auch über Kapitel und Bücher hinweg.
+
+15
+00:00:50,100 --> 00:00:54,150
+Bei nummerierten Büchern funktionieren
+arabische und römische Ziffern, etwa
+
+16
+00:00:54,150 --> 00:00:55,920
+beim zweiten Samuelbuch.
+
+17
+00:00:55,920 --> 00:01:00,300
+Die Zusätze a, b und c verweisen auf den
+ganzen Vers.
+
+18
+00:01:00,300 --> 00:01:02,910
+Ein f nimmt den folgenden Vers dazu.
+
+19
+00:01:02,910 --> 00:01:05,910
+Zwei f stehen hier für die beiden nächsten
+Verse.
+
+20
+00:01:05,910 --> 00:01:10,230
+Ein Pluszeichen oder Punkt trennt einzelne
+Verse desselben Kapitels.
+
+21
+00:01:10,230 --> 00:01:14,700
+Ein Semikolon führt die Liste im selben
+Buch fort, etwa von Johannes drei, Vers
+
+22
+00:01:14,700 --> 00:01:17,340
+sechzehn, zu Kapitel vier, Vers zwei.
+
+23
+00:01:17,340 --> 00:01:20,370
+Wählst du einen erkannten Vers, erscheint
+die Vorschau.
+
+24
+00:01:20,370 --> 00:01:25,170
+Mit „Bibelstelle öffnen“ springst du von
+deiner Notiz direkt in den Bibeltext.
+
+25
+00:01:25,170 --> 00:01:28,710
+Über „Exportieren“ bekommst du deine Notiz
+als Datei.
+
+26
+00:01:28,710 --> 00:01:33,990
+Wähle Word zum Weiterbearbeiten, PDF zum
+Lesen oder Markdown für einen
+
+27
+00:01:33,990 --> 00:01:34,990
+Texteditor.

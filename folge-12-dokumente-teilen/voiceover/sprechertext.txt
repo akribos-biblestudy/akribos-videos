@@ -1,9 +1,11 @@
-Du möchtest deinem Hauskreis eine Ausarbeitung mitgeben? Öffne das Dokument und warte, bis der Editor „Gespeichert“ anzeigt.
+Du möchtest deinem Hauskreis eine Ausarbeitung mitgeben? Öffne das Dokument. Du kannst es als Datei weitergeben, genau wie eine persönliche Notiz.
 
-Unter „Exportieren“ wählst du PDF zum Lesen oder Word zum Weiterbearbeiten. Die heruntergeladene Datei kannst du weitergeben. Das geht auch bei Notizen.
+Im Menü „Exportieren“ findest du mehrere Formate. Wähle PDF, wenn andere den Text lesen oder ausdrucken möchten. Eine Word-Datei können sie weiterbearbeiten.
 
-Mit einem Administratorkonto kannst du eigene Notizen zusätzlich per Link teilen. Unter „Freigabe per Link“ wählst du „Schnappschuss freigeben“.
+Eine Notiz kannst du auch per Link teilen. Öffne in deiner Notiz die „Freigabe per Link“ und wähle „Schnappschuss freigeben“.
 
-Öffne den freigegebenen Link und kopiere die Adresse. Jeder mit diesem Link kann die Fassung ohne Anmeldung lesen.
+Öffne den freigegebenen Link und kopiere die Adresse aus dem Browser. Wer den Link erhält, kann diese Fassung ohne Anmeldung lesen.
 
-Nach einer Änderung bleibt der alte Stand sichtbar, bis du die Freigabe aktualisierst. Über „Freigabe zurückziehen“ beendest du den Zugriff.
+Wenn du deine Notiz bearbeitest, sehen andere zunächst die bisherige Fassung. Mit „Freigabe aktualisieren“ machst du die Änderungen unter derselben Adresse sichtbar.
+
+Soll die Notiz wieder privat sein, wähle „Freigabe zurückziehen“. Danach ist sie unter dem bisherigen Link nicht mehr erreichbar.

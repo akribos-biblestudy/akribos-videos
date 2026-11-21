@@ -58,13 +58,13 @@ export async function captureEpisode(moduleURL, options, record) {
       await page.getByRole('button', {name:'Anmelden',exact:true}).click();
       await page.waitForURL(url => url.origin === origin && url.pathname !== '/login');
     }
-    async function snap(n, anchor, { size, offset=[0,0], point, scroll=true }={}) {
+    async function snap(n, anchor, { size, offset=[0,0], point, scroll=true, keepHover=false }={}) {
       if (!selected.has(n)) return;
       const viewport = page.viewportSize();
       const anchors = Array.isArray(anchor) ? anchor : [anchor];
       if (scroll) await anchors[0].scrollIntoViewIfNeeded();
       await page.evaluate(async () => { await document.fonts.ready; await new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r))); });
-      await page.mouse.move(1,viewport.height-2);
+      if (!keepHover) await page.mouse.move(1,viewport.height-2);
       await page.waitForTimeout(300);
       const boxes = await Promise.all(anchors.map(a=>a.boundingBox()));
       if (boxes.some(r=>!r)) throw new Error('Missing focal element for shot '+n);

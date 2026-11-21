@@ -1,0 +1,39 @@
+{
+  "episode": 13,
+  "original": "runway.mp3",
+  "reference": "../../sprecher/akribos-aussprache-runway.mp3",
+  "reference_variant": 3,
+  "source_range_s": [
+    10.195,
+    10.88
+  ],
+  "target_edit_range_s": [
+    21.584,
+    22.198
+  ],
+  "insert_at_s": 21.589,
+  "gain_db": -2.173,
+  "pitch_change_semitones": 0,
+  "time_stretch": 1,
+  "source_sibilant_anchors_s": [
+    10.757,
+    10.837
+  ],
+  "sibilant_crossfade_s": 0.008,
+  "sibilant_crossfade_curve": "equal-power",
+  "sibilant_shortening_s": 0.08,
+  "donor_fade_s": 0.012,
+  "donor_fade_curve": "linear",
+  "edit_crossfade_s": 0.009,
+  "edit_crossfade_curve": "linear",
+  "format": "44100 Hz mono PCM s24le",
+  "decoded_samples": 4124232,
+  "seconds_start": "First sample after FFmpeg gapless MP3 decoding, sample index round(seconds * 44100).",
+  "original_sha256": "84b69f6124b4d52cc0df75d90109c623716c1a25680a5556aee246b9f61a85e0",
+  "reference_sha256": "bd3afedda4700135b64e0759149c0d66bebdf7c3f524259c687c5e6806170058",
+  "output_sha256": "c3e055b2e7a3295187dacd7f718155e24ad888d30530c358b604f7946650f282",
+  "vowel_waveform_correlation": 1.0,
+  "unchanged_range_max_quantization_error": 1.1897463991772383e-07,
+  "output": "sprecher-mit-referenzaussprache.wav",
+  "timeline_offset_s": 1.47
+}

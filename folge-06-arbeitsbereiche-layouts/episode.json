@@ -4,78 +4,179 @@
   "slug": "arbeitsbereiche-layouts",
   "scenes": [
     {
-      "title": "Eine Anordnung wählen",
-      "text": "Wie behältst du deine Studienansicht für morgen? Öffne im Reader die Kachelanordnung. Für Bibel, Kommentar und Lexikon wähle „Drei Spalten“.",
-      "image": "screenshots/01-drei-spalten.png",
+      "title": "Die Kachelanordnung öffnen",
+      "text": "Wie passt du Akribos an deinen Bildschirm und deine Vorlieben an? Öffne oben die Kachelanordnung.",
+      "image": "screenshots/01-kachelanordnung.png",
+      "cue": "die Kachelanordnung",
       "focus": [
-        1280,
         0,
-        1200,
-        800
+        0,
+        2470,
+        1030
       ],
       "point": [
-        1960,
-        325
+        1789,
+        126
       ]
     },
     {
-      "title": "Werke verteilen",
-      "text": "Über das Plus einer Kachel fügst du dort ein Werk hinzu. Ziehe den Trenner zur Seite, wenn der Bibeltext mehr Platz bekommen soll.",
-      "image": "screenshots/02-trenner.png",
+      "title": "Ein Layout wählen",
+      "text": "Wähle zum Beispiel „Zwei Spalten“, um Bibel und Kommentar nebeneinander zu lesen. Du kannst die Kacheln auch übereinander oder unterschiedlich groß anordnen.",
+      "image": "screenshots/02-zwei-spalten.png",
+      "cue": "„Zwei Spalten“",
+      "focus": [
+        1400,
+        0,
+        1060,
+        920
+      ],
+      "point": [
+        2268,
+        285
+      ]
+    },
+    {
+      "title": "Den Notizbereich einschalten",
+      "text": "In derselben Auswahl findest du den Notizbereich. Schalte ihn ein, wenn du neben dem Bibeltext schreiben möchtest.",
+      "image": "screenshots/03-notizbereich-einschalten.png",
+      "cue": "den Notizbereich",
+      "focus": [
+        1400,
+        0,
+        1060,
+        920
+      ],
+      "point": [
+        2317,
+        759
+      ]
+    },
+    {
+      "title": "Neben dem Bibeltext schreiben",
+      "text": "Rechts kannst du eine Notiz zur aktuellen Stelle anlegen oder deine Dokumente durchsuchen. Schließe den Notizbereich, um die ganze Breite wieder zum Lesen zu nutzen.",
+      "image": "screenshots/04-notizbereich-offen.png",
+      "cue": "Schließe den Notizbereich",
+      "focus": [
+        1616,
+        152,
+        836,
+        1040
+      ],
+      "point": [
+        2380,
+        243
+      ]
+    },
+    {
+      "title": "Einen Tab verschieben",
+      "text": "Auch geöffnete Tabs lassen sich verschieben. Ziehe den Tab der Schlachter-Bibel von der linken Spalte auf die Tableiste der rechten Spalte.",
+      "image": "screenshots/05-tab-verschieben.png",
+      "cue": "Ziehe den Tab",
+      "focus": [
+        8,
+        178,
+        1740,
+        664
+      ],
+      "point": [
+        334,
+        244
+      ],
+      "dragTo": [
+        1327,
+        244
+      ],
+      "dragRect": [
+        282,
+        204,
+        256,
+        83
+      ],
+      "afterImage": "screenshots/06-spaltenbreite-ziehen.png"
+    },
+    {
+      "title": "Die Spaltenbreite ändern",
+      "text": "Rechts liegt die Schlachter jetzt beim Kommentar. Links bleibt die Elberfelder geöffnet. Ziehe den Trenner nach rechts, um der linken Bibel mehr Platz zu geben.",
+      "image": "screenshots/06-spaltenbreite-ziehen.png",
+      "cue": "Ziehe den Trenner",
       "focus": [
         0,
         0,
         2480,
-        1140
+        1190
       ],
       "point": [
-        1527,
-        173
+        1225,
+        936
+      ],
+      "dragTo": [
+        1425,
+        936
+      ],
+      "afterImage": "screenshots/07-arbeitsbereiche-oeffnen.png"
+    },
+    {
+      "title": "Die Ansicht speichern",
+      "text": "Wenn du angemeldet bist, kannst du diese Ansicht für später speichern. Öffne oben „Arbeitsbereiche“.",
+      "image": "screenshots/07-arbeitsbereiche-oeffnen.png",
+      "cue": "„Arbeitsbereiche“",
+      "focus": [
+        0,
+        0,
+        2480,
+        1180
+      ],
+      "point": [
+        1579,
+        126
       ]
     },
     {
-      "title": "Ansicht als Arbeitsbereich anlegen",
-      "text": "Öffne oben „Arbeitsbereiche“. Angemeldet kannst du „Neuer Arbeitsbereich“ wählen. Er übernimmt die Zusammenstellung, die du gerade siehst.",
-      "image": "screenshots/03-arbeitsbereich-menue.png",
+      "title": "Einen Arbeitsbereich anlegen",
+      "text": "Wähle „Neuer Arbeitsbereich“. Er übernimmt die Zusammenstellung, die du gerade siehst.",
+      "image": "screenshots/08-neuer-arbeitsbereich.png",
+      "cue": "„Neuer Arbeitsbereich“",
       "focus": [
-        1132,
-        44,
-        1210,
-        700
+        1290,
+        0,
+        1020,
+        715
       ],
       "point": [
-        1738,
-        393
+        1705,
+        535
       ]
     },
     {
       "title": "Einen Namen vergeben",
       "text": "Nenne ihn zum Beispiel „Johannes studieren“ und klicke auf „Anlegen“. Deine offenen Tabs, ihre Lesestellen und die Anordnung werden für diesen Arbeitsbereich gespeichert.",
-      "image": "screenshots/04-arbeitsbereich-anlegen.png",
+      "image": "screenshots/09-namen-vergeben.png",
+      "cue": "auf „Anlegen“",
       "focus": [
-        586,
-        396,
-        1280,
-        830
+        610,
+        430,
+        1230,
+        880
       ],
       "point": [
         1567,
-        1022
+        1094
       ]
     },
     {
-      "title": "Gespeicherte Ansicht öffnen",
+      "title": "Die Ansicht wieder öffnen",
       "text": "Später wählst du im Menü wieder „Johannes studieren“. So kehrst du zu deiner Ansicht zurück, auch wenn du zwischendurch in einem anderen Arbeitsbereich gelesen hast.",
-      "image": "screenshots/05-gespeicherte-ansicht.png",
+      "image": "screenshots/10-gespeicherter-arbeitsbereich.png",
+      "cue": "„Johannes studieren“",
       "focus": [
-        1270,
+        1290,
         0,
-        1210,
-        710
+        1020,
+        715
       ],
       "point": [
-        1938,
-        217
+        1678,
+        277
       ]
     }
   ]

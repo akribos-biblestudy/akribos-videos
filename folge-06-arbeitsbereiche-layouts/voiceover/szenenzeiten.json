@@ -1,15 +1,133 @@
 {
   "fps": 30,
   "voiceOffset": 1.47,
-  "recordingDuration": 45.04,
+  "recordingDuration": 78.56,
   "sceneStartFrames": [
     41,
-    338,
-    567,
-    827,
-    1131
+    219,
+    505,
+    695,
+    983,
+    1216,
+    1483,
+    1670,
+    1826,
+    2135
   ],
-  "closingFrame": 1399,
-  "totalFrames": 1448,
-  "alignment": 0.988
+  "closingFrame": 2407,
+  "totalFrames": 2456,
+  "alignment": 0.98,
+  "visualCues": [
+    {
+      "scene": 1,
+      "cue": "die Kachelanordnung",
+      "anchor": "kachelanordnung",
+      "audioSeconds": 4.65,
+      "frame": 184,
+      "nearestRecognized": [
+        "oben",
+        "die",
+        "kacheln"
+      ]
+    },
+    {
+      "scene": 2,
+      "cue": "„Zwei Spalten“",
+      "anchor": "zwei",
+      "audioSeconds": 7.05,
+      "frame": 256,
+      "nearestRecognized": [
+        "beispiel",
+        "zwei"
+      ]
+    },
+    {
+      "scene": 3,
+      "cue": "den Notizbereich",
+      "anchor": "notizbereich",
+      "audioSeconds": 17.1,
+      "frame": 557,
+      "nearestRecognized": [
+        "den",
+        "notiz"
+      ]
+    },
+    {
+      "scene": 4,
+      "cue": "Schließe den Notizbereich",
+      "anchor": "schliesse",
+      "audioSeconds": 27.12,
+      "frame": 858,
+      "nearestRecognized": [
+        "diese"
+      ],
+      "verifiedWith": "Wav2Vec2 CTC",
+      "recordingSha256": "dfee1632afed5578467c49071bb15de816d67dba66dafaec70c3e146d87402d5"
+    },
+    {
+      "scene": 5,
+      "cue": "Ziehe den Tab",
+      "anchor": "ziehe",
+      "audioSeconds": 33.96,
+      "frame": 1063,
+      "nearestRecognized": [
+        "ziehe",
+        "den"
+      ]
+    },
+    {
+      "scene": 6,
+      "cue": "Ziehe den Trenner",
+      "anchor": "ziehe",
+      "audioSeconds": 44.16,
+      "frame": 1369,
+      "nearestRecognized": [
+        "ziehe",
+        "den"
+      ]
+    },
+    {
+      "scene": 7,
+      "cue": "„Arbeitsbereiche“",
+      "anchor": "arbeitsbereiche",
+      "audioSeconds": 53.01,
+      "frame": 1634,
+      "nearestRecognized": [
+        "oben",
+        "arbeitsbereiche"
+      ]
+    },
+    {
+      "scene": 8,
+      "cue": "„Neuer Arbeitsbereich“",
+      "anchor": "neuer",
+      "audioSeconds": 54.96,
+      "frame": 1693,
+      "nearestRecognized": [
+        "neuer"
+      ]
+    },
+    {
+      "scene": 9,
+      "cue": "auf „Anlegen“",
+      "anchor": "anlegen",
+      "audioSeconds": 63.06,
+      "frame": 1936,
+      "nearestRecognized": [
+        "auf",
+        "anlegen"
+      ]
+    },
+    {
+      "scene": 10,
+      "cue": "„Johannes studieren“",
+      "anchor": "johannes",
+      "audioSeconds": 71.67,
+      "frame": 2194,
+      "nearestRecognized": [
+        "wieder",
+        "johannes"
+      ]
+    }
+  ]
 }

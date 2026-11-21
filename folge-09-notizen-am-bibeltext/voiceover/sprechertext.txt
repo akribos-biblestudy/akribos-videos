@@ -1,9 +1,23 @@
-Was möchtest du beim nächsten Lesen sofort wiedersehen? Klicke auf die Versnummer und öffne die Notizen zu dieser Stelle.
+Dir ist ein Vers besonders wichtig geworden? Füge deine Gedanken als Notiz hinzu. Klicke auf die Versnummer.
 
-Der Notizbereich zeigt die aktuelle Stelle. Geht es um den Gedanken des Verses, wähle „Kanonisch“. Geht es um einen besonderen Wortlaut, wähle die Übersetzung.
+Öffne im Versmenü die Notizen zu dieser Stelle.
 
-Lege die Notiz an, gib ihr einen Titel und schreibe deine Beobachtung. Der Bibeltext bleibt daneben sichtbar.
+Unter „Übersetzungsbezug“ kannst du „Kanonisch“ wählen. So gehört deine Notiz in allen Übersetzungen zu diesem Vers. Geht es um einen bestimmten Wortlaut, wähle die passende Bibel.
 
-Öffne den vollständigen Editor. Unter „Bibelstellen“ gibst du eine weitere Referenz ein und klickst auf „Bibelstelle hinzufügen“.
+Gib deiner Notiz einen Titel und halte deine Beobachtung direkt neben dem Bibeltext fest.
 
-Öffnest du später die Notizen an einer verknüpften Stelle, erscheint derselbe Titel. Ein Klick genügt, um an deinem Text weiterzuschreiben.
+Schreibst du zum Beispiel Johannes fünfzehn, Vers zwölf in die Notiz, erkennt der Editor die Stellenangabe und verknüpft sie automatisch mit dem Bibeltext.
+
+Fahre mit der Maus über die Stellenangabe. In der Vorschau siehst du den Wortlaut.
+
+Mit „Bibeltext einfügen“ übernimmst du die Stelle als Zitat in deine Notiz.
+
+Unter dem Text stehen die Stellenangabe und die verwendete Übersetzung.
+
+Welche Bibel für solche Zitate verwendet wird, bestimmst du unter „Mein Konto“, „Darstellung“, „Standardübersetzung“.
+
+Zurück im Reader bringt dich das Listensymbol in der Notizspalte zur Übersicht.
+
+Aktiviere „Nur Notizen zum aktuellen Kapitel“. Wechselst du beim Lesen das Kapitel, zeigt die Notizspalte die dazugehörigen Notizen.
+
+So findest du beim Lesen auch Gedanken zu anderen Versen desselben Kapitels.

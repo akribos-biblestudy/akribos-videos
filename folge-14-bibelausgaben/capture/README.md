@@ -1,14 +1,19 @@
-# Quellen und Screenshots der Bibelausgaben
+# Grafiken und Wortstudie
 
-Die Aufnahmen wurden im öffentlich zugänglichen Akribos-Reader am 21. November 2026 als Gast mit Johannes 3,16 erstellt. Zuerst sind die Werkauswahl und die darin sichtbaren Bezeichnungen zu sehen. Danach zeigt der Film die Schlachter-Akribos-Ausgabe, ihren verknüpften Eintrag G25 und den Vergleich Elberfelder/Menge in nebeneinanderliegenden Kacheln. Die vier Ressourcen-IDs und die Beispielstelle stehen in [targets.json](targets.json). [Akribos-Reader](https://akribos.de/Joh3,16)
+Die ersten sechs Szenen verwenden individuelle Präsentationsgrafiken. Die [SVG-Originale und hochauflösenden PNGs](../graphics/) enthalten eine Editions-Zeitleiste, zwei sprachliche Vorher-nachher-Beispiele, eine Wortzuordnung bei Schlachter, einen Vergleich mit Menge und die Verbindung zwischen einem deutschen Wort und seinem griechischen Grundwort. Sämtliche Beschriftungen in den SVGs lassen sich als Text bearbeiten. Für die Typografie wird die zentrale Schrift **Akribos Text** zusammen mit der [mitgelieferten Liberation Serif](../../fonts/liberation-serif/LiberationSerif-Regular.ttf) verwendet. [Schriften installieren](../../README.md#schriftarten-installieren)
 
-**Die Editionsangaben dieser Folge**
+Ein SVG lässt sich etwa in Inkscape bearbeiten. Nach einer Änderung exportierst du das PNG wieder mit 1920 × 820 Pixeln und demselben Basisnamen. Mit librsvg geht das beispielsweise aus dem Folgenordner so:
 
-- Für Elberfelder 1932 und Luther 1912 beschreibt das Akribos-Bibelprojekt eine regelbasierte sprachliche Bearbeitung sowie ergänzte Strong-Zuordnungen. Für die Schlachter 1951 ergänzt die auf der öffentlichen Originaldatei basierende Akribos-Ausgabe die Wortzuordnungen. Noch unbestätigte automatische Zuordnungen werden mit einem eigenen Hinweis dokumentiert. [Editionen und Verfahren](https://github.com/akribos-biblestudy/akribos-bibles/blob/b7d1575/README.md)
-- Der öffentlich verfügbare Reader führt Menge als „Menge-Bibel“ mit der Kennung `MENG39` und ohne Strong-Zuordnungen. Die für die Wortstudie verwendete Ausgabe ist `AKRIBOS.SCHL1951`. In der Werkauswahl erscheinen außerdem die separaten historischen Ressourcen. [Öffentlicher Ressourcenkatalog](https://akribos.de/api/reader/resources)
+```bash
+rsvg-convert graphics/04.svg --output graphics/04.png
+```
 
-**Aufnahme wiederholen**
+Die Edition 1.5.1 dokumentiert überarbeitete oder ergänzte Strong-Zuordnungen für Elberfelder 1932, Luther 1912 und Schlachter 1951. Elberfelder und Luther enthalten zusätzlich Sprachbearbeitungen. Die im Reader verfügbare Menge-Bibel von 1939 ist die Vergleichsausgabe `MENG39`. Die Beispiele verwenden Psalm 23,1, Johannes 3,16 und Johannes 3,22. [Daten und Editionsgeschichte](https://github.com/akribos-biblestudy/akribos-bibles/blob/b7d15750e7aab2b18f6e81bc33bf947a5d57aaff/README.md) · [Schlachter, Johannes 3](https://akribos.de/api/reader/bibles/AKRIBOS.SCHL1951/43/3) · [Menge, Johannes 3](https://akribos.de/api/reader/bibles/MENG39/43/3)
 
-1. Installiere im Repo-Hauptordner einmal `npm ci --prefix folge-01-erklaervideo/capture` und `(cd folge-01-erklaervideo/capture && npx playwright install chromium)`.
-2. Starte hier `node capture.mjs --output /tmp/akribos-ausgaben`. Der Browser öffnet den öffentlichen Reader als Gast. Alternativ kannst du `AKRIBOS_URL` auf einen lokalen Reader mit diesen vollständigen Werken setzen.
-3. Mit `--shot 4` wählst du die Wortstudie einzeln aus. Ohne `--output` werden die Bilder im Folgenordner aktualisiert; `--update-framing` ermittelt auch die Ausschnitte und Cursorpositionen für [episode.json](../episode.json) neu.
+## Den Hinweis erneut aufnehmen
+
+Nur das siebte Bild ist ein Screenshot. Im öffentlichen Reader öffnet das Skript die Elberfelder 1932 bei Johannes 3,22 und klickt auf „verweilte“. Der echte Hinweis in der Wortstudie nennt die noch fachlich unbestätigte Zuordnung zu G1304. [Versdaten im öffentlichen Reader](https://akribos.de/api/reader/bibles/AKRIBOS.ELB/43/3)
+
+1. Installiere im Repo-Hauptordner Playwright mit `npm ci --prefix folge-01-erklaervideo/capture` und `(cd folge-01-erklaervideo/capture && npx playwright install chromium)`.
+2. Führe hier `node capture.mjs --shot 7 --output /tmp/akribos-wortzuordnung` aus. Für einen eigenen Reader kannst du `AKRIBOS_URL` setzen. Ausgabe, Vers, Wort und erwarteter Hinweis stehen in [targets.json](targets.json).
+3. `node capture.mjs --shot 7 --update-framing` aktualisiert den Screenshot, Bildausschnitt und Zielpunkt in der Folge.

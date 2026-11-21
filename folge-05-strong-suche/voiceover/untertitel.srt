@@ -1,67 +1,76 @@
 1
-00:00:01,530 --> 00:00:06,120
-Welches Wort steht hinter „geliebt“ in
-Johannes drei, Vers sechzehn?
+00:00:01,530 --> 00:00:06,060
+Was bedeutet „Frieden“ in Johannes
+vierzehn, Vers siebenundzwanzig?
 
 2
-00:00:06,120 --> 00:00:09,840
-Klicke in einer Bibel mit Wortverknüpfungen
-auf „geliebt“.
+00:00:06,060 --> 00:00:09,960
+Klicke in der Elberfelder Bibel auf das
+erste Wort „Frieden“.
 
 3
-00:00:09,840 --> 00:00:13,800
-Das Lexikon zeigt das griechische Verb und
-seine Strong-Nummer, G
+00:00:09,960 --> 00:00:12,510
+Das Lexikon erklärt das griechische Wort.
 
 4
-00:00:13,800 --> 00:00:17,310
-fünfundzwanzig. Das G steht für Griechisch.
+00:00:12,510 --> 00:00:15,980
+Es kann zum Beispiel Frieden zwischen
+Menschen bezeichnen.
 
 5
-00:00:17,310 --> 00:00:20,610
-Gib G fünfundzwanzig im Suchfeld der Bibel
-ein.
+00:00:15,980 --> 00:00:19,950
+Die Strong-Nummer lautet G
+eintausendfünfhundertfünfzehn.
 
 6
-00:00:20,610 --> 00:00:24,570
-So findest du Stellen mit demselben
-zugeordneten Grundwort, auch wenn es im
+00:00:19,950 --> 00:00:21,840
+Das G steht für Griechisch.
 
 7
-00:00:24,570 --> 00:00:26,640
-Deutschen anders wiedergegeben wird.
+00:00:21,840 --> 00:00:25,680
+Du kannst auch G fünfundzwanzig im Suchfeld
+der Bibel eingeben.
 
 8
-00:00:26,640 --> 00:00:29,280
-Ein Vers kann mehrere Vorkommen enthalten.
+00:00:25,680 --> 00:00:28,350
+Diese Nummer gehört zum Verb „lieben“.
 
 9
-00:00:29,280 --> 00:00:33,960
+00:00:28,350 --> 00:00:32,400
+Die Treffer zeigen dir, wie dasselbe
+Grundwort im Deutschen wiedergegeben wird.
+
+10
+00:00:32,400 --> 00:00:35,010
+Ein Vers kann mehrere Vorkommen enthalten.
+
+11
+00:00:35,010 --> 00:00:39,750
 Unter „Übersetzt als“ siehst du, welche
 deutschen Wörter dafür stehen.
 
-10
-00:00:33,960 --> 00:00:36,540
+12
+00:00:39,750 --> 00:00:42,300
 Für Hebräisch beginnt die Nummer mit H.
 
-11
-00:00:36,540 --> 00:00:39,150
+13
+00:00:42,300 --> 00:00:44,940
 Suche nach H vierhundertdreißig.
 
-12
-00:00:39,150 --> 00:00:43,770
+14
+00:00:44,940 --> 00:00:49,620
 In Erster Mose eins, Vers eins gehört diese
 Nummer zum Wort „Gott“.
 
-13
-00:00:43,770 --> 00:00:46,680
+15
+00:00:49,620 --> 00:00:52,380
 Öffne den Vers und klicke auf „Gott“.
 
-14
-00:00:46,680 --> 00:00:49,650
+16
+00:00:52,380 --> 00:00:55,410
 Im hebräischen Lexikon erscheint Elohim.
 
-15
-00:00:49,650 --> 00:00:53,630
+17
+00:00:55,410 --> 00:00:59,550
 So gelangst du vom Suchergebnis zurück zum
 Wort an seiner konkreten Stelle.

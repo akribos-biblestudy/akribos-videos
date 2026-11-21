@@ -1,5 +1,58 @@
 {
-  "note": "/notes/5eed0000-0000-4000-8000-000000000005",
-  "noteTitle": "Gnade, die trägt",
-  "importTitle": "Gnade im Alltag"
+  "importFile": "Bibelstellen-im-Text.md",
+  "notePath": "/notes/bca6af49-7595-417d-bc49-9a3213469262",
+  "sections": [
+    {
+      "heading": "Buch, Kapitel und Vers",
+      "lastLine": "Englischer Buchname:",
+      "frame": [
+        640,
+        235
+      ],
+      "references": [
+        "Röm8",
+        "Joh3,16",
+        "Mt5,3"
+      ]
+    },
+    {
+      "heading": "Abschnitte und Buchnummern",
+      "lastLine": "Römische Ziffern:",
+      "frame": [
+        640,
+        290
+      ],
+      "references": [
+        "Joh3,16-18",
+        "1Mo1,31-2,3",
+        "1Sam31,13-2Sam 1,2",
+        "2Sam9,2"
+      ]
+    },
+    {
+      "heading": "Verszusätze",
+      "lastLine": "Mit den beiden folgenden Versen:",
+      "frame": [
+        640,
+        235
+      ],
+      "references": [
+        "Joh7,12",
+        "Joh7,12-13",
+        "Joh7,12-14"
+      ]
+    },
+    {
+      "heading": "Stellenlisten",
+      "lastLine": "Im selben Buch weiterlesen:",
+      "frame": [
+        640,
+        180
+      ],
+      "references": [
+        "Joh7,47",
+        "Joh4,2"
+      ]
+    }
+  ]
 }

@@ -2,10 +2,13 @@ import {readFile} from 'node:fs/promises';
 import {captureEpisode} from '../../scripts/capture-browser.mjs';
 const {sermon,privateNote,publishedNote,noteTitle} = JSON.parse(await readFile(new URL('targets.json',import.meta.url)));
 await captureEpisode(import.meta.url, {login:true}, async ({page,go,snap}) => {
+  await page.setViewportSize({width:900,height:800});
   await go(sermon);
   const editor=page.getByTestId('document-editor'), saved=editor.getByText('Gespeichert',{exact:true});
   await saved.waitFor();
-  await snap(1,[editor.locator('input').first(),saved],{size:[940,405],offset:[0,70]});
+  const body = editor.locator('.ProseMirror');
+  await snap(1, [editor.locator('input').first(),body.locator('p').first()], {size:[900,365],offset:[0,0]});
+  await page.setViewportSize({width:1280,height:800});
   const menu=page.locator('details.export-menu');
   await menu.locator('summary').click();
   const pdf=menu.getByText('PDF',{exact:true});
@@ -23,5 +26,6 @@ await captureEpisode(import.meta.url, {login:true}, async ({page,go,snap}) => {
   const update=controls.getByRole('button',{name:'Freigabe aktualisieren'});
   const revoke=controls.getByRole('button',{name:'Freigabe zurückziehen'});
   await revoke.scrollIntoViewIfNeeded();
-  await snap(5,[update,revoke],{scroll:false,size:[480,205],point:revoke});
+  await snap(5, [update,revoke], {scroll:false,size:[475,180],point:update});
+  await snap(6, [update,revoke], {scroll:false,size:[475,180],point:revoke});
 });

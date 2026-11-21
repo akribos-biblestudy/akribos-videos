@@ -4,6 +4,6 @@ In [der Runway-Hörprobe](akribos-aussprache-runway.mp3) spricht Charlie Chatlin
 
 Für neue Takes dient Variante 3 als Referenz. Gib in Runway beim Modell **Eleven v4** im Satz `/aˈkʁiːbɔs/` ein. Höre die Aufnahme im vollständigen Satz ab, denn dieselbe Eingabe kann im Satz eine andere Betonung ergeben. Im Bild und in Untertiteln steht **Akribos**.
 
-Das Referenzwort aus Variante 3 liegt bei **10,195 bis 10,880 Sekunden** der MP3. In den Folgen 01 (erster Satz mit dem Namen), 02 und 04 wurde dieses gesprochene Wort direkt in die Sprecheraufnahme eingesetzt. Die Schnittpositionen stehen pro Folge unter `voiceover/aussprache-schnitt.json`. Die WAV-Spur im FilmCraft-Projekt enthält den fertigen Schnitt.
+Das Referenzwort aus Variante 3 liegt bei **10,195 bis 10,880 Sekunden** der MP3. In den Folgen 01 (erster Satz mit dem Namen), 02, 04 und 13 wurde dieses gesprochene Wort direkt in die Sprecheraufnahme eingesetzt. Die Schnittpositionen stehen pro Folge unter `voiceover/aussprache-schnitt.json`. Die WAV-Spur im FilmCraft-Projekt enthält den fertigen Schnitt.
 
 ![Stimme und Eingabe der drei Varianten in Runway](runway-stimme.jpg)

@@ -5,7 +5,7 @@
   "scenes": [
     {
       "title": "Eine Notiz mitbringen",
-      "text": "Du hast eine Notiz in Word oder Markdown geschrieben? Öffne in Akribos die Notizbibliothek und wähle „Importieren“.",
+      "text": "Deine Notiz liegt in Word oder Markdown vor? Öffne die Notizbibliothek und wähle „Importieren“.",
       "image": "screenshots/01.png",
       "focus": [
         0,
@@ -13,61 +13,118 @@
         1680,
         540
       ],
+      "cue": "Importieren",
       "point": [
         167,
         498
       ]
     },
     {
-      "title": "Die Vorschau öffnen",
-      "text": "Wähle deine Datei und klicke auf „Importvorschau erstellen“. Hier prüfst du den Titel, den Text und die erkannten Bibelstellen.",
+      "title": "Die Datei prüfen",
+      "text": "Wähle deine Datei aus und klicke auf „Importvorschau erstellen“. Damit kannst du den Inhalt prüfen, bevor du ihn übernimmst.",
       "image": "screenshots/02.png",
       "focus": [
-        277,
-        980,
-        1460,
-        620
+        0,
+        644,
+        1680,
+        500
+      ],
+      "cue": "Importvorschau erstellen",
+      "point": [
+        1318,
+        976
       ]
     },
     {
-      "title": "Privat übernehmen",
-      "text": "Lies auch die Hinweise zu ausgelassenen Inhalten. Erst mit „Als privates Dokument importieren“ landet die Notiz in deiner Bibliothek.",
+      "title": "Die Notiz übernehmen",
+      "text": "Stimmen Titel und Inhalt, wähle „Als privates Dokument importieren“. Auch im Fließtext importierter Dateien erkennt Akribos Bibelstellen automatisch und verknüpft sie mit dem Bibeltext.",
       "image": "screenshots/03.png",
       "focus": [
-        474,
-        1026,
-        1100,
-        540
+        0,
+        510,
+        1680,
+        440
       ],
+      "cue": "Als privates Dokument importieren",
       "point": [
-        1264,
-        1426
+        1241,
+        800
       ]
     },
     {
-      "title": "Das Exportformat wählen",
-      "text": "Öffne die gespeicherte Notiz. Unter „Exportieren“ findest du Word zum Weiterbearbeiten und PDF zum Lesen oder Ausdrucken.",
+      "title": "Buch, Kapitel und Vers",
+      "text": "Buchnamen können ausgeschrieben oder abgekürzt sein, auch auf Englisch. Römer acht führt zum ganzen Kapitel. Bei Johannes drei, Vers sechzehn, kannst du Kapitel und Vers durch Komma, Doppelpunkt oder Unterstrich trennen. Das Leerzeichen nach dem Buchnamen ist optional.",
       "image": "screenshots/04.png",
       "focus": [
-        1844,
-        163,
-        710,
-        410
-      ],
-      "point": [
-        2199,
-        368
+        0,
+        617,
+        1280,
+        470
       ]
     },
     {
-      "title": "Bibelstellen mitnehmen",
-      "text": "Für einen späteren Import nimm Markdown. Darin stehen neben dem Text auch Schlagwörter und verknüpfte Bibelstellen. Beim erneuten Import entsteht eine neue private Kopie.",
+      "title": "Abschnitte und Buchnummern",
+      "text": "Ein Bindestrich oder Gedankenstrich verbindet Anfang und Ende eines Abschnitts, auch über Kapitel und Bücher hinweg. Bei nummerierten Büchern funktionieren arabische und römische Ziffern, etwa beim zweiten Samuelbuch.",
       "image": "screenshots/05.png",
       "focus": [
         0,
-        1010,
-        1500,
-        590
+        788,
+        1280,
+        580
+      ]
+    },
+    {
+      "title": "Verszusätze verstehen",
+      "text": "Die Zusätze a, b und c verweisen auf den ganzen Vers. Ein f nimmt den folgenden Vers dazu. Zwei f stehen hier für die beiden nächsten Verse.",
+      "image": "screenshots/06.png",
+      "focus": [
+        0,
+        789,
+        1280,
+        470
+      ]
+    },
+    {
+      "title": "Mehrere Stellen verbinden",
+      "text": "Ein Pluszeichen oder Punkt trennt einzelne Verse desselben Kapitels. Ein Semikolon führt die Liste im selben Buch fort, etwa von Johannes drei, Vers sechzehn, zu Kapitel vier, Vers zwei.",
+      "image": "screenshots/07.png",
+      "focus": [
+        0,
+        792,
+        1280,
+        360
+      ]
+    },
+    {
+      "title": "Den Bibeltext öffnen",
+      "text": "Wählst du einen erkannten Vers, erscheint die Vorschau. Mit „Bibelstelle öffnen“ springst du von deiner Notiz direkt in den Bibeltext.",
+      "image": "screenshots/08.png",
+      "focus": [
+        300,
+        865,
+        810,
+        530
+      ],
+      "cue": "Bibelstelle öffnen",
+      "point": [
+        705,
+        1321
+      ]
+    },
+    {
+      "title": "Ein Format weitergeben",
+      "text": "Über „Exportieren“ bekommst du deine Notiz als Datei. Wähle Word zum Weiterbearbeiten, PDF zum Lesen oder Markdown für einen Texteditor.",
+      "image": "screenshots/09.png",
+      "focus": [
+        1184,
+        103,
+        710,
+        410
+      ],
+      "cue": "Wähle Word",
+      "point": [
+        1539,
+        308
       ]
     }
   ]
