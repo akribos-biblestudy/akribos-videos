@@ -1,0 +1,9 @@
+# Screenshots vom Feedbackformular
+
+Die Aufnahmen entstanden an einer lokalen Demo-Instanz im angemeldeten Konto. Der Einstieg erfolgt direkt aus Johannes 3,16 über das Kontomenü. Der zweite Screenshot zeigt die Kategorie „Verbesserungsvorschlag“, die folgenden Bilder das Beispiel „Fehler im Werk“ mit Werk, Stelle, Beschreibung und Korrekturvorschlag. Die Beispieltexte sind in [targets.json](targets.json) austauschbar. Bild 5 zeigt die Schaltfläche **Feedback senden**. Bild 6 zeigt die tatsächliche Bestätigung nach dem Absenden in einer isolierten lokalen Demo-Datenbank. [Originalformular](https://github.com/akribos-biblestudy/akribos/blob/ab47367a164d1f32c9403ade7ffba6d16f53f443/src/routes/feedback/%2Bpage.svelte)
+
+1. Installiere im Repo-Hauptordner einmal Playwright mit `npm ci --prefix folge-01-erklaervideo/capture` und `(cd folge-01-erklaervideo/capture && npx playwright install chromium)`.
+2. Stelle die vorbereitete Instanz unter `AKRIBOS_URL` bereit und setze `AKRIBOS_USERNAME` (E-Mail) und `AKRIBOS_PASSWORD` für das Demo-Konto. Das in [targets.json](targets.json) konfigurierte Bibelwerk muss verfügbar sein.
+3. Im Ordner dieser Anleitung gibt `node capture.mjs --shot 1 --shot 2 --shot 3 --shot 4 --shot 5 --output /tmp/akribos-feedback` die ersten fünf Aufnahmen separat aus. Dabei wird das Formular ausschließlich ausgefüllt. Für die sechste Aufnahme starte eine eigene lokale Instanz mit einer entbehrlichen Demo-Datenbank und verwende `AKRIBOS_CAPTURE_DEMO_SUBMIT=1 node capture.mjs --shot 6 --output /tmp/akribos-feedback`. Der Aufnahmehelfer akzeptiert den Sendevorgang nur bei einer Loopback-Adresse. Ohne `--output` werden die Bilder im Folgenordner ersetzt.
+
+[episode.json](../episode.json) enthält die Dateinamen, sichtbaren Ausschnitte und Cursorpositionen. `--update-framing` aktualisiert bei der Aufnahme auch die Bildkoordinaten.

@@ -1,0 +1,57 @@
+1
+00:00:01,530 --> 00:00:03,690
+Dir fällt beim Lesen etwas auf?
+
+2
+00:00:03,690 --> 00:00:05,700
+Bleib auf der betreffenden Seite.
+
+3
+00:00:05,700 --> 00:00:09,780
+Öffne angemeldet dein Kontomenü und wähle
+„Feedback geben“.
+
+4
+00:00:09,780 --> 00:00:14,370
+Wähle die Art des Feedbacks, zum Beispiel
+„Fehler im Werk“ für eine Textstelle
+
+5
+00:00:14,370 --> 00:00:17,460
+oder „Verbesserungsvorschlag“ für eine
+Idee.
+
+6
+00:00:17,460 --> 00:00:21,360
+Bei einem Fehler im Werk sind die Ausgabe
+und die Stelle Pflicht.
+
+7
+00:00:21,360 --> 00:00:25,590
+Nenne Buch, Kapitel und Vers, am besten
+auch das betroffene Wort.
+
+8
+00:00:25,590 --> 00:00:28,560
+Beschreibe, was du siehst und was du
+erwartet hast.
+
+9
+00:00:28,560 --> 00:00:32,460
+Einen konkreten Korrekturvorschlag kannst
+du im nächsten Feld ergänzen.
+
+10
+00:00:32,460 --> 00:00:35,310
+Ein Screenshot bis drei Megabyte kann
+helfen.
+
+11
+00:00:35,310 --> 00:00:38,640
+Prüfe die Angaben und klicke auf „Feedback
+senden“.
+
+12
+00:00:38,640 --> 00:00:41,550
+Die Bestätigung zeigt, dass deine Meldung
+angekommen ist.

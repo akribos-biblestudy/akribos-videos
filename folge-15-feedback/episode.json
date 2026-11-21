@@ -1,0 +1,85 @@
+{
+  "number": 15,
+  "slug": "feedback",
+  "title": "Feedback an Akribos geben",
+  "scenes": [
+    {
+      "title": "Am Fundort beginnen",
+      "text": "Dir fällt beim Lesen etwas auf? Bleib auf der betreffenden Seite. Öffne angemeldet dein Kontomenü und wähle „Feedback geben“.",
+      "image": "screenshots/01.png",
+      "focus": [
+        1730,
+        30,
+        830,
+        510
+      ],
+      "point": [
+        2288,
+        285
+      ]
+    },
+    {
+      "title": "Die passende Art wählen",
+      "text": "Wähle die Art des Feedbacks, zum Beispiel „Fehler im Werk“ für eine Textstelle oder „Verbesserungsvorschlag“ für eine Idee.",
+      "image": "screenshots/02.png",
+      "focus": [
+        575,
+        108,
+        1380,
+        490
+      ]
+    },
+    {
+      "title": "Werk und Stelle angeben",
+      "text": "Bei einem Fehler im Werk sind die Ausgabe und die Stelle Pflicht. Nenne Buch, Kapitel und Vers, am besten auch das betroffene Wort.",
+      "image": "screenshots/03.png",
+      "focus": [
+        575,
+        465,
+        1380,
+        440
+      ],
+      "point": [
+        1265,
+        764
+      ]
+    },
+    {
+      "title": "Den Hinweis beschreiben",
+      "text": "Beschreibe, was du siehst und was du erwartet hast. Einen konkreten Korrekturvorschlag kannst du im nächsten Feld ergänzen.",
+      "image": "screenshots/04.png",
+      "focus": [
+        565,
+        826,
+        1400,
+        680
+      ]
+    },
+    {
+      "title": "Bei Bedarf ein Bild anhängen",
+      "text": "Ein Screenshot bis drei Megabyte kann helfen. Prüfe die Angaben und klicke auf „Feedback senden“.",
+      "image": "screenshots/05.png",
+      "focus": [
+        565,
+        1108,
+        1400,
+        492
+      ],
+      "point": [
+        795,
+        1496
+      ]
+    },
+    {
+      "title": "Die Bestätigung sehen",
+      "text": "Die Bestätigung zeigt, dass deine Meldung angekommen ist.",
+      "image": "screenshots/06.png",
+      "focus": [
+        565,
+        116,
+        1400,
+        540
+      ]
+    }
+  ]
+}
