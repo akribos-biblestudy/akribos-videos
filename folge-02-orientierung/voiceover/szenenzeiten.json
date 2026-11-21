@@ -1,0 +1,15 @@
+{
+  "fps": 30,
+  "voiceOffset": 1.47,
+  "recordingDuration": 37.84,
+  "sceneStartFrames": [
+    41,
+    243,
+    481,
+    742,
+    933
+  ],
+  "closingFrame": 1183,
+  "totalFrames": 1232,
+  "alignment": 0.942
+}

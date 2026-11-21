@@ -1,0 +1,30 @@
+{
+  "episode": "02",
+  "original": "runway.mp3",
+  "reference": "../../sprecher/akribos-aussprache-runway.mp3",
+  "reference_variant": 3,
+  "source_range_s": [
+    10.195,
+    10.88
+  ],
+  "target_edit_range_s": [
+    0.95,
+    1.686
+  ],
+  "insert_at_s": 0.972,
+  "level_db": -0.985,
+  "pitch_change_semitones": 0,
+  "time_stretch": 1,
+  "donor_edges_fade_s": 0.012,
+  "original_edges_crossfade_s": 0.009,
+  "sample_rate": 44100,
+  "channels": 1,
+  "format": "PCM s24le",
+  "samples": 1668744,
+  "timeline_offset_s": 1.47,
+  "reference_sha256": "bd3afedda4700135b64e0759149c0d66bebdf7c3f524259c687c5e6806170058",
+  "original_sha256": "b3c4c08cdedf29c999a1f6351a28b83709fb403c1bafa69f4c0af92b1a33a5ae",
+  "output_sha256": "1ab0ea06fa77c429d5fdc2060a1af22263aa029a97c554b4c6f964bae078597d",
+  "sample_times": "Seconds since the first sample decoded by ffmpeg, excluding MP3 encoder delay.",
+  "output": "sprecher-mit-referenzaussprache.wav"
+}

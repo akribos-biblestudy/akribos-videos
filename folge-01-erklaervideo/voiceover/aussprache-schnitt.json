@@ -1,0 +1,42 @@
+{
+  "episode": "01",
+  "original": "takes/01-einstieg.mp3",
+  "edited": "takes/01-einstieg-mit-referenz.wav",
+  "reference": "../../sprecher/akribos-aussprache-runway.mp3",
+  "reference_variant": 3,
+  "source_range_s": [
+    10.195,
+    10.88
+  ],
+  "source_range_samples": [
+    449600,
+    479808
+  ],
+  "target_edit_range_s": [
+    6.834,
+    7.335
+  ],
+  "insert_at_s": 6.834,
+  "target_left_overlap_samples": [
+    301379,
+    301908
+  ],
+  "target_right_overlap_samples": [
+    323032,
+    323473
+  ],
+  "level_db": -5.406,
+  "pitch_change_semitones": 0,
+  "time_stretch": 1,
+  "crossfade_samples": [
+    529,
+    441
+  ],
+  "following_audio_shift_samples": 8114,
+  "sample_rate": 44100,
+  "channels": 1,
+  "format": "PCM s24le",
+  "samples": 353858,
+  "edited_take_start_in_film_s": 5.03,
+  "edited_take_source_in_s": 4.47
+}

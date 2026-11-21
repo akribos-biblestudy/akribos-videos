@@ -1,0 +1,56 @@
+1
+00:00:01,500 --> 00:00:05,130
+Über das Logo von Akribos kommst du zum
+Bibeltext zurück.
+
+2
+00:00:05,130 --> 00:00:08,190
+Jedes geöffnete Werk hat hier einen eigenen
+Tab.
+
+3
+00:00:08,190 --> 00:00:11,700
+Das Feld unter dem Tabnamen bringt dich
+direkt zu einer Stelle.
+
+4
+00:00:11,700 --> 00:00:16,110
+Gib zum Beispiel Johannes drei, Vers
+sechzehn ein und drücke Enter.
+
+5
+00:00:16,110 --> 00:00:19,470
+Über das Plus neben dem Tab öffnest du die
+Bibliothek.
+
+6
+00:00:19,470 --> 00:00:23,730
+Hier wählst du eine weitere Bibel, einen
+Kommentar, Parallelstellen oder ein
+
+7
+00:00:23,730 --> 00:00:24,810
+Lexikon.
+
+8
+00:00:24,810 --> 00:00:28,740
+Deine eigenen Texte findest du nach der
+Anmeldung oben rechts im Kontomenü
+
+9
+00:00:28,740 --> 00:00:31,200
+unter „Notizen und Ausarbeitungen“.
+
+10
+00:00:31,200 --> 00:00:33,690
+Dort erreichst du auch deine
+Stellensammlungen.
+
+11
+00:00:33,690 --> 00:00:37,440
+Brauchst du unterwegs im Reader eine
+Erklärung, findest du im Kontomenü die
+
+12
+00:00:37,440 --> 00:00:39,310
+Hilfe und die Produkt-Tour.

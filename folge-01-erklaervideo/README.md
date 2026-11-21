@@ -29,5 +29,5 @@ Bei einer Linux-Flatpak-Installation braucht EffectCraft Lese- und Schreibzugrif
 ## Material aktualisieren
 
 - [Screenshots aufnehmen](capture/README.md) – Namen, Bibelstellen, Fenstergrößen und Ausschnitte stehen in [shots.json](capture/shots.json).
-- [Sprechertext und Aufnahmen](voiceover/README.md) – sieben Runway-Takes mit ihren Schnittpunkten und der daraus erzeugten Sprachspur.
+- [Sprechertext und Aufnahmen](voiceover/README.md) – Sprechfassung für sieben Absätze, Runway-Aufnahmen, Schnittpunkte und fertige Sprachspur.
 - [Gemeinsame Schriften installieren](../README.md#schriftarten-installieren) – **Akribos Text** in Regular und SemiBold.

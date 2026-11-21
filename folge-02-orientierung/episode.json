@@ -1,0 +1,82 @@
+{
+  "number": 2,
+  "title": "Wo finde ich was in Akribos?",
+  "slug": "orientierung",
+  "scenes": [
+    {
+      "title": "Den Reader finden",
+      "text": "Über das Logo von Akribos kommst du zum Bibeltext zurück. Jedes geöffnete Werk hat hier einen eigenen Tab.",
+      "image": "screenshots/01-reader.png",
+      "focus": [
+        0,
+        0,
+        2100,
+        1170
+      ],
+      "point": [
+        180,
+        54
+      ]
+    },
+    {
+      "title": "Eine Stelle aufschlagen",
+      "text": "Das Feld unter dem Tabnamen bringt dich direkt zu einer Stelle. Gib zum Beispiel Johannes drei, Vers sechzehn ein und drücke Enter.",
+      "image": "screenshots/02-stellenfeld.png",
+      "focus": [
+        0,
+        12,
+        1270,
+        660
+      ],
+      "point": [
+        593,
+        259
+      ]
+    },
+    {
+      "title": "Ein Werk hinzufügen",
+      "text": "Über das Plus neben dem Tab öffnest du die Bibliothek. Hier wählst du eine weitere Bibel, einen Kommentar, Parallelstellen oder ein Lexikon.",
+      "image": "screenshots/03-werksauswahl.png",
+      "focus": [
+        848,
+        0,
+        1440,
+        980
+      ],
+      "point": [
+        1569,
+        284
+      ]
+    },
+    {
+      "title": "Persönliche Inhalte öffnen",
+      "text": "Deine eigenen Texte findest du nach der Anmeldung oben rechts im Kontomenü unter „Notizen und Ausarbeitungen“.",
+      "image": "screenshots/04-kontomenue.png",
+      "focus": [
+        1400,
+        0,
+        1080,
+        770
+      ],
+      "point": [
+        2208,
+        146
+      ]
+    },
+    {
+      "title": "Sammlungen und Hilfe",
+      "text": "Dort erreichst du auch deine Stellensammlungen. Brauchst du unterwegs im Reader eine Erklärung, findest du im Kontomenü die Hilfe und die Produkt-Tour.",
+      "image": "screenshots/05-dokumentbereiche.png",
+      "focus": [
+        0,
+        20,
+        1902,
+        842
+      ],
+      "point": [
+        1007,
+        634
+      ]
+    }
+  ]
+}

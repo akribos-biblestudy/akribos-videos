@@ -2,9 +2,15 @@
   "duration": 60,
   "takes": [
     {
-      "file": "01-einstieg.mp3",
+      "file": "01-vollbildvers-original.mp3",
       "segments": [
-        {"start": 0, "end": 8.0, "at": 0.47}
+        {"start": 0, "end": 4.50, "at": 0.47}
+      ]
+    },
+    {
+      "file": "01-einstieg-mit-referenz.wav",
+      "segments": [
+        {"start": 4.47, "end": 8.023991, "at": 5.03}
       ]
     },
     {
@@ -47,8 +53,8 @@
     {
       "file": "07-app-und-abschluss.mp3",
       "segments": [
-        {"start": 0, "end": 2.66, "at": 51.49},
-        {"start": 2.78, "end": 6.32, "at": 56.02}
+        {"start": 0, "end": 2.84, "at": 51.49},
+        {"start": 2.99, "end": 6.56, "at": 56.02}
       ]
     }
   ]
