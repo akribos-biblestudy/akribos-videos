@@ -5,9 +5,9 @@
   "scenes": [
     {
       "image": "screenshots/versnummer.png",
-      "title": "Einen Gedanken festhalten",
-      "text": "Dir ist ein Vers besonders wichtig geworden? Füge deine Gedanken als Notiz hinzu. Klicke auf die Versnummer.",
-      "cue": "die Versnummer",
+      "title": "Kachelanordnung öffnen",
+      "text": "Dir ist ein Vers besonders wichtig geworden? Füge deine Gedanken als Notiz hinzu. Öffne die Kachelanordnung.",
+      "cue": "Kachelanordnung",
       "focus": [
         1371,
         0,
@@ -20,8 +20,8 @@
       ]
     },
     {
-      "title": "Die Notizen am Vers öffnen",
-      "text": "Öffne im Versmenü die Notizen zu dieser Stelle.",
+      "title": "Notizbereich einschalten",
+      "text": "Schalte den Notizbereich ein. Dort siehst du die Notizen zur aktuellen Stelle.",
       "image": "screenshots/01-versnotizen.png",
       "focus": [
         1824,
@@ -29,7 +29,7 @@
         816,
         504
       ],
-      "cue": "die Notizen",
+      "cue": "den Notizbereich",
       "point": [
         2277,
         679

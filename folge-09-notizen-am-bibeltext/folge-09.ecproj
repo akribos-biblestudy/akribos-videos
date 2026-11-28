@@ -1,5 +1,5 @@
 {
-  "savedBy": "0.24.1",
+  "savedBy": "0.25.1",
   "activeComp": 5045,
   "openComps": [
     5045
@@ -6559,7 +6559,7 @@
     },
     "294": {
       "id": 294,
-      "name": "01 · Einen Gedanken festhalten",
+      "name": "01 · Kachelanordnung öffnen",
       "label": "Sandstone",
       "comment": "",
       "parent": null,
@@ -6572,7 +6572,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 1727308800000,
+        "duration": 1778112000000,
         "display_start": 0,
         "background": [
           0.0,
@@ -6581,7 +6581,7 @@
         ],
         "work_area": [
           0,
-          1727308800000
+          1778112000000
         ],
         "layers": [
           {
@@ -6594,7 +6594,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1727308800000,
+            "out_point": 1778112000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -7320,7 +7320,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1659571200000,
+                          "time": 1710374400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -7350,7 +7350,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1684972800000,
+                          "time": 1735776000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -7380,7 +7380,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1710374400000,
+                          "time": 1761177600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -7410,7 +7410,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1718841600000,
+                          "time": 1769644800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -7786,7 +7786,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1727308800000,
+            "out_point": 1778112000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -7979,7 +7979,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1659571200000,
+                          "time": 1710374400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -8009,7 +8009,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1684972800000,
+                          "time": 1735776000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -8039,7 +8039,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1710374400000,
+                          "time": 1761177600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -8069,7 +8069,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1718841600000,
+                          "time": 1769644800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -8445,7 +8445,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1727308800000,
+            "out_point": 1778112000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -9289,7 +9289,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1727308800000,
+            "out_point": 1778112000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -10420,7 +10420,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1727308800000,
+            "out_point": 1778112000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -11552,7 +11552,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1727308800000,
+            "out_point": 1778112000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -12371,7 +12371,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1727308800000,
+            "out_point": 1778112000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -12422,7 +12422,7 @@
                       "value": {
                         "t": "Text",
                         "v": {
-                          "text": "Einen Gedanken festhalten",
+                          "text": "Kachelanordnung öffnen",
                           "font": "Noto Sans",
                           "style": "Bold",
                           "size": 66.0,
@@ -13342,7 +13342,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1727308800000,
+            "out_point": 1778112000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -13879,7 +13879,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 1727308800000,
+        "duration": 1778112000000,
         "display_start": 0,
         "background": [
           0.0,
@@ -13888,7 +13888,7 @@
         ],
         "work_area": [
           0,
-          1727308800000
+          1778112000000
         ],
         "layers": [
           {
@@ -13901,7 +13901,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1727308800000,
+            "out_point": 1778112000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -14838,8 +14838,8 @@
                       "value": {
                         "t": "Vec3",
                         "v": [
-                          690.8399999999999,
-                          397.0,
+                          855.0,
+                          74.15199999999999,
                           0.0
                         ]
                       },
@@ -14898,7 +14898,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1456358400000,
+                          "time": 1464825600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -14928,7 +14928,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1473292800000,
+                          "time": 1481760000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -14958,7 +14958,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1557964800000,
+                          "time": 1566432000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -14988,7 +14988,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1659571200000,
+                          "time": 1668038400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -15145,7 +15145,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1456358400000,
+                          "time": 1464825600000,
                           "value": {
                             "t": "Scalar",
                             "v": 0.0
@@ -15171,7 +15171,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1473292800000,
+                          "time": 1481760000000,
                           "value": {
                             "t": "Scalar",
                             "v": 100.0
@@ -15197,7 +15197,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1557964800000,
+                          "time": 1566432000000,
                           "value": {
                             "t": "Scalar",
                             "v": 95.0
@@ -15223,7 +15223,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1659571200000,
+                          "time": 1668038400000,
                           "value": {
                             "t": "Scalar",
                             "v": 0.0
@@ -15473,7 +15473,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1727308800000,
+            "out_point": 1778112000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -15546,8 +15546,8 @@
                       "value": {
                         "t": "Vec3",
                         "v": [
-                          625.0,
-                          371.0,
+                          1996.0,
+                          290.0,
                           0.0
                         ]
                       },
@@ -15606,7 +15606,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1456358400000,
+                          "time": 1464825600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -15636,12 +15636,12 @@
                           "roving": false
                         },
                         {
-                          "time": 1490227200000,
+                          "time": 1498694400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
-                              855.787968,
-                              397.0,
+                              855.0,
+                              398.54967039999997,
                               0.0
                             ]
                           },
@@ -15666,12 +15666,12 @@
                           "roving": false
                         },
                         {
-                          "time": 1532563200000,
+                          "time": 1541030400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
-                              857.856384,
-                              397.0,
+                              855.0,
+                              402.6175552,
                               0.0
                             ]
                           },
@@ -15696,12 +15696,12 @@
                           "roving": false
                         },
                         {
-                          "time": 1583366400000,
+                          "time": 1591833600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
-                              859.580064,
-                              397.0,
+                              855.0,
+                              406.0074592,
                               0.0
                             ]
                           },
@@ -15726,12 +15726,12 @@
                           "roving": false
                         },
                         {
-                          "time": 1608768000000,
+                          "time": 1617235200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
-                              859.9248,
-                              397.0,
+                              855.0,
+                              406.68544,
                               0.0
                             ]
                           },
@@ -15811,7 +15811,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1456358400000,
+                          "time": 1464825600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -15841,7 +15841,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1490227200000,
+                          "time": 1498694400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -15871,7 +15871,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1532563200000,
+                          "time": 1541030400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -15901,7 +15901,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1583366400000,
+                          "time": 1591833600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -15931,7 +15931,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1608768000000,
+                          "time": 1617235200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -16379,7 +16379,7 @@
     },
     "695": {
       "id": 695,
-      "name": "02 · Die Notizen am Vers öffnen",
+      "name": "02 · Notizbereich einschalten",
       "label": "Sandstone",
       "comment": "",
       "parent": null,
@@ -16392,7 +16392,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 770515200000,
+        "duration": 1261612800000,
         "display_start": 0,
         "background": [
           0.0,
@@ -16401,7 +16401,7 @@
         ],
         "work_area": [
           0,
-          770515200000
+          1261612800000
         ],
         "layers": [
           {
@@ -16414,7 +16414,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 770515200000,
+            "out_point": 1261612800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -17140,7 +17140,7 @@
                           "roving": false
                         },
                         {
-                          "time": 702777600000,
+                          "time": 1193875200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -17170,7 +17170,7 @@
                           "roving": false
                         },
                         {
-                          "time": 728179200000,
+                          "time": 1219276800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -17200,7 +17200,7 @@
                           "roving": false
                         },
                         {
-                          "time": 753580800000,
+                          "time": 1244678400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -17230,7 +17230,7 @@
                           "roving": false
                         },
                         {
-                          "time": 762048000000,
+                          "time": 1253145600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -17606,7 +17606,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 770515200000,
+            "out_point": 1261612800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -17799,7 +17799,7 @@
                           "roving": false
                         },
                         {
-                          "time": 702777600000,
+                          "time": 1193875200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -17829,7 +17829,7 @@
                           "roving": false
                         },
                         {
-                          "time": 728179200000,
+                          "time": 1219276800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -17859,7 +17859,7 @@
                           "roving": false
                         },
                         {
-                          "time": 753580800000,
+                          "time": 1244678400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -17889,7 +17889,7 @@
                           "roving": false
                         },
                         {
-                          "time": 762048000000,
+                          "time": 1253145600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -18265,7 +18265,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 770515200000,
+            "out_point": 1261612800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -19109,7 +19109,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 770515200000,
+            "out_point": 1261612800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -20240,7 +20240,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 770515200000,
+            "out_point": 1261612800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -21372,7 +21372,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 770515200000,
+            "out_point": 1261612800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -22191,7 +22191,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 770515200000,
+            "out_point": 1261612800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -22242,7 +22242,7 @@
                       "value": {
                         "t": "Text",
                         "v": {
-                          "text": "Die Notizen am Vers öffnen",
+                          "text": "Notizbereich einschalten",
                           "font": "Noto Sans",
                           "style": "Bold",
                           "size": 66.0,
@@ -23162,7 +23162,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 770515200000,
+            "out_point": 1261612800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -23699,7 +23699,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 770515200000,
+        "duration": 1261612800000,
         "display_start": 0,
         "background": [
           0.0,
@@ -23708,7 +23708,7 @@
         ],
         "work_area": [
           0,
-          770515200000
+          1261612800000
         ],
         "layers": [
           {
@@ -23721,7 +23721,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 770515200000,
+            "out_point": 1261612800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -24658,8 +24658,8 @@
                       "value": {
                         "t": "Vec3",
                         "v": [
-                          652.0,
-                          403.0,
+                          723.9642857142858,
+                          642.8809523809524,
                           0.0
                         ]
                       },
@@ -24718,7 +24718,7 @@
                           "roving": false
                         },
                         {
-                          "time": 338688000000,
+                          "time": 169344000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -24748,7 +24748,7 @@
                           "roving": false
                         },
                         {
-                          "time": 355622400000,
+                          "time": 186278400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -24778,7 +24778,7 @@
                           "roving": false
                         },
                         {
-                          "time": 440294400000,
+                          "time": 270950400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -24808,7 +24808,7 @@
                           "roving": false
                         },
                         {
-                          "time": 541900800000,
+                          "time": 372556800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -24965,7 +24965,7 @@
                           "roving": false
                         },
                         {
-                          "time": 338688000000,
+                          "time": 169344000000,
                           "value": {
                             "t": "Scalar",
                             "v": 0.0
@@ -24991,7 +24991,7 @@
                           "roving": false
                         },
                         {
-                          "time": 355622400000,
+                          "time": 186278400000,
                           "value": {
                             "t": "Scalar",
                             "v": 100.0
@@ -25017,7 +25017,7 @@
                           "roving": false
                         },
                         {
-                          "time": 440294400000,
+                          "time": 270950400000,
                           "value": {
                             "t": "Scalar",
                             "v": 95.0
@@ -25043,7 +25043,7 @@
                           "roving": false
                         },
                         {
-                          "time": 541900800000,
+                          "time": 372556800000,
                           "value": {
                             "t": "Scalar",
                             "v": 0.0
@@ -25293,7 +25293,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 770515200000,
+            "out_point": 1261612800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -25366,8 +25366,8 @@
                       "value": {
                         "t": "Vec3",
                         "v": [
-                          804.0,
-                          949.0,
+                          2232.0,
+                          529.0,
                           0.0
                         ]
                       },
@@ -25426,7 +25426,7 @@
                           "roving": false
                         },
                         {
-                          "time": 338688000000,
+                          "time": 169344000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -25456,12 +25456,12 @@
                           "roving": false
                         },
                         {
-                          "time": 372556800000,
+                          "time": 203212800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
-                              652.0,
-                              403.0,
+                              651.6545714285714,
+                              401.84857142857146,
                               0.0
                             ]
                           },
@@ -25486,12 +25486,12 @@
                           "roving": false
                         },
                         {
-                          "time": 414892800000,
+                          "time": 245548800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
-                              652.0,
-                              403.0,
+                              650.7478214285715,
+                              398.8260714285714,
                               0.0
                             ]
                           },
@@ -25516,12 +25516,12 @@
                           "roving": false
                         },
                         {
-                          "time": 465696000000,
+                          "time": 296352000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
-                              652.0,
-                              403.0,
+                              649.9921964285714,
+                              396.3073214285714,
                               0.0
                             ]
                           },
@@ -25546,12 +25546,12 @@
                           "roving": false
                         },
                         {
-                          "time": 491097600000,
+                          "time": 321753600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
-                              652.0,
-                              403.0,
+                              649.8410714285715,
+                              395.80357142857144,
                               0.0
                             ]
                           },
@@ -25631,7 +25631,7 @@
                           "roving": false
                         },
                         {
-                          "time": 338688000000,
+                          "time": 169344000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -25661,7 +25661,7 @@
                           "roving": false
                         },
                         {
-                          "time": 372556800000,
+                          "time": 203212800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -25691,7 +25691,7 @@
                           "roving": false
                         },
                         {
-                          "time": 414892800000,
+                          "time": 245548800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -25721,7 +25721,7 @@
                           "roving": false
                         },
                         {
-                          "time": 465696000000,
+                          "time": 296352000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -25751,7 +25751,7 @@
                           "roving": false
                         },
                         {
-                          "time": 491097600000,
+                          "time": 321753600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -26212,7 +26212,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 2836512000000,
+        "duration": 2853446400000,
         "display_start": 0,
         "background": [
           0.0,
@@ -26221,7 +26221,7 @@
         ],
         "work_area": [
           0,
-          2836512000000
+          2853446400000
         ],
         "layers": [
           {
@@ -26234,7 +26234,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2836512000000,
+            "out_point": 2853446400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -26960,7 +26960,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2768774400000,
+                          "time": 2785708800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -26990,7 +26990,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2794176000000,
+                          "time": 2811110400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -27020,7 +27020,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2819577600000,
+                          "time": 2836512000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -27050,7 +27050,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2828044800000,
+                          "time": 2844979200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -27426,7 +27426,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2836512000000,
+            "out_point": 2853446400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -27619,7 +27619,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2768774400000,
+                          "time": 2785708800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -27649,7 +27649,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2794176000000,
+                          "time": 2811110400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -27679,7 +27679,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2819577600000,
+                          "time": 2836512000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -27709,7 +27709,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2828044800000,
+                          "time": 2844979200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -28085,7 +28085,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2836512000000,
+            "out_point": 2853446400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -28929,7 +28929,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2836512000000,
+            "out_point": 2853446400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -30060,7 +30060,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2836512000000,
+            "out_point": 2853446400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -31192,7 +31192,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2836512000000,
+            "out_point": 2853446400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -32163,7 +32163,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2836512000000,
+            "out_point": 2853446400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -33134,7 +33134,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2836512000000,
+            "out_point": 2853446400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -33953,7 +33953,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2836512000000,
+            "out_point": 2853446400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -34458,7 +34458,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 2836512000000,
+        "duration": 2853446400000,
         "display_start": 0,
         "background": [
           0.0,
@@ -34467,7 +34467,7 @@
         ],
         "work_area": [
           0,
-          2836512000000
+          2853446400000
         ],
         "layers": [
           {
@@ -34480,7 +34480,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2836512000000,
+            "out_point": 2853446400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -36052,7 +36052,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2836512000000,
+            "out_point": 2853446400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -44343,7 +44343,7 @@
                         "t": "Vec3",
                         "v": [
                           1870.0,
-                          578.0,
+                          542.0,
                           0.0
                         ]
                       },
@@ -45188,7 +45188,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 2320012800000,
+        "duration": 2353881600000,
         "display_start": 0,
         "background": [
           0.0,
@@ -45197,7 +45197,7 @@
         ],
         "work_area": [
           0,
-          2320012800000
+          2353881600000
         ],
         "layers": [
           {
@@ -45210,7 +45210,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2320012800000,
+            "out_point": 2353881600000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -45936,7 +45936,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2252275200000,
+                          "time": 2286144000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -45966,7 +45966,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2277676800000,
+                          "time": 2311545600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -45996,7 +45996,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2303078400000,
+                          "time": 2336947200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -46026,7 +46026,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2311545600000,
+                          "time": 2345414400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -46402,7 +46402,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2320012800000,
+            "out_point": 2353881600000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -46595,7 +46595,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2252275200000,
+                          "time": 2286144000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -46625,7 +46625,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2277676800000,
+                          "time": 2311545600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -46655,7 +46655,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2303078400000,
+                          "time": 2336947200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -46685,7 +46685,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2311545600000,
+                          "time": 2345414400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -47061,7 +47061,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2320012800000,
+            "out_point": 2353881600000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -47905,7 +47905,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2320012800000,
+            "out_point": 2353881600000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -49036,7 +49036,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2320012800000,
+            "out_point": 2353881600000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -50168,7 +50168,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2320012800000,
+            "out_point": 2353881600000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -50987,7 +50987,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2320012800000,
+            "out_point": 2353881600000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -51958,7 +51958,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2320012800000,
+            "out_point": 2353881600000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -52495,7 +52495,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 2320012800000,
+        "duration": 2353881600000,
         "display_start": 0,
         "background": [
           0.0,
@@ -52504,7 +52504,7 @@
         ],
         "work_area": [
           0,
-          2320012800000
+          2353881600000
         ],
         "layers": [
           {
@@ -52518,7 +52518,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2320012800000,
+            "out_point": 2353881600000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -52592,7 +52592,7 @@
                         "t": "Vec3",
                         "v": [
                           2175.0,
-                          798.0,
+                          727.0,
                           0.0
                         ]
                       },
@@ -52651,7 +52651,7 @@
                           "roving": false
                         },
                         {
-                          "time": 745113600000,
+                          "time": 753580800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -52681,7 +52681,7 @@
                           "roving": false
                         },
                         {
-                          "time": 778982400000,
+                          "time": 787449600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -52711,7 +52711,7 @@
                           "roving": false
                         },
                         {
-                          "time": 821318400000,
+                          "time": 829785600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -52741,7 +52741,7 @@
                           "roving": false
                         },
                         {
-                          "time": 872121600000,
+                          "time": 880588800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -52771,7 +52771,7 @@
                           "roving": false
                         },
                         {
-                          "time": 897523200000,
+                          "time": 905990400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -52856,7 +52856,7 @@
                           "roving": false
                         },
                         {
-                          "time": 745113600000,
+                          "time": 753580800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -52886,7 +52886,7 @@
                           "roving": false
                         },
                         {
-                          "time": 778982400000,
+                          "time": 787449600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -52916,7 +52916,7 @@
                           "roving": false
                         },
                         {
-                          "time": 821318400000,
+                          "time": 829785600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -52946,7 +52946,7 @@
                           "roving": false
                         },
                         {
-                          "time": 872121600000,
+                          "time": 880588800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -52976,7 +52976,7 @@
                           "roving": false
                         },
                         {
-                          "time": 897523200000,
+                          "time": 905990400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -53437,7 +53437,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 1193875200000,
+        "duration": 1219276800000,
         "display_start": 0,
         "background": [
           0.0,
@@ -53446,7 +53446,7 @@
         ],
         "work_area": [
           0,
-          1193875200000
+          1219276800000
         ],
         "layers": [
           {
@@ -53459,7 +53459,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1193875200000,
+            "out_point": 1219276800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -54185,7 +54185,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1126137600000,
+                          "time": 1151539200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -54215,7 +54215,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1151539200000,
+                          "time": 1176940800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -54245,7 +54245,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1176940800000,
+                          "time": 1202342400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -54275,7 +54275,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1185408000000,
+                          "time": 1210809600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -54651,7 +54651,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1193875200000,
+            "out_point": 1219276800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -54844,7 +54844,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1126137600000,
+                          "time": 1151539200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -54874,7 +54874,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1151539200000,
+                          "time": 1176940800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -54904,7 +54904,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1176940800000,
+                          "time": 1202342400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -54934,7 +54934,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1185408000000,
+                          "time": 1210809600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -55310,7 +55310,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1193875200000,
+            "out_point": 1219276800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -56154,7 +56154,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1193875200000,
+            "out_point": 1219276800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -57285,7 +57285,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1193875200000,
+            "out_point": 1219276800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -58417,7 +58417,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1193875200000,
+            "out_point": 1219276800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -59236,7 +59236,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1193875200000,
+            "out_point": 1219276800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -60207,7 +60207,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1193875200000,
+            "out_point": 1219276800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -60712,7 +60712,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 1193875200000,
+        "duration": 1219276800000,
         "display_start": 0,
         "background": [
           0.0,
@@ -60721,7 +60721,7 @@
         ],
         "work_area": [
           0,
-          1193875200000
+          1219276800000
         ],
         "layers": [
           {
@@ -60735,7 +60735,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1193875200000,
+            "out_point": 1219276800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -60809,7 +60809,7 @@
                         "t": "Vec3",
                         "v": [
                           2130.0,
-                          983.0,
+                          912.0,
                           0.0
                         ]
                       },
@@ -60868,7 +60868,7 @@
                           "roving": false
                         },
                         {
-                          "time": 381024000000,
+                          "time": 389491200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -60898,7 +60898,7 @@
                           "roving": false
                         },
                         {
-                          "time": 414892800000,
+                          "time": 423360000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -60928,7 +60928,7 @@
                           "roving": false
                         },
                         {
-                          "time": 457228800000,
+                          "time": 465696000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -60958,7 +60958,7 @@
                           "roving": false
                         },
                         {
-                          "time": 508032000000,
+                          "time": 516499200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -60988,7 +60988,7 @@
                           "roving": false
                         },
                         {
-                          "time": 533433600000,
+                          "time": 541900800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -61073,7 +61073,7 @@
                           "roving": false
                         },
                         {
-                          "time": 381024000000,
+                          "time": 389491200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -61103,7 +61103,7 @@
                           "roving": false
                         },
                         {
-                          "time": 414892800000,
+                          "time": 423360000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -61133,7 +61133,7 @@
                           "roving": false
                         },
                         {
-                          "time": 457228800000,
+                          "time": 465696000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -61163,7 +61163,7 @@
                           "roving": false
                         },
                         {
-                          "time": 508032000000,
+                          "time": 516499200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -61193,7 +61193,7 @@
                           "roving": false
                         },
                         {
-                          "time": 533433600000,
+                          "time": 541900800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -61654,7 +61654,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 1278547200000,
+        "duration": 1329350400000,
         "display_start": 0,
         "background": [
           0.0,
@@ -61663,7 +61663,7 @@
         ],
         "work_area": [
           0,
-          1278547200000
+          1329350400000
         ],
         "layers": [
           {
@@ -61676,7 +61676,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1278547200000,
+            "out_point": 1329350400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -62402,7 +62402,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1210809600000,
+                          "time": 1261612800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -62432,7 +62432,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1236211200000,
+                          "time": 1287014400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -62462,7 +62462,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1261612800000,
+                          "time": 1312416000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -62492,7 +62492,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1270080000000,
+                          "time": 1320883200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -62868,7 +62868,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1278547200000,
+            "out_point": 1329350400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -63061,7 +63061,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1210809600000,
+                          "time": 1261612800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -63091,7 +63091,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1236211200000,
+                          "time": 1287014400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -63121,7 +63121,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1261612800000,
+                          "time": 1312416000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -63151,7 +63151,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1270080000000,
+                          "time": 1320883200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -63527,7 +63527,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1278547200000,
+            "out_point": 1329350400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -64371,7 +64371,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1278547200000,
+            "out_point": 1329350400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -65502,7 +65502,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1278547200000,
+            "out_point": 1329350400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -66634,7 +66634,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1278547200000,
+            "out_point": 1329350400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -67453,7 +67453,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1278547200000,
+            "out_point": 1329350400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -68424,7 +68424,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1278547200000,
+            "out_point": 1329350400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -68929,7 +68929,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 1278547200000,
+        "duration": 1329350400000,
         "display_start": 0,
         "background": [
           0.0,
@@ -68938,7 +68938,7 @@
         ],
         "work_area": [
           0,
-          1278547200000
+          1329350400000
         ],
         "layers": [
           {
@@ -68951,7 +68951,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1278547200000,
+            "out_point": 1329350400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -69889,7 +69889,7 @@
                         "t": "Vec3",
                         "v": [
                           985.5123966942149,
-                          482.93388429752065,
+                          484.59917355371897,
                           0.0
                         ]
                       },
@@ -69948,7 +69948,7 @@
                           "roving": false
                         },
                         {
-                          "time": 127008000000,
+                          "time": 152409600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -69978,7 +69978,7 @@
                           "roving": false
                         },
                         {
-                          "time": 143942400000,
+                          "time": 169344000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -70008,7 +70008,7 @@
                           "roving": false
                         },
                         {
-                          "time": 228614400000,
+                          "time": 254016000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -70038,7 +70038,7 @@
                           "roving": false
                         },
                         {
-                          "time": 330220800000,
+                          "time": 355622400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -70195,7 +70195,7 @@
                           "roving": false
                         },
                         {
-                          "time": 127008000000,
+                          "time": 152409600000,
                           "value": {
                             "t": "Scalar",
                             "v": 0.0
@@ -70221,7 +70221,7 @@
                           "roving": false
                         },
                         {
-                          "time": 143942400000,
+                          "time": 169344000000,
                           "value": {
                             "t": "Scalar",
                             "v": 100.0
@@ -70247,7 +70247,7 @@
                           "roving": false
                         },
                         {
-                          "time": 228614400000,
+                          "time": 254016000000,
                           "value": {
                             "t": "Scalar",
                             "v": 95.0
@@ -70273,7 +70273,7 @@
                           "roving": false
                         },
                         {
-                          "time": 330220800000,
+                          "time": 355622400000,
                           "value": {
                             "t": "Scalar",
                             "v": 0.0
@@ -70523,7 +70523,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1278547200000,
+            "out_point": 1329350400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -70597,7 +70597,7 @@
                         "t": "Vec3",
                         "v": [
                           2160.0,
-                          1015.0,
+                          944.0,
                           0.0
                         ]
                       },
@@ -70656,7 +70656,7 @@
                           "roving": false
                         },
                         {
-                          "time": 127008000000,
+                          "time": 152409600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -70686,12 +70686,12 @@
                           "roving": false
                         },
                         {
-                          "time": 160876800000,
+                          "time": 186278400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
                               798.1047404958678,
-                              402.6163173553719,
+                              402.6083239669422,
                               0.0
                             ]
                           },
@@ -70716,42 +70716,12 @@
                           "roving": false
                         },
                         {
-                          "time": 203212800000,
+                          "time": 228614400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
                               795.7546842975206,
-                              401.6091504132231,
-                              0.0
-                            ]
-                          },
-                          "in_interp": "Linear",
-                          "out_interp": "Linear",
-                          "in_ease": [],
-                          "out_ease": [],
-                          "continuous": false,
-                          "auto_bezier": false,
-                          "spatial_in": [
-                            0.0,
-                            0.0,
-                            0.0
-                          ],
-                          "spatial_out": [
-                            0.0,
-                            0.0,
-                            0.0
-                          ],
-                          "spatial_auto": true,
-                          "spatial_continuous": false,
-                          "roving": false
-                        },
-                        {
-                          "time": 254016000000,
-                          "value": {
-                            "t": "Vec3",
-                            "v": [
-                              793.7963041322314,
-                              400.7698446280992,
+                              401.58017438016526,
                               0.0
                             ]
                           },
@@ -70780,8 +70750,38 @@
                           "value": {
                             "t": "Vec3",
                             "v": [
+                              793.7963041322314,
+                              400.72338305785127,
+                              0.0
+                            ]
+                          },
+                          "in_interp": "Linear",
+                          "out_interp": "Linear",
+                          "in_ease": [],
+                          "out_ease": [],
+                          "continuous": false,
+                          "auto_bezier": false,
+                          "spatial_in": [
+                            0.0,
+                            0.0,
+                            0.0
+                          ],
+                          "spatial_out": [
+                            0.0,
+                            0.0,
+                            0.0
+                          ],
+                          "spatial_auto": true,
+                          "spatial_continuous": false,
+                          "roving": false
+                        },
+                        {
+                          "time": 304819200000,
+                          "value": {
+                            "t": "Vec3",
+                            "v": [
                               793.4046280991736,
-                              400.6019834710744,
+                              400.55202479338845,
                               0.0
                             ]
                           },
@@ -70861,7 +70861,7 @@
                           "roving": false
                         },
                         {
-                          "time": 127008000000,
+                          "time": 152409600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -70891,7 +70891,7 @@
                           "roving": false
                         },
                         {
-                          "time": 160876800000,
+                          "time": 186278400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -70921,42 +70921,12 @@
                           "roving": false
                         },
                         {
-                          "time": 203212800000,
+                          "time": 228614400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
                               169.42652892561983,
                               169.42652892561983,
-                              100.0
-                            ]
-                          },
-                          "in_interp": "Linear",
-                          "out_interp": "Linear",
-                          "in_ease": [],
-                          "out_ease": [],
-                          "continuous": false,
-                          "auto_bezier": false,
-                          "spatial_in": [
-                            0.0,
-                            0.0,
-                            0.0
-                          ],
-                          "spatial_out": [
-                            0.0,
-                            0.0,
-                            0.0
-                          ],
-                          "spatial_auto": true,
-                          "spatial_continuous": false,
-                          "roving": false
-                        },
-                        {
-                          "time": 254016000000,
-                          "value": {
-                            "t": "Vec3",
-                            "v": [
-                              171.17508264462808,
-                              171.17508264462808,
                               100.0
                             ]
                           },
@@ -70982,6 +70952,36 @@
                         },
                         {
                           "time": 279417600000,
+                          "value": {
+                            "t": "Vec3",
+                            "v": [
+                              171.17508264462808,
+                              171.17508264462808,
+                              100.0
+                            ]
+                          },
+                          "in_interp": "Linear",
+                          "out_interp": "Linear",
+                          "in_ease": [],
+                          "out_ease": [],
+                          "continuous": false,
+                          "auto_bezier": false,
+                          "spatial_in": [
+                            0.0,
+                            0.0,
+                            0.0
+                          ],
+                          "spatial_out": [
+                            0.0,
+                            0.0,
+                            0.0
+                          ],
+                          "spatial_auto": true,
+                          "spatial_continuous": false,
+                          "roving": false
+                        },
+                        {
+                          "time": 304819200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -71442,7 +71442,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 1032998400000,
+        "duration": 1066867200000,
         "display_start": 0,
         "background": [
           0.0,
@@ -71451,7 +71451,7 @@
         ],
         "work_area": [
           0,
-          1032998400000
+          1066867200000
         ],
         "layers": [
           {
@@ -71464,7 +71464,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1032998400000,
+            "out_point": 1066867200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -72190,7 +72190,7 @@
                           "roving": false
                         },
                         {
-                          "time": 965260800000,
+                          "time": 999129600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -72220,7 +72220,7 @@
                           "roving": false
                         },
                         {
-                          "time": 990662400000,
+                          "time": 1024531200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -72250,7 +72250,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1016064000000,
+                          "time": 1049932800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -72280,7 +72280,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1024531200000,
+                          "time": 1058400000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -72656,7 +72656,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1032998400000,
+            "out_point": 1066867200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -72849,7 +72849,7 @@
                           "roving": false
                         },
                         {
-                          "time": 965260800000,
+                          "time": 999129600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -72879,7 +72879,7 @@
                           "roving": false
                         },
                         {
-                          "time": 990662400000,
+                          "time": 1024531200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -72909,7 +72909,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1016064000000,
+                          "time": 1049932800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -72939,7 +72939,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1024531200000,
+                          "time": 1058400000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -73315,7 +73315,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1032998400000,
+            "out_point": 1066867200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -74159,7 +74159,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1032998400000,
+            "out_point": 1066867200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -75290,7 +75290,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1032998400000,
+            "out_point": 1066867200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -76422,7 +76422,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1032998400000,
+            "out_point": 1066867200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -77241,7 +77241,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1032998400000,
+            "out_point": 1066867200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -78212,7 +78212,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1032998400000,
+            "out_point": 1066867200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -78717,7 +78717,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 1032998400000,
+        "duration": 1066867200000,
         "display_start": 0,
         "background": [
           0.0,
@@ -78726,7 +78726,7 @@
         ],
         "work_area": [
           0,
-          1032998400000
+          1066867200000
         ],
         "layers": [
           {
@@ -78740,7 +78740,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1032998400000,
+            "out_point": 1066867200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -78814,7 +78814,7 @@
                         "t": "Vec3",
                         "v": [
                           2220.0,
-                          1095.0,
+                          1024.0,
                           0.0
                         ]
                       },
@@ -78873,7 +78873,7 @@
                           "roving": false
                         },
                         {
-                          "time": 330220800000,
+                          "time": 338688000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -78903,7 +78903,7 @@
                           "roving": false
                         },
                         {
-                          "time": 364089600000,
+                          "time": 372556800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -78933,7 +78933,7 @@
                           "roving": false
                         },
                         {
-                          "time": 406425600000,
+                          "time": 414892800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -78963,7 +78963,7 @@
                           "roving": false
                         },
                         {
-                          "time": 457228800000,
+                          "time": 465696000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -78993,7 +78993,7 @@
                           "roving": false
                         },
                         {
-                          "time": 482630400000,
+                          "time": 491097600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -79078,7 +79078,7 @@
                           "roving": false
                         },
                         {
-                          "time": 330220800000,
+                          "time": 338688000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -79108,7 +79108,7 @@
                           "roving": false
                         },
                         {
-                          "time": 364089600000,
+                          "time": 372556800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -79138,7 +79138,7 @@
                           "roving": false
                         },
                         {
-                          "time": 406425600000,
+                          "time": 414892800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -79168,7 +79168,7 @@
                           "roving": false
                         },
                         {
-                          "time": 457228800000,
+                          "time": 465696000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -79198,7 +79198,7 @@
                           "roving": false
                         },
                         {
-                          "time": 482630400000,
+                          "time": 491097600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -79659,7 +79659,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 1871251200000,
+        "duration": 1913587200000,
         "display_start": 0,
         "background": [
           0.0,
@@ -79668,7 +79668,7 @@
         ],
         "work_area": [
           0,
-          1871251200000
+          1913587200000
         ],
         "layers": [
           {
@@ -79681,7 +79681,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1871251200000,
+            "out_point": 1913587200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -80407,7 +80407,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1803513600000,
+                          "time": 1845849600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -80437,7 +80437,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1828915200000,
+                          "time": 1871251200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -80467,7 +80467,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1854316800000,
+                          "time": 1896652800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -80497,7 +80497,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1862784000000,
+                          "time": 1905120000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -80873,7 +80873,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1871251200000,
+            "out_point": 1913587200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -81066,7 +81066,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1803513600000,
+                          "time": 1845849600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -81096,7 +81096,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1828915200000,
+                          "time": 1871251200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -81126,7 +81126,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1854316800000,
+                          "time": 1896652800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -81156,7 +81156,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1862784000000,
+                          "time": 1905120000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -81532,7 +81532,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1871251200000,
+            "out_point": 1913587200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -82376,7 +82376,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1871251200000,
+            "out_point": 1913587200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -83507,7 +83507,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1871251200000,
+            "out_point": 1913587200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -84639,7 +84639,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1871251200000,
+            "out_point": 1913587200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -85458,7 +85458,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1871251200000,
+            "out_point": 1913587200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -86429,7 +86429,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1871251200000,
+            "out_point": 1913587200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -86934,7 +86934,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 1871251200000,
+        "duration": 1913587200000,
         "display_start": 0,
         "background": [
           0.0,
@@ -86943,7 +86943,7 @@
         ],
         "work_area": [
           0,
-          1871251200000
+          1913587200000
         ],
         "layers": [
           {
@@ -86956,7 +86956,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1871251200000,
+            "out_point": 1913587200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -87953,7 +87953,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1490227200000,
+                          "time": 1524096000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -87983,7 +87983,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1507161600000,
+                          "time": 1541030400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -88013,7 +88013,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1591833600000,
+                          "time": 1625702400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -88043,7 +88043,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1693440000000,
+                          "time": 1727308800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -88200,7 +88200,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1490227200000,
+                          "time": 1524096000000,
                           "value": {
                             "t": "Scalar",
                             "v": 0.0
@@ -88226,7 +88226,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1507161600000,
+                          "time": 1541030400000,
                           "value": {
                             "t": "Scalar",
                             "v": 100.0
@@ -88252,7 +88252,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1591833600000,
+                          "time": 1625702400000,
                           "value": {
                             "t": "Scalar",
                             "v": 95.0
@@ -88278,7 +88278,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1693440000000,
+                          "time": 1727308800000,
                           "value": {
                             "t": "Scalar",
                             "v": 0.0
@@ -88528,7 +88528,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1871251200000,
+            "out_point": 1913587200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -88661,7 +88661,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1490227200000,
+                          "time": 1524096000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -88691,7 +88691,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1524096000000,
+                          "time": 1557964800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -88721,7 +88721,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1566432000000,
+                          "time": 1600300800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -88751,7 +88751,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1617235200000,
+                          "time": 1651104000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -88781,7 +88781,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1642636800000,
+                          "time": 1676505600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -88866,40 +88866,40 @@
                           "roving": false
                         },
                         {
-                          "time": 1490227200000,
-                          "value": {
-                            "t": "Vec3",
-                            "v": [
-                              131.94444444444443,
-                              131.94444444444443,
-                              100.0
-                            ]
-                          },
-                          "in_interp": "Linear",
-                          "out_interp": "Linear",
-                          "in_ease": [],
-                          "out_ease": [],
-                          "continuous": false,
-                          "auto_bezier": false,
-                          "spatial_in": [
-                            0.0,
-                            0.0,
-                            0.0
-                          ],
-                          "spatial_out": [
-                            0.0,
-                            0.0,
-                            0.0
-                          ],
-                          "spatial_auto": true,
-                          "spatial_continuous": false,
-                          "roving": false
-                        },
-                        {
                           "time": 1524096000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
+                              131.94444444444443,
+                              131.94444444444443,
+                              100.0
+                            ]
+                          },
+                          "in_interp": "Linear",
+                          "out_interp": "Linear",
+                          "in_ease": [],
+                          "out_ease": [],
+                          "continuous": false,
+                          "auto_bezier": false,
+                          "spatial_in": [
+                            0.0,
+                            0.0,
+                            0.0
+                          ],
+                          "spatial_out": [
+                            0.0,
+                            0.0,
+                            0.0
+                          ],
+                          "spatial_auto": true,
+                          "spatial_continuous": false,
+                          "roving": false
+                        },
+                        {
+                          "time": 1557964800000,
+                          "value": {
+                            "t": "Vec3",
+                            "v": [
                               132.57777777777775,
                               132.57777777777775,
                               100.0
@@ -88926,7 +88926,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1566432000000,
+                          "time": 1600300800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -88956,7 +88956,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1617235200000,
+                          "time": 1651104000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -88986,7 +88986,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1642636800000,
+                          "time": 1676505600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -89447,7 +89447,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 1151539200000,
+        "duration": 1185408000000,
         "display_start": 0,
         "background": [
           0.0,
@@ -89456,7 +89456,7 @@
         ],
         "work_area": [
           0,
-          1151539200000
+          1185408000000
         ],
         "layers": [
           {
@@ -89469,7 +89469,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1151539200000,
+            "out_point": 1185408000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -90195,7 +90195,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1083801600000,
+                          "time": 1117670400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -90225,7 +90225,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1109203200000,
+                          "time": 1143072000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -90255,7 +90255,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1134604800000,
+                          "time": 1168473600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -90285,7 +90285,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1143072000000,
+                          "time": 1176940800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -90661,7 +90661,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1151539200000,
+            "out_point": 1185408000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -90854,7 +90854,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1083801600000,
+                          "time": 1117670400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -90884,7 +90884,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1109203200000,
+                          "time": 1143072000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -90914,7 +90914,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1134604800000,
+                          "time": 1168473600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -90944,7 +90944,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1143072000000,
+                          "time": 1176940800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -91320,7 +91320,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1151539200000,
+            "out_point": 1185408000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -92164,7 +92164,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1151539200000,
+            "out_point": 1185408000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -93295,7 +93295,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1151539200000,
+            "out_point": 1185408000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -94427,7 +94427,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1151539200000,
+            "out_point": 1185408000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -95246,7 +95246,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1151539200000,
+            "out_point": 1185408000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -96217,7 +96217,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1151539200000,
+            "out_point": 1185408000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -96722,7 +96722,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 1151539200000,
+        "duration": 1185408000000,
         "display_start": 0,
         "background": [
           0.0,
@@ -96731,7 +96731,7 @@
         ],
         "work_area": [
           0,
-          1151539200000
+          1185408000000
         ],
         "layers": [
           {
@@ -96744,7 +96744,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1151539200000,
+            "out_point": 1185408000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -97741,7 +97741,7 @@
                           "roving": false
                         },
                         {
-                          "time": 406425600000,
+                          "time": 431827200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -97771,7 +97771,7 @@
                           "roving": false
                         },
                         {
-                          "time": 423360000000,
+                          "time": 448761600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -97801,7 +97801,7 @@
                           "roving": false
                         },
                         {
-                          "time": 508032000000,
+                          "time": 533433600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -97831,7 +97831,7 @@
                           "roving": false
                         },
                         {
-                          "time": 609638400000,
+                          "time": 635040000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -97988,7 +97988,7 @@
                           "roving": false
                         },
                         {
-                          "time": 406425600000,
+                          "time": 431827200000,
                           "value": {
                             "t": "Scalar",
                             "v": 0.0
@@ -98014,7 +98014,7 @@
                           "roving": false
                         },
                         {
-                          "time": 423360000000,
+                          "time": 448761600000,
                           "value": {
                             "t": "Scalar",
                             "v": 100.0
@@ -98040,7 +98040,7 @@
                           "roving": false
                         },
                         {
-                          "time": 508032000000,
+                          "time": 533433600000,
                           "value": {
                             "t": "Scalar",
                             "v": 95.0
@@ -98066,7 +98066,7 @@
                           "roving": false
                         },
                         {
-                          "time": 609638400000,
+                          "time": 635040000000,
                           "value": {
                             "t": "Scalar",
                             "v": 0.0
@@ -98316,7 +98316,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1151539200000,
+            "out_point": 1185408000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -98449,7 +98449,7 @@
                           "roving": false
                         },
                         {
-                          "time": 406425600000,
+                          "time": 431827200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -98479,7 +98479,7 @@
                           "roving": false
                         },
                         {
-                          "time": 440294400000,
+                          "time": 465696000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -98509,7 +98509,7 @@
                           "roving": false
                         },
                         {
-                          "time": 482630400000,
+                          "time": 508032000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -98539,7 +98539,7 @@
                           "roving": false
                         },
                         {
-                          "time": 533433600000,
+                          "time": 558835200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -98569,7 +98569,7 @@
                           "roving": false
                         },
                         {
-                          "time": 558835200000,
+                          "time": 584236800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -98654,7 +98654,7 @@
                           "roving": false
                         },
                         {
-                          "time": 406425600000,
+                          "time": 431827200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -98684,7 +98684,7 @@
                           "roving": false
                         },
                         {
-                          "time": 440294400000,
+                          "time": 465696000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -98714,42 +98714,12 @@
                           "roving": false
                         },
                         {
-                          "time": 482630400000,
+                          "time": 508032000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
                               207.11357142857142,
                               207.11357142857142,
-                              100.0
-                            ]
-                          },
-                          "in_interp": "Linear",
-                          "out_interp": "Linear",
-                          "in_ease": [],
-                          "out_ease": [],
-                          "continuous": false,
-                          "auto_bezier": false,
-                          "spatial_in": [
-                            0.0,
-                            0.0,
-                            0.0
-                          ],
-                          "spatial_out": [
-                            0.0,
-                            0.0,
-                            0.0
-                          ],
-                          "spatial_auto": true,
-                          "spatial_continuous": false,
-                          "roving": false
-                        },
-                        {
-                          "time": 533433600000,
-                          "value": {
-                            "t": "Vec3",
-                            "v": [
-                              209.2510714285714,
-                              209.2510714285714,
                               100.0
                             ]
                           },
@@ -98775,6 +98745,36 @@
                         },
                         {
                           "time": 558835200000,
+                          "value": {
+                            "t": "Vec3",
+                            "v": [
+                              209.2510714285714,
+                              209.2510714285714,
+                              100.0
+                            ]
+                          },
+                          "in_interp": "Linear",
+                          "out_interp": "Linear",
+                          "in_ease": [],
+                          "out_ease": [],
+                          "continuous": false,
+                          "auto_bezier": false,
+                          "spatial_in": [
+                            0.0,
+                            0.0,
+                            0.0
+                          ],
+                          "spatial_out": [
+                            0.0,
+                            0.0,
+                            0.0
+                          ],
+                          "spatial_auto": true,
+                          "spatial_continuous": false,
+                          "roving": false
+                        },
+                        {
+                          "time": 584236800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -99235,7 +99235,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 2099865600000,
+        "duration": 2150668800000,
         "display_start": 0,
         "background": [
           0.0,
@@ -99244,7 +99244,7 @@
         ],
         "work_area": [
           0,
-          2099865600000
+          2150668800000
         ],
         "layers": [
           {
@@ -99257,7 +99257,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2099865600000,
+            "out_point": 2150668800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -99983,7 +99983,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2032128000000,
+                          "time": 2082931200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -100013,7 +100013,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2057529600000,
+                          "time": 2108332800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -100043,7 +100043,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2082931200000,
+                          "time": 2133734400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -100073,7 +100073,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2091398400000,
+                          "time": 2142201600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -100449,7 +100449,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2099865600000,
+            "out_point": 2150668800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -100642,7 +100642,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2032128000000,
+                          "time": 2082931200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -100672,7 +100672,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2057529600000,
+                          "time": 2108332800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -100702,7 +100702,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2082931200000,
+                          "time": 2133734400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -100732,7 +100732,7 @@
                           "roving": false
                         },
                         {
-                          "time": 2091398400000,
+                          "time": 2142201600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -101108,7 +101108,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2099865600000,
+            "out_point": 2150668800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -101952,7 +101952,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2099865600000,
+            "out_point": 2150668800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -103083,7 +103083,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2099865600000,
+            "out_point": 2150668800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -104215,7 +104215,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2099865600000,
+            "out_point": 2150668800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -105034,7 +105034,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2099865600000,
+            "out_point": 2150668800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -106005,7 +106005,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2099865600000,
+            "out_point": 2150668800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -106510,7 +106510,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 2099865600000,
+        "duration": 2150668800000,
         "display_start": 0,
         "background": [
           0.0,
@@ -106519,7 +106519,7 @@
         ],
         "work_area": [
           0,
-          2099865600000
+          2150668800000
         ],
         "layers": [
           {
@@ -106532,7 +106532,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2099865600000,
+            "out_point": 2150668800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -107529,7 +107529,7 @@
                           "roving": false
                         },
                         {
-                          "time": 237081600000,
+                          "time": 262483200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -107559,7 +107559,7 @@
                           "roving": false
                         },
                         {
-                          "time": 254016000000,
+                          "time": 279417600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -107589,7 +107589,7 @@
                           "roving": false
                         },
                         {
-                          "time": 338688000000,
+                          "time": 364089600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -107619,7 +107619,7 @@
                           "roving": false
                         },
                         {
-                          "time": 440294400000,
+                          "time": 465696000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -107776,7 +107776,7 @@
                           "roving": false
                         },
                         {
-                          "time": 237081600000,
+                          "time": 262483200000,
                           "value": {
                             "t": "Scalar",
                             "v": 0.0
@@ -107802,7 +107802,7 @@
                           "roving": false
                         },
                         {
-                          "time": 254016000000,
+                          "time": 279417600000,
                           "value": {
                             "t": "Scalar",
                             "v": 100.0
@@ -107828,7 +107828,7 @@
                           "roving": false
                         },
                         {
-                          "time": 338688000000,
+                          "time": 364089600000,
                           "value": {
                             "t": "Scalar",
                             "v": 95.0
@@ -107854,7 +107854,7 @@
                           "roving": false
                         },
                         {
-                          "time": 440294400000,
+                          "time": 465696000000,
                           "value": {
                             "t": "Scalar",
                             "v": 0.0
@@ -108104,7 +108104,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 2099865600000,
+            "out_point": 2150668800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -108237,7 +108237,7 @@
                           "roving": false
                         },
                         {
-                          "time": 237081600000,
+                          "time": 262483200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -108267,7 +108267,7 @@
                           "roving": false
                         },
                         {
-                          "time": 270950400000,
+                          "time": 296352000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -108297,7 +108297,7 @@
                           "roving": false
                         },
                         {
-                          "time": 313286400000,
+                          "time": 338688000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -108327,7 +108327,7 @@
                           "roving": false
                         },
                         {
-                          "time": 364089600000,
+                          "time": 389491200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -108357,7 +108357,7 @@
                           "roving": false
                         },
                         {
-                          "time": 389491200000,
+                          "time": 414892800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -108442,7 +108442,7 @@
                           "roving": false
                         },
                         {
-                          "time": 237081600000,
+                          "time": 262483200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -108472,7 +108472,7 @@
                           "roving": false
                         },
                         {
-                          "time": 270950400000,
+                          "time": 296352000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -108502,42 +108502,12 @@
                           "roving": false
                         },
                         {
-                          "time": 313286400000,
+                          "time": 338688000000,
                           "value": {
                             "t": "Vec3",
                             "v": [
                               186.36918181818183,
                               186.36918181818183,
-                              100.0
-                            ]
-                          },
-                          "in_interp": "Linear",
-                          "out_interp": "Linear",
-                          "in_ease": [],
-                          "out_ease": [],
-                          "continuous": false,
-                          "auto_bezier": false,
-                          "spatial_in": [
-                            0.0,
-                            0.0,
-                            0.0
-                          ],
-                          "spatial_out": [
-                            0.0,
-                            0.0,
-                            0.0
-                          ],
-                          "spatial_auto": true,
-                          "spatial_continuous": false,
-                          "roving": false
-                        },
-                        {
-                          "time": 364089600000,
-                          "value": {
-                            "t": "Vec3",
-                            "v": [
-                              188.29259090909093,
-                              188.29259090909093,
                               100.0
                             ]
                           },
@@ -108563,6 +108533,36 @@
                         },
                         {
                           "time": 389491200000,
+                          "value": {
+                            "t": "Vec3",
+                            "v": [
+                              188.29259090909093,
+                              188.29259090909093,
+                              100.0
+                            ]
+                          },
+                          "in_interp": "Linear",
+                          "out_interp": "Linear",
+                          "in_ease": [],
+                          "out_ease": [],
+                          "continuous": false,
+                          "auto_bezier": false,
+                          "spatial_in": [
+                            0.0,
+                            0.0,
+                            0.0
+                          ],
+                          "spatial_out": [
+                            0.0,
+                            0.0,
+                            0.0
+                          ],
+                          "spatial_auto": true,
+                          "spatial_continuous": false,
+                          "roving": false
+                        },
+                        {
+                          "time": 414892800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -109023,7 +109023,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 1160006400000,
+        "duration": 1176940800000,
         "display_start": 0,
         "background": [
           0.0,
@@ -109032,7 +109032,7 @@
         ],
         "work_area": [
           0,
-          1160006400000
+          1176940800000
         ],
         "layers": [
           {
@@ -109045,7 +109045,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1160006400000,
+            "out_point": 1176940800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -109771,7 +109771,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1092268800000,
+                          "time": 1109203200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -109801,7 +109801,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1117670400000,
+                          "time": 1134604800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -109831,7 +109831,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1143072000000,
+                          "time": 1160006400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -109861,7 +109861,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1151539200000,
+                          "time": 1168473600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -110237,7 +110237,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1160006400000,
+            "out_point": 1176940800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -110430,7 +110430,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1092268800000,
+                          "time": 1109203200000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -110460,7 +110460,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1117670400000,
+                          "time": 1134604800000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -110490,7 +110490,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1143072000000,
+                          "time": 1160006400000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -110520,7 +110520,7 @@
                           "roving": false
                         },
                         {
-                          "time": 1151539200000,
+                          "time": 1168473600000,
                           "value": {
                             "t": "Vec3",
                             "v": [
@@ -110896,7 +110896,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1160006400000,
+            "out_point": 1176940800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -111740,7 +111740,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1160006400000,
+            "out_point": 1176940800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -112871,7 +112871,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1160006400000,
+            "out_point": 1176940800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -114003,7 +114003,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1160006400000,
+            "out_point": 1176940800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -114974,7 +114974,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1160006400000,
+            "out_point": 1176940800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -115945,7 +115945,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1160006400000,
+            "out_point": 1176940800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -116916,7 +116916,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1160006400000,
+            "out_point": 1176940800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -117735,7 +117735,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1160006400000,
+            "out_point": 1176940800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -118240,7 +118240,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 1160006400000,
+        "duration": 1176940800000,
         "display_start": 0,
         "background": [
           0.0,
@@ -118249,7 +118249,7 @@
         ],
         "work_area": [
           0,
-          1160006400000
+          1176940800000
         ],
         "layers": [
           {
@@ -118263,7 +118263,7 @@
             "comment": "",
             "start_time": 0,
             "in_point": 0,
-            "out_point": 1160006400000,
+            "out_point": 1176940800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -122756,7 +122756,7 @@
           "num": 30,
           "den": 1
         },
-        "duration": 19559232000000,
+        "duration": 20405952000000,
         "display_start": 0,
         "background": [
           0.0,
@@ -122765,7 +122765,7 @@
         ],
         "work_area": [
           0,
-          19559232000000
+          20405952000000
         ],
         "layers": [
           {
@@ -122777,9 +122777,9 @@
             },
             "label": "Sandstone",
             "comment": "",
-            "start_time": 19144339200000,
-            "in_point": 19144339200000,
-            "out_point": 19559232000000,
+            "start_time": 19991059200000,
+            "in_point": 19991059200000,
+            "out_point": 20405952000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -123258,9 +123258,9 @@
             },
             "label": "Sandstone",
             "comment": "",
-            "start_time": 17984332800000,
-            "in_point": 17984332800000,
-            "out_point": 19144339200000,
+            "start_time": 18814118400000,
+            "in_point": 18814118400000,
+            "out_point": 19991059200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -123739,9 +123739,9 @@
             },
             "label": "Sandstone",
             "comment": "",
-            "start_time": 15884467200000,
-            "in_point": 15884467200000,
-            "out_point": 17984332800000,
+            "start_time": 16663449600000,
+            "in_point": 16663449600000,
+            "out_point": 18814118400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -124220,9 +124220,9 @@
             },
             "label": "Sandstone",
             "comment": "",
-            "start_time": 14732928000000,
-            "in_point": 14732928000000,
-            "out_point": 15884467200000,
+            "start_time": 15478041600000,
+            "in_point": 15478041600000,
+            "out_point": 16663449600000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -124701,9 +124701,9 @@
             },
             "label": "Sandstone",
             "comment": "",
-            "start_time": 12861676800000,
-            "in_point": 12861676800000,
-            "out_point": 14732928000000,
+            "start_time": 13564454400000,
+            "in_point": 13564454400000,
+            "out_point": 15478041600000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -125182,9 +125182,9 @@
             },
             "label": "Sandstone",
             "comment": "",
-            "start_time": 11828678400000,
-            "in_point": 11828678400000,
-            "out_point": 12861676800000,
+            "start_time": 12497587200000,
+            "in_point": 12497587200000,
+            "out_point": 13564454400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -125663,9 +125663,9 @@
             },
             "label": "Sandstone",
             "comment": "",
-            "start_time": 10550131200000,
-            "in_point": 10550131200000,
-            "out_point": 11828678400000,
+            "start_time": 11168236800000,
+            "in_point": 11168236800000,
+            "out_point": 12497587200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -126144,9 +126144,9 @@
             },
             "label": "Sandstone",
             "comment": "",
-            "start_time": 9356256000000,
-            "in_point": 9356256000000,
-            "out_point": 10550131200000,
+            "start_time": 9948960000000,
+            "in_point": 9948960000000,
+            "out_point": 11168236800000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -126625,9 +126625,9 @@
             },
             "label": "Sandstone",
             "comment": "",
-            "start_time": 7036243200000,
-            "in_point": 7036243200000,
-            "out_point": 9356256000000,
+            "start_time": 7595078400000,
+            "in_point": 7595078400000,
+            "out_point": 9948960000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -127106,9 +127106,9 @@
             },
             "label": "Sandstone",
             "comment": "",
-            "start_time": 5681491200000,
-            "in_point": 5681491200000,
-            "out_point": 7036243200000,
+            "start_time": 6240326400000,
+            "in_point": 6240326400000,
+            "out_point": 7595078400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -127587,9 +127587,9 @@
             },
             "label": "Sandstone",
             "comment": "",
-            "start_time": 2844979200000,
-            "in_point": 2844979200000,
-            "out_point": 5681491200000,
+            "start_time": 3386880000000,
+            "in_point": 3386880000000,
+            "out_point": 6240326400000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -128061,16 +128061,16 @@
           },
           {
             "id": 5096,
-            "name": "02 · Die Notizen am Vers öffnen",
+            "name": "02 · Notizbereich einschalten",
             "source": {
               "type": "Comp",
               "item": 695
             },
             "label": "Sandstone",
             "comment": "",
-            "start_time": 2074464000000,
-            "in_point": 2074464000000,
-            "out_point": 2844979200000,
+            "start_time": 2125267200000,
+            "in_point": 2125267200000,
+            "out_point": 3386880000000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -128097,7 +128097,7 @@
             "props": {
               "uid": 5097,
               "match": "layer",
-              "name": "02 · Die Notizen am Vers öffnen",
+              "name": "02 · Notizbereich einschalten",
               "kind": {
                 "kind": "Plain"
               },
@@ -128542,7 +128542,7 @@
           },
           {
             "id": 5071,
-            "name": "01 · Einen Gedanken festhalten",
+            "name": "01 · Kachelanordnung öffnen",
             "source": {
               "type": "Comp",
               "item": 294
@@ -128551,7 +128551,7 @@
             "comment": "",
             "start_time": 347155200000,
             "in_point": 347155200000,
-            "out_point": 2074464000000,
+            "out_point": 2125267200000,
             "stretch": 100.0,
             "switches": {
               "video": true,
@@ -128578,7 +128578,7 @@
             "props": {
               "uid": 5072,
               "match": "layer",
-              "name": "01 · Einen Gedanken festhalten",
+              "name": "01 · Kachelanordnung öffnen",
               "kind": {
                 "kind": "Plain"
               },
@@ -129516,23 +129516,23 @@
           {
             "time": 347155200000,
             "duration": 0,
-            "comment": "01 · Einen Gedanken festhalten",
+            "comment": "01 · Kachelanordnung öffnen",
             "label": "Red",
             "chapter": "",
             "url": "",
             "protected": false
           },
           {
-            "time": 2074464000000,
+            "time": 2125267200000,
             "duration": 0,
-            "comment": "02 · Die Notizen am Vers öffnen",
+            "comment": "02 · Notizbereich einschalten",
             "label": "Red",
             "chapter": "",
             "url": "",
             "protected": false
           },
           {
-            "time": 2844979200000,
+            "time": 3386880000000,
             "duration": 0,
             "comment": "03 · Den Bezug wählen",
             "label": "Red",
@@ -129541,7 +129541,7 @@
             "protected": false
           },
           {
-            "time": 5681491200000,
+            "time": 6240326400000,
             "duration": 0,
             "comment": "04 · Neben dem Bibeltext schreiben",
             "label": "Red",
@@ -129550,7 +129550,7 @@
             "protected": false
           },
           {
-            "time": 7036243200000,
+            "time": 7595078400000,
             "duration": 0,
             "comment": "05 · Eine weitere Stelle eintippen",
             "label": "Red",
@@ -129559,7 +129559,7 @@
             "protected": false
           },
           {
-            "time": 9356256000000,
+            "time": 9948960000000,
             "duration": 0,
             "comment": "06 · Die Vorschau öffnen",
             "label": "Red",
@@ -129568,7 +129568,7 @@
             "protected": false
           },
           {
-            "time": 10550131200000,
+            "time": 11168236800000,
             "duration": 0,
             "comment": "07 · Den Wortlaut übernehmen",
             "label": "Red",
@@ -129577,7 +129577,7 @@
             "protected": false
           },
           {
-            "time": 11828678400000,
+            "time": 12497587200000,
             "duration": 0,
             "comment": "08 · Das eingefügte Zitat lesen",
             "label": "Red",
@@ -129586,7 +129586,7 @@
             "protected": false
           },
           {
-            "time": 12861676800000,
+            "time": 13564454400000,
             "duration": 0,
             "comment": "09 · Die Übersetzung festlegen",
             "label": "Red",
@@ -129595,7 +129595,7 @@
             "protected": false
           },
           {
-            "time": 14732928000000,
+            "time": 15478041600000,
             "duration": 0,
             "comment": "10 · Zur Notizübersicht wechseln",
             "label": "Red",
@@ -129604,7 +129604,7 @@
             "protected": false
           },
           {
-            "time": 15884467200000,
+            "time": 16663449600000,
             "duration": 0,
             "comment": "11 · Die Notizspalte synchronisieren",
             "label": "Red",
@@ -129613,7 +129613,7 @@
             "protected": false
           },
           {
-            "time": 17984332800000,
+            "time": 18814118400000,
             "duration": 0,
             "comment": "12 · Die Notizen zum Kapitel sehen",
             "label": "Red",
@@ -129622,7 +129622,7 @@
             "protected": false
           },
           {
-            "time": 19144339200000,
+            "time": 19991059200000,
             "duration": 0,
             "comment": "13 · Abschluss",
             "label": "Red",

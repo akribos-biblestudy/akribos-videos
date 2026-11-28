@@ -1,6 +1,6 @@
-Dir ist ein Vers besonders wichtig geworden? Füge deine Gedanken als Notiz hinzu. Klicke auf die Versnummer.
+Dir ist ein Vers besonders wichtig geworden? Füge deine Gedanken als Notiz hinzu. Öffne die Kachelanordnung.
 
-Öffne im Versmenü die Notizen zu dieser Stelle.
+Schalte den Notizbereich ein. Dort siehst du die Notizen zur aktuellen Stelle.
 
 Unter „Übersetzungsbezug“ kannst du „Kanonisch“ wählen. So gehört deine Notiz in allen Übersetzungen zu diesem Vers. Geht es um einen bestimmten Wortlaut, wähle die passende Bibel.
 

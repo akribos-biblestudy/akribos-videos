@@ -1,55 +1,54 @@
 {
   "fps": 30,
   "voiceOffset": 1.47,
-  "recordingDuration": 73.68,
+  "recordingDuration": 77.04,
   "sceneStartFrames": [
     41,
-    245,
-    336,
-    671,
-    831,
-    1105,
-    1246,
-    1397,
-    1519,
-    1740,
-    1876,
-    2124
+    251,
+    400,
+    737,
+    897,
+    1175,
+    1319,
+    1476,
+    1602,
+    1828,
+    1968,
+    2222
   ],
-  "closingFrame": 2261,
-  "totalFrames": 2310,
-  "alignment": 0.966,
+  "closingFrame": 2361,
+  "totalFrames": 2410,
+  "alignment": 0.959,
   "visualCues": [
     {
       "scene": 1,
-      "cue": "die Versnummer",
-      "anchor": "versnummer",
-      "audioSeconds": 5.7,
-      "frame": 215,
+      "cue": "Kachelanordnung",
+      "anchor": "kachelanordnung",
+      "audioSeconds": 5.73,
+      "frame": 216,
       "nearestRecognized": [
-        "auf",
+        "öffne",
         "die",
-        "versen"
+        "kapitel"
       ]
     },
     {
       "scene": 2,
-      "cue": "die Notizen",
-      "anchor": "notizen",
-      "audioSeconds": 8.1,
-      "frame": 287,
+      "cue": "den Notizbereich",
+      "anchor": "notizbereich",
+      "audioSeconds": 7.62,
+      "frame": 273,
       "nearestRecognized": [
-        "mein",
-        "die",
-        "notizen"
+        "den",
+        "notiz"
       ]
     },
     {
       "scene": 3,
       "cue": "Kanonisch",
       "anchor": "kanonisch",
-      "audioSeconds": 12.3,
-      "frame": 413,
+      "audioSeconds": 14.43,
+      "frame": 477,
       "nearestRecognized": [
         "du",
         "kanonisch"
@@ -59,10 +58,9 @@
       "scene": 7,
       "cue": "Bibeltext einfügen",
       "anchor": "bibeltext",
-      "audioSeconds": 40.62,
-      "frame": 1263,
+      "audioSeconds": 43.17,
+      "frame": 1339,
       "nearestRecognized": [
-        "mit",
         "bibeltext"
       ]
     },
@@ -70,16 +68,18 @@
       "scene": 9,
       "cue": "Standardübersetzung",
       "anchor": "standardübersetzung",
-      "audioSeconds": 55.1,
-      "frame": 1697,
-      "nearestRecognized": []
+      "audioSeconds": 57.99,
+      "frame": 1784,
+      "nearestRecognized": [
+        "stehen"
+      ]
     },
     {
       "scene": 10,
       "cue": "das Listensymbol",
       "anchor": "listensymbol",
-      "audioSeconds": 58.2,
-      "frame": 1790,
+      "audioSeconds": 61.23,
+      "frame": 1881,
       "nearestRecognized": [
         "das",
         "lesen"
@@ -89,10 +89,9 @@
       "scene": 11,
       "cue": "Nur Notizen zum aktuellen Kapitel",
       "anchor": "nur",
-      "audioSeconds": 62.07,
-      "frame": 1906,
+      "audioSeconds": 65.22,
+      "frame": 2001,
       "nearestRecognized": [
-        "aktiviere",
         "nur"
       ]
     }

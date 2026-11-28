@@ -1,102 +1,102 @@
 1
-00:00:01,530 --> 00:00:04,050
+00:00:01,680 --> 00:00:04,050
 Dir ist ein Vers besonders wichtig
 geworden?
 
 2
-00:00:04,050 --> 00:00:06,570
+00:00:04,050 --> 00:00:06,750
 Füge deine Gedanken als Notiz hinzu.
 
 3
-00:00:06,570 --> 00:00:08,310
-Klicke auf die Versnummer.
+00:00:06,750 --> 00:00:08,520
+Öffne die Kachelanordnung.
 
 4
-00:00:08,310 --> 00:00:11,340
-Öffne im Versmenü die Notizen zu dieser
-Stelle.
+00:00:08,520 --> 00:00:13,500
+Schalte den Notizbereich ein. Dort siehst
+du die Notizen zur aktuellen Stelle.
 
 5
-00:00:11,340 --> 00:00:15,180
+00:00:13,500 --> 00:00:17,310
 Unter „Übersetzungsbezug“ kannst du
 „Kanonisch“ wählen.
 
 6
-00:00:15,180 --> 00:00:18,870
+00:00:17,310 --> 00:00:21,030
 So gehört deine Notiz in allen
 Übersetzungen zu diesem Vers.
 
 7
-00:00:18,870 --> 00:00:22,530
+00:00:21,030 --> 00:00:24,720
 Geht es um einen bestimmten Wortlaut, wähle
 die passende Bibel.
 
 8
-00:00:22,530 --> 00:00:26,460
+00:00:24,720 --> 00:00:28,680
 Gib deiner Notiz einen Titel und halte
 deine Beobachtung direkt neben dem
 
 9
-00:00:26,460 --> 00:00:27,840
+00:00:28,680 --> 00:00:30,060
 Bibeltext fest.
 
 10
-00:00:27,840 --> 00:00:32,460
+00:00:30,060 --> 00:00:34,801
 Schreibst du zum Beispiel Johannes
 fünfzehn, Vers zwölf in die Notiz, erkennt
 
 11
-00:00:32,460 --> 00:00:36,990
+00:00:34,801 --> 00:00:39,330
 der Editor die Stellenangabe und verknüpft
 sie automatisch mit dem Bibeltext.
 
 12
-00:00:36,990 --> 00:00:39,510
+00:00:39,330 --> 00:00:41,910
 Fahre mit der Maus über die Stellenangabe.
 
 13
-00:00:39,510 --> 00:00:41,700
+00:00:41,910 --> 00:00:44,130
 In der Vorschau siehst du den Wortlaut.
 
 14
-00:00:41,700 --> 00:00:46,710
+00:00:44,130 --> 00:00:49,350
 Mit „Bibeltext einfügen“ übernimmst du die
 Stelle als Zitat in deine Notiz.
 
 15
-00:00:46,710 --> 00:00:50,790
+00:00:49,350 --> 00:00:53,550
 Unter dem Text stehen die Stellenangabe und
 die verwendete Übersetzung.
 
 16
-00:00:50,790 --> 00:00:55,560
+00:00:53,550 --> 00:00:58,530
 Welche Bibel für solche Zitate verwendet
 wird, bestimmst du unter „Mein Konto“,
 
 17
-00:00:55,560 --> 00:00:58,140
+00:00:58,530 --> 00:01:01,080
 „Darstellung“, „Standardübersetzung“.
 
 18
-00:00:58,140 --> 00:01:02,670
+00:01:01,080 --> 00:01:05,760
 Zurück im Reader bringt dich das Listensymbol
 in der Notizspalte zur Übersicht.
 
 19
-00:01:02,670 --> 00:01:06,060
+00:01:05,760 --> 00:01:09,270
 Aktiviere „Nur Notizen zum aktuellen
 Kapitel“.
 
 20
-00:01:06,060 --> 00:01:10,080
+00:01:09,270 --> 00:01:13,290
 Wechselst du beim Lesen das Kapitel, zeigt
 die Notizspalte die dazugehörigen
 
 21
-00:01:10,080 --> 00:01:10,950
+00:01:13,290 --> 00:01:14,220
 Notizen.
 
 22
-00:01:10,950 --> 00:01:15,150
+00:01:14,220 --> 00:01:18,510
 So findest du beim Lesen auch Gedanken zu
 anderen Versen desselben Kapitels.
