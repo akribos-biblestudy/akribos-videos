@@ -21,6 +21,6 @@
 
 ## Sprecher und Aufnahmematerial
 
-Der [deutsche Sprechertext](voiceover/sprechertext.txt) und die [Originalaufnahme aus Runway](voiceover/runway.mp3) gehören zusammen. Verwendet wurden die Einstellungen aus Folge 01 mit **Eleven v4** und **Charlie Chatlin – Real & Casual**. Die WAV-Spur für FilmCraft enthält den zeitlich eingesetzten Take. Musik und Soundeffekte liegen auf eigenen Spuren. Die [deutschen Untertitel](voiceover/untertitel.srt) lassen sich direkt bei YouTube hochladen.
+Der [deutsche Sprechertext](voiceover/sprechertext.txt) und die [Originalaufnahme aus Runway](voiceover/runway.mp3) gehören zusammen. Verwendet wurden die Einstellungen aus Folge 01 mit **Eleven v4** und **Charlie Chatlin – Real & Casual**. In der WAV-Spur für FilmCraft ist „Akribos“ durch die freigegebene Aussprache aus Variante 3 ersetzt. [Aussprache und Hörprobe](../sprecher/README.md) · [Schnittdaten](voiceover/aussprache-schnitt.json) Musik und Soundeffekte liegen auf eigenen Spuren. Die [deutschen Untertitel](voiceover/untertitel.srt) lassen sich direkt bei YouTube hochladen.
 
 [Aufnahme der Screenshots](capture/README.md) · [Bildquellen und Ausschnitte](episode.json) · [Szenenzeiten](voiceover/szenenzeiten.json) · [Gemeinsame Schriften](../README.md#schriftarten-installieren)

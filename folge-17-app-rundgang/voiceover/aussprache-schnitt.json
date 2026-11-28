@@ -1,0 +1,41 @@
+{
+  "episode": 17,
+  "original": "runway.mp3",
+  "reference": "../../sprecher/akribos-aussprache-runway.mp3",
+  "reference_variant": 3,
+  "source_range_s": [
+    10.195,
+    10.88
+  ],
+  "source_trimmed_range_s": [
+    10.22,
+    10.857006802721088
+  ],
+  "target_edit_range_s": [
+    1.4850113378684808,
+    2.091995464852608
+  ],
+  "insert_at_s": 1.4850113378684808,
+  "gain_db": -2.218,
+  "pitch_change_semitones": 0,
+  "time_stretch": 1,
+  "source_sibilant_anchors_s": [
+    10.778004535147392,
+    10.8
+  ],
+  "sibilant_crossfade_s": 0.008027210884353741,
+  "edit_crossfade_s": 0.007,
+  "sample_rate": 44100,
+  "channels": 1,
+  "time_offset_s": 1.47,
+  "decoded_samples": 1421784,
+  "timeline_sample_range": [
+    141265,
+    171552
+  ],
+  "audio_timeline_rate": 48000,
+  "original_sha256": "588b252acea29f81dbd4e82705fd027b5189ad33be87930c411364e6d079071d",
+  "reference_sha256": "bd3afedda4700135b64e0759149c0d66bebdf7c3f524259c687c5e6806170058",
+  "output_sha256": "448eda7479123c19d0f2776e73358f292fc938f3e223ad2091ac83d43f70c913",
+  "output": "sprecher-mit-referenzaussprache.wav"
+}
