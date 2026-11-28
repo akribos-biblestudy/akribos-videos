@@ -1,0 +1,51 @@
+{
+  "fps": 30,
+  "voiceOffset": 1.47,
+  "recordingDuration": 32.24,
+  "sceneStartFrames": [
+    41,
+    206,
+    432,
+    598,
+    696,
+    806
+  ],
+  "closingFrame": 1017,
+  "totalFrames": 1066,
+  "alignment": 0.973,
+  "visualCues": [
+    {
+      "scene": 1,
+      "cue": "Stellenangabe",
+      "anchor": "stellenangabe",
+      "audioSeconds": 4.17,
+      "frame": 169,
+      "nearestRecognized": [
+        "auf",
+        "die",
+        "stelle"
+      ]
+    },
+    {
+      "scene": 2,
+      "cue": "rechts Kapitel",
+      "anchor": "rechts",
+      "audioSeconds": 10.89,
+      "frame": 371,
+      "nearestRecognized": [
+        "und",
+        "rechts"
+      ]
+    },
+    {
+      "scene": 6,
+      "cue": "Aktuelles Kapitel",
+      "anchor": "aktuelles",
+      "audioSeconds": 28.14,
+      "frame": 888,
+      "nearestRecognized": [
+        "aktuelles"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+1
+00:00:01,500 --> 00:00:04,500
+Welche PDF-Vorlage passt zu deinem Text?
+
+2
+00:00:04,500 --> 00:00:09,660
+Öffne dein Kontomenü, wähle Mein Konto und
+dann PDF-Export.
+
+3
+00:00:09,660 --> 00:00:12,000
+Die Studienausgabe ist voreingestellt.
+
+4
+00:00:12,000 --> 00:00:13,980
+Öffne das Beispiel-PDF.
+
+5
+00:00:13,980 --> 00:00:17,940
+Grüne Überschriften und hinterlegte Zitate
+gliedern den Text.
+
+6
+00:00:17,940 --> 00:00:21,390
+Der Buchsatz setzt den Text schmaler und im
+Blocksatz.
+
+7
+00:00:21,390 --> 00:00:23,310
+Zitate stehen kursiv.
+
+8
+00:00:23,310 --> 00:00:27,750
+Das Lesemanuskript bietet größere Schrift
+und mehr Abstand zwischen den Zeilen.
+
+9
+00:00:27,750 --> 00:00:29,370
+Das hilft beim Vorlesen.
+
+10
+00:00:29,370 --> 00:00:31,950
+Wähle dein Layout und speichere es.
+
+11
+00:00:31,950 --> 00:00:35,700
+Deinen Namen in der Fußzeile übernimmt
+Akribos aus deinem Profil.
+
+12
+00:00:35,700 --> 00:00:40,590
+Öffne deine Notiz oder Ausarbeitung und
+wähle Exportieren, PDF.
+
+13
+00:00:40,590 --> 00:00:42,910
+Die Datei verwendet jetzt deine Vorlage.

@@ -175,3 +175,33 @@ Dir fällt beim Lesen ein Fehler auf? Öffne das Feedback an der betreffenden St
 **Tags** · Akribos, Feedback geben, Fehler melden, Bibeltext Korrektur, Verbesserung vorschlagen, Screenshot anhängen
 
 [Folge 15 und Projektdateien](../folge-15-feedback/README.md)
+
+### PDF-Layouts in Akribos wählen – Studienausgabe, Buchsatz und Lesemanuskript
+
+Sieh dieselbe Beispielnotiz in allen drei PDF-Vorlagen. Wähle dein Layout, prüfe deinen Anzeigenamen und exportiere eine eigene Notiz oder Ausarbeitung.
+
+#Akribos #Bibelstudium #PDFExport
+
+**Tags** · Akribos, PDF-Export, Studienausgabe, Buchsatz, Lesemanuskript, Predigt, Hauskreis
+
+[Folge 16 und Projektdateien](../folge-16-pdf-layouts/README.md)
+
+### Akribos-App kennenlernen – Bibelstellen, Tabs, Suche und Notizen
+
+Schlage Psalm 118 in der App auf, wechsle zwischen Bibelübersetzungen und suche im geöffneten Werk. Öffne eine Wortstudie zu Johannes 3,16 und finde deine Notizen zum aktuellen Kapitel.
+
+#Akribos #Bibelstudium #BibelApp
+
+**Tags** · Akribos App, Bibelstudium, Bibel-App, Bibelstellen, Wortstudie, Notizen, Android, iOS
+
+[Folge 17 und Projektdateien](../folge-17-app-rundgang/README.md)
+
+### Auf einem E-Book-Reader Bibel lesen – E-Ink-Modus in Akribos
+
+Schalte in der Android-App den E-Ink-Modus ein. So sehen Bibeltext und Markierungen in Schwarz-Weiß aus. Du kannst die Leseschrift vergrößern und zwischen Fließtext und Versansicht wählen.
+
+#Akribos #Bibelstudium #EInk
+
+**Tags** · Akribos, E-Ink, Boox, Bibel-App für Android, E-Book-Reader, Bibel lesen
+
+[Folge 18 und Projektdateien](../folge-18-eink-reader/README.md)

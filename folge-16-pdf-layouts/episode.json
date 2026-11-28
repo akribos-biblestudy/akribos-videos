@@ -1,0 +1,131 @@
+{
+  "number": 16,
+  "title": "PDF-Layouts für Notizen und Ausarbeitungen",
+  "slug": "pdf-layouts",
+  "scenes": [
+    {
+      "title": "PDF-Export öffnen",
+      "image": "screenshots/01-kontomenue.png",
+      "text": "Welche PDF-Vorlage passt zu deinem Text? Öffne dein Kontomenü, wähle Mein Konto und dann PDF-Export.",
+      "focus": [
+        1910,
+        0,
+        970,
+        650
+      ],
+      "point": [
+        2608,
+        216
+      ],
+      "cue": "Mein Konto"
+    },
+    {
+      "title": "Vorlagen vergleichen",
+      "image": "screenshots/02-pdf-layout-wahl.png",
+      "text": "Die Studienausgabe ist voreingestellt. Öffne das Beispiel-PDF.",
+      "focus": [
+        900,
+        330,
+        1570,
+        1130
+      ],
+      "point": [
+        1125,
+        1377
+      ],
+      "cue": "Beispiel-PDF"
+    },
+    {
+      "title": "Studienausgabe",
+      "image": "screenshots/03-studienausgabe.png",
+      "text": "Grüne Überschriften und hinterlegte Zitate gliedern den Text.",
+      "focus": [
+        150,
+        160,
+        990,
+        915
+      ]
+    },
+    {
+      "title": "Buchsatz",
+      "image": "screenshots/04-buchsatz.png",
+      "text": "Der Buchsatz setzt den Text schmaler und im Blocksatz. Zitate stehen kursiv.",
+      "focus": [
+        175,
+        115,
+        930,
+        960
+      ]
+    },
+    {
+      "title": "Lesemanuskript",
+      "image": "screenshots/05-lesemanuskript.png",
+      "text": "Das Lesemanuskript bietet größere Schrift und mehr Abstand zwischen den Zeilen. Das hilft beim Vorlesen.",
+      "focus": [
+        150,
+        95,
+        990,
+        970
+      ]
+    },
+    {
+      "title": "Das Layout speichern",
+      "image": "screenshots/06-gespeichert.png",
+      "text": "Wähle dein Layout und speichere es.",
+      "focus": [
+        800,
+        390,
+        1750,
+        1180
+      ],
+      "point": [
+        1066,
+        1489
+      ],
+      "cue": "speichere"
+    },
+    {
+      "title": "Name aus dem Profil",
+      "image": "screenshots/07-profil.png",
+      "text": "Deinen Namen in der Fußzeile übernimmt Akribos aus deinem Profil.",
+      "focus": [
+        925,
+        345,
+        1250,
+        351
+      ],
+      "point": [
+        1355,
+        644
+      ],
+      "cue": "Namen"
+    },
+    {
+      "title": "Als PDF exportieren",
+      "image": "screenshots/08-export-pdf.png",
+      "text": "Öffne deine Notiz oder Ausarbeitung und wähle Exportieren, PDF.",
+      "focus": [
+        150,
+        150,
+        2490,
+        770
+      ],
+      "point": [
+        2374,
+        432
+      ],
+      "cue": "PDF"
+    },
+    {
+      "title": "Die fertige PDF-Datei",
+      "image": "screenshots/09-exportiert.png",
+      "text": "Die Datei verwendet jetzt deine Vorlage.",
+      "focus": [
+        160,
+        120,
+        965,
+        430
+      ]
+    }
+  ]
+}

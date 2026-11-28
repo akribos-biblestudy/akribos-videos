@@ -1,0 +1,77 @@
+{
+  "fps": 30,
+  "voiceOffset": 1.47,
+  "recordingDuration": 41.44,
+  "sceneStartFrames": [
+    41,
+    285,
+    415,
+    534,
+    695,
+    877,
+    954,
+    1066,
+    1213
+  ],
+  "closingFrame": 1293,
+  "totalFrames": 1342,
+  "alignment": 0.942,
+  "visualCues": [
+    {
+      "scene": 1,
+      "cue": "Mein Konto",
+      "anchor": "mein",
+      "audioSeconds": 5.01,
+      "frame": 194,
+      "nearestRecognized": [
+        "wähle",
+        "mein",
+        "konto"
+      ]
+    },
+    {
+      "scene": 2,
+      "cue": "Beispiel-PDF",
+      "anchor": "beispiel",
+      "audioSeconds": 11.01,
+      "frame": 374,
+      "nearestRecognized": [
+        "das",
+        "beispiel"
+      ]
+    },
+    {
+      "scene": 6,
+      "cue": "speichere",
+      "anchor": "speichere",
+      "audioSeconds": 29.13,
+      "frame": 918,
+      "nearestRecognized": [
+        "und",
+        "speichere"
+      ]
+    },
+    {
+      "scene": 7,
+      "cue": "Namen",
+      "anchor": "namen",
+      "audioSeconds": 30.682,
+      "frame": 965,
+      "nearestRecognized": [
+        "deinen",
+        "namen"
+      ]
+    },
+    {
+      "scene": 8,
+      "cue": "PDF",
+      "anchor": "pdf",
+      "audioSeconds": 38.07,
+      "frame": 1186,
+      "nearestRecognized": [
+        "exportieren",
+        "pdf"
+      ]
+    }
+  ]
+}

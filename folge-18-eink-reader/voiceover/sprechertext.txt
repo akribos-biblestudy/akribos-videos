@@ -1,0 +1,11 @@
+Du liest auf einem E-Book-Reader wie einem Boox? Öffne in der Android-App Mehr und dann Einstellungen.
+
+Aktiviere unter Darstellung den E-Ink-Modus.
+
+Er erhöht den Schwarz-Weiß-Kontrast und reduziert Animationen.
+
+Geh zurück zu Lesen. Du scrollst wie gewohnt weiter und erkennst Markierungen auch ohne ihre Farbe.
+
+Öffne Tabs und tippe auf A plus, um die Schrift zu vergrößern.
+
+Unter Textdarstellung kannst du außerdem zwischen Fließtext und Versweise wählen.

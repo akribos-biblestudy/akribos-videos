@@ -1,0 +1,42 @@
+1
+00:00:01,530 --> 00:00:04,440
+Du liest auf einem E-Book-Reader wie einem
+Boox?
+
+2
+00:00:04,440 --> 00:00:08,100
+Öffne in der Android-App Mehr und dann
+Einstellungen.
+
+3
+00:00:08,100 --> 00:00:11,512
+Aktiviere unter Darstellung den
+E-Ink-Modus.
+
+4
+00:00:11,512 --> 00:00:15,090
+Er erhöht den Schwarz-Weiß-Kontrast und
+reduziert Animationen.
+
+5
+00:00:15,090 --> 00:00:19,680
+Geh zurück zu Lesen. Du scrollst wie
+gewohnt weiter und erkennst Markierungen
+
+6
+00:00:19,680 --> 00:00:21,240
+auch ohne ihre Farbe.
+
+7
+00:00:21,240 --> 00:00:25,350
+Öffne Tabs und tippe auf A plus, um die
+Schrift zu vergrößern.
+
+8
+00:00:25,350 --> 00:00:29,340
+Unter Textdarstellung kannst du außerdem
+zwischen Fließtext und Versweise
+
+9
+00:00:29,340 --> 00:00:29,870
+wählen.

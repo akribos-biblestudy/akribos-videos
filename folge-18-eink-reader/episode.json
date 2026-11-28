@@ -1,0 +1,88 @@
+{
+  "number": 18,
+  "title": "Akribos auf einem E-Book-Reader nutzen",
+  "slug": "eink-reader",
+  "scenes": [
+    {
+      "title": "Einstellungen öffnen",
+      "image": "screenshots/02-mehr.png",
+      "text": "Du liest auf einem E-Book-Reader wie einem Boox? Öffne in der Android-App Mehr und dann Einstellungen.",
+      "focus": [
+        0,
+        100,
+        1320,
+        690
+      ],
+      "point": [
+        660,
+        466
+      ],
+      "cue": "Einstellungen"
+    },
+    {
+      "title": "E-Ink-Modus einschalten",
+      "image": "screenshots/03-darstellung.png",
+      "text": "Aktiviere unter Darstellung den E-Ink-Modus.",
+      "focus": [
+        0,
+        180,
+        1320,
+        1320
+      ],
+      "point": [
+        584,
+        1349
+      ],
+      "cue": "E-Ink-Modus"
+    },
+    {
+      "title": "Mehr Kontrast",
+      "image": "screenshots/04-eink-aktiv.png",
+      "text": "Er erhöht den Schwarz-Weiß-Kontrast und reduziert Animationen.",
+      "focus": [
+        0,
+        180,
+        1320,
+        1320
+      ]
+    },
+    {
+      "title": "Im Bibeltext weiterlesen",
+      "image": "screenshots/05-lesen-eink.png",
+      "text": "Geh zurück zu Lesen. Du scrollst wie gewohnt weiter und erkennst Markierungen auch ohne ihre Farbe.",
+      "focus": [
+        0,
+        0,
+        1320,
+        1200
+      ]
+    },
+    {
+      "title": "Die Leseschrift vergrößern",
+      "image": "screenshots/06-leseschrift.png",
+      "text": "Öffne Tabs und tippe auf A plus, um die Schrift zu vergrößern.",
+      "focus": [
+        450,
+        1500,
+        710,
+        300
+      ],
+      "point": [
+        660,
+        1736
+      ],
+      "cue": "A plus"
+    },
+    {
+      "title": "Zwischen Fließtext und Versen wählen",
+      "image": "screenshots/07-textdarstellung.png",
+      "text": "Unter Textdarstellung kannst du außerdem zwischen Fließtext und Versweise wählen.",
+      "focus": [
+        0,
+        60,
+        1320,
+        665
+      ]
+    }
+  ]
+}

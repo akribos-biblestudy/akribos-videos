@@ -1,0 +1,53 @@
+{
+  "fps": 30,
+  "voiceOffset": 1.47,
+  "recordingDuration": 28.4,
+  "sceneStartFrames": [
+    41,
+    238,
+    330,
+    448,
+    633,
+    756
+  ],
+  "closingFrame": 902,
+  "totalFrames": 951,
+  "alignment": 0.954,
+  "visualCues": [
+    {
+      "scene": 1,
+      "cue": "Einstellungen",
+      "anchor": "einstellungen",
+      "audioSeconds": 5.43,
+      "frame": 207,
+      "nearestRecognized": [
+        "dann",
+        "einstellungen"
+      ]
+    },
+    {
+      "scene": 2,
+      "cue": "E-Ink-Modus",
+      "anchor": "e",
+      "audioSeconds": 8.55,
+      "frame": 301,
+      "nearestRecognized": [
+        "den",
+        "e",
+        "in"
+      ]
+    },
+    {
+      "scene": 5,
+      "cue": "A plus",
+      "anchor": "a",
+      "audioSeconds": 21.48,
+      "frame": 688,
+      "nearestRecognized": [
+        "auf",
+        "a",
+        "plus"
+      ]
+    }
+  ]
+}

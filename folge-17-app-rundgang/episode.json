@@ -1,0 +1,88 @@
+{
+  "number": 17,
+  "title": "Die Akribos-App kennenlernen",
+  "slug": "app-rundgang",
+  "scenes": [
+    {
+      "title": "Zur Bibelstelle",
+      "image": "screenshots/01-lesen.png",
+      "text": "So findest du dich in der App von Akribos zurecht. Tippe beim Lesen auf die Stellenangabe.",
+      "focus": [
+        0,
+        0,
+        828,
+        900
+      ],
+      "point": [
+        366,
+        152
+      ],
+      "cue": "Stellenangabe"
+    },
+    {
+      "title": "Buch und Kapitel wählen",
+      "image": "screenshots/02-buch-und-kapitel.png",
+      "text": "In der neuen Auswahl stehen Bücher und Kapitel nebeneinander. Wähle links die Psalmen und rechts Kapitel hundertachtzehn.",
+      "focus": [
+        0,
+        220,
+        828,
+        1370
+      ],
+      "point": [
+        644,
+        1273
+      ],
+      "cue": "rechts Kapitel"
+    },
+    {
+      "title": "Zwischen Werken wechseln",
+      "image": "screenshots/03-tabs.png",
+      "text": "Wische seitlich zwischen deinen offenen Werken. Unter Tabs siehst du alle auf einen Blick.",
+      "focus": [
+        0,
+        130,
+        828,
+        805
+      ]
+    },
+    {
+      "title": "Im geöffneten Werk suchen",
+      "image": "screenshots/04-suchen.png",
+      "text": "Über Suchen findest du Wörter im geöffneten Werk.",
+      "focus": [
+        0,
+        0,
+        828,
+        1130
+      ]
+    },
+    {
+      "title": "Die Wortstudie öffnen",
+      "image": "screenshots/05-wortstudie.png",
+      "text": "Tippst du auf ein Wort im Bibeltext, öffnet sich die Wortstudie.",
+      "focus": [
+        0,
+        170,
+        828,
+        1100
+      ]
+    },
+    {
+      "title": "Notizen zum Kapitel finden",
+      "image": "screenshots/06-notizen.png",
+      "text": "Unter Notizen findest du deine Texte. Aktuelles Kapitel zeigt die Notizen zu der Stelle, die du gerade liest.",
+      "focus": [
+        0,
+        95,
+        828,
+        1350
+      ],
+      "point": [
+        338,
+        339
+      ],
+      "cue": "Aktuelles Kapitel"
+    }
+  ]
+}

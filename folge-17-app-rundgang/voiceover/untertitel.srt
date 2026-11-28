@@ -1,0 +1,46 @@
+1
+00:00:01,500 --> 00:00:04,500
+So findest du dich in der App von Akribos
+zurecht.
+
+2
+00:00:04,500 --> 00:00:07,020
+Tippe beim Lesen auf die Stellenangabe.
+
+3
+00:00:07,020 --> 00:00:10,710
+In der neuen Auswahl stehen Bücher und
+Kapitel nebeneinander.
+
+4
+00:00:10,710 --> 00:00:14,550
+Wähle links die Psalmen und rechts Kapitel
+hundertachtzehn.
+
+5
+00:00:14,550 --> 00:00:17,190
+Wische seitlich zwischen deinen offenen
+Werken.
+
+6
+00:00:17,190 --> 00:00:20,070
+Unter Tabs siehst du alle auf einen Blick.
+
+7
+00:00:20,070 --> 00:00:23,340
+Über Suchen findest du Wörter im geöffneten
+Werk.
+
+8
+00:00:23,340 --> 00:00:27,030
+Tippst du auf ein Wort im Bibeltext, öffnet
+sich die Wortstudie.
+
+9
+00:00:27,030 --> 00:00:29,610
+Unter Notizen findest du deine Texte.
+
+10
+00:00:29,610 --> 00:00:33,710
+Aktuelles Kapitel zeigt die Notizen zu der
+Stelle, die du gerade liest.

@@ -21,6 +21,9 @@ Die Quelldateien der Akribos-Erklärvideos. Jede Folge hat ihren eigenen Ordner 
 | 13 | [Notizen importieren und exportieren](folge-13-notizen-import-export/README.md) | [1:37](folge-13-notizen-import-export/folge-13.mp4) | [Thumbnail](folge-13-notizen-import-export/youtube-thumbnail.jpg) |
 | 14 | [Die Bibelausgaben in Akribos](folge-14-bibelausgaben/README.md) | [1:24](folge-14-bibelausgaben/folge-14.mp4) | [Thumbnail](folge-14-bibelausgaben/youtube-thumbnail.jpg) |
 | 15 | [Feedback an Akribos geben](folge-15-feedback/README.md) | [0:43](folge-15-feedback/folge-15.mp4) | [Thumbnail](folge-15-feedback/youtube-thumbnail.jpg) |
+| 16 | [PDF-Layouts wählen und vergleichen](folge-16-pdf-layouts/README.md) | [0:45](folge-16-pdf-layouts/folge-16.mp4) | [Thumbnail](folge-16-pdf-layouts/youtube-thumbnail.jpg) |
+| 17 | [Die Akribos-App kennenlernen](folge-17-app-rundgang/README.md) | [0:36](folge-17-app-rundgang/folge-17.mp4) | [Thumbnail](folge-17-app-rundgang/youtube-thumbnail.jpg) |
+| 18 | [Auf einem E-Book-Reader lesen](folge-18-eink-reader/README.md) | [0:32](folge-18-eink-reader/folge-18.mp4) | [Thumbnail](folge-18-eink-reader/youtube-thumbnail.jpg) |
 
 ## Auf einem neuen Rechner starten
 
