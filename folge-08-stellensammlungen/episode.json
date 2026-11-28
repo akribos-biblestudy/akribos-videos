@@ -88,15 +88,15 @@
       "text": "Du findest beim Weiterlesen noch einen Vers? Öffne über seine Nummer das Versmenü und wähle die Sammlung „Licht und Leben“.",
       "image": "screenshots/04-sammlung-im-versmenue.png",
       "focus": [
-        661,
-        782,
+        851,
+        583,
         790,
         550
       ],
       "cue": "Licht und Leben",
       "point": [
-        1056,
-        1157
+        1087,
+        975
       ]
     },
     {

@@ -9,14 +9,14 @@
       "text": "Dir ist ein Vers besonders wichtig geworden? Füge deine Gedanken als Notiz hinzu. Klicke auf die Versnummer.",
       "cue": "die Versnummer",
       "focus": [
+        1371,
         0,
-        81,
         1250,
         580
       ],
       "point": [
-        505,
-        371
+        1996,
+        54
       ]
     },
     {
@@ -24,15 +24,15 @@
       "text": "Öffne im Versmenü die Notizen zu dieser Stelle.",
       "image": "screenshots/01-versnotizen.png",
       "focus": [
-        396,
-        697,
+        1824,
+        277,
         816,
         504
       ],
       "cue": "die Notizen",
       "point": [
-        804,
-        949
+        2277,
+        679
       ]
     },
     {
@@ -57,7 +57,7 @@
       "image": "screenshots/03-beobachtung.png",
       "focus": [
         1100,
-        183,
+        147,
         1540,
         790
       ]
@@ -68,7 +68,7 @@
       "text": "Schreibst du zum Beispiel Johannes fünfzehn, Vers zwölf in die Notiz, erkennt der Editor die Stellenangabe und verknüpft sie automatisch mit dem Bibeltext.",
       "focus": [
         1710,
-        598,
+        527,
         930,
         400
       ]
@@ -79,7 +79,7 @@
       "text": "Fahre mit der Maus über die Stellenangabe. In der Vorschau siehst du den Wortlaut.",
       "focus": [
         1620,
-        677,
+        606,
         1020,
         612
       ]
@@ -91,13 +91,13 @@
       "cue": "Bibeltext einfügen",
       "focus": [
         1680,
-        773,
+        702,
         960,
         484
       ],
       "point": [
         2272,
-        1063
+        993
       ]
     },
     {
@@ -106,7 +106,7 @@
       "text": "Unter dem Text stehen die Stellenangabe und die verwendete Übersetzung.",
       "focus": [
         1800,
-        865,
+        794,
         840,
         460
       ]

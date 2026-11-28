@@ -163,7 +163,7 @@ async function prepare(page, shot, origin) {
       await number.click();
       const swatch = page.locator('.swatches .swatch').first();
       await swatch.waitFor();
-      if (await swatch.getAttribute('aria-pressed') !== 'true') {
+      if (await swatch.getAttribute('aria-checked') !== 'true') {
         throw new Error('The capture account must already have this verse marked with the first (yellow) swatch.');
       }
       if (shot.openPalette) {
@@ -182,7 +182,7 @@ async function prepare(page, shot, origin) {
         await swatch.waitFor({ state: 'hidden' });
         await number.click();
         await swatch.waitFor();
-        if (await swatch.getAttribute('aria-pressed') !== 'false') throw new Error('Palette still shows an active color.');
+        if (await swatch.getAttribute('aria-checked') !== 'false') throw new Error('Palette still shows an active color.');
       } else {
         await page.keyboard.press('Escape');
         await swatch.waitFor({ state: 'hidden' });
@@ -190,10 +190,10 @@ async function prepare(page, shot, origin) {
       break;
     }
     case 'note': {
-      await verse.locator('a.verse-number').click();
-      await page.getByRole('menuitem', { name: /Notizen zu .* öffnen/ }).click();
-      await page.getByRole('dialog').getByRole('button', { name: new RegExp(escapeRegExp(shot.document) + ' Notiz') }).click();
+      await page.getByRole('button', { name: 'Kachelanordnung wählen' }).first().click();
+      await page.getByTestId('reader-notes-sidecar-toggle').click();
       const side = page.getByTestId('reader-notes-sidecar');
+      await side.getByTestId('reader-notes-open-document').filter({ hasText: shot.document }).first().click();
       await side.getByText(shot.ending, { exact: true }).waitFor();
       const handle = await page.getByTestId('reader-notes-sidecar-resize').boundingBox();
       if (!handle) throw new Error('Note resize handle missing.');
@@ -222,10 +222,6 @@ async function prepare(page, shot, origin) {
     }
   }
 }
-function escapeRegExp(value) {
-  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-}
-
 async function main() {
   const config = JSON.parse(await readFile(values.config, 'utf8'));
   const shots = config.shots.map(spec => ({ ...config.defaults, ...spec }));

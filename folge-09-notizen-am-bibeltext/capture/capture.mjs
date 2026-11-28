@@ -1,26 +1,20 @@
 import { readFile } from 'node:fs/promises';
 import { captureEpisode } from '../../scripts/capture-browser.mjs';
-import { openVerse, openVerseMenu } from '../../scripts/capture-study.mjs';
+import { openVerse } from '../../scripts/capture-study.mjs';
 
 const target = JSON.parse(await readFile(new URL('targets.json', import.meta.url), 'utf8'));
 await captureEpisode(import.meta.url,{login:true},async capture => {
   const {page,go,snap} = capture;
   await page.setViewportSize({width:1320,height:870});
-  const numberToNotes = async (showSteps=false) => {
-    const {number}=await openVerse(capture,target);
-    if (showSteps) await snap(1,number,{size:[625,290],point:number});
-    const menu=await openVerseMenu(page,number);
-    const notes=menu.getByRole('menuitem',{name:/Notizen zu/});
-    if (showSteps) await snap(2,notes,{size:[408,252],point:notes});
-    await notes.click();
-    return page.getByTestId('reader-notes-panel');
-  };
-  const dialog=await numberToNotes(true);
-  const openDocument=panel=>panel.getByTestId('reader-notes-open-document').filter({hasText:target.document}).click();
-  await openDocument(dialog);
+  await openVerse(capture,target);
+  const layout=page.getByTestId('layout-picker');
+  await snap(1,layout,{size:[625,290],point:layout});
+  await layout.click();
+  const notes=page.getByTestId('reader-notes-sidecar-toggle');
+  await snap(2,notes,{size:[408,252],offset:[0,-75],point:notes});
+  await notes.click();
   const side=page.getByTestId('reader-notes-sidecar');
   const overview=side.getByRole('button',{name:/Notizen für .* anzeigen/});
-  await overview.click();
   const current=side.getByTestId('reader-notes-current-context');
   const actual=current.getByText(target.verseName,{exact:true});
   const expected=Number(target.verseKey.split(':').at(-1));
@@ -38,7 +32,7 @@ await captureEpisode(import.meta.url,{login:true},async capture => {
   const selector=current.locator('select[name=resourceId]');
   await selector.selectOption('');
   await snap(3,current,{size:[453,364],point:selector});
-  await openDocument(current);
+  await current.getByRole('button',{name:target.document,exact:true}).click();
   const content=side.getByTestId('reader-notes-sidecar-body');
   const reference=content.locator('a').filter({hasText:target.bodyReference}).first();
   await reference.waitFor();
@@ -70,7 +64,7 @@ await captureEpisode(import.meta.url,{login:true},async capture => {
   await standard.locator('select').selectOption(target.resource);
   await snap(9,standard,{size:[648,223],point:standard.locator('select')});
   await page.setViewportSize({width:1320,height:870});
-  await openDocument(await numberToNotes());
+  await openVerse(capture,target);
   await snap(10,overview,{size:[420,175],point:overview});
   await overview.click();
   const filter=side.getByLabel('Nur Notizen zum aktuellen Kapitel');

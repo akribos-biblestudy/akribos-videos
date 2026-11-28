@@ -25,14 +25,14 @@
       "image": "screenshots/02-wortlaut.png",
       "focus": [
         980,
-        357,
+        412,
         780,
         440
       ],
       "cue": "Vers kopieren",
       "point": [
         1220,
-        576
+        647
       ]
     },
     {
@@ -41,14 +41,14 @@
       "image": "screenshots/03-stellenlink.png",
       "focus": [
         960,
-        437,
+        422,
         800,
         420
       ],
       "cue": "Link kopieren",
       "point": [
         1219,
-        645
+        716
       ]
     },
     {
@@ -57,14 +57,14 @@
       "text": "Wenn du angemeldet bist, kannst du im Versmenü eine Farbe wählen, zum Beispiel Gelb.",
       "cue": "Gelb",
       "focus": [
-        780,
-        574,
+        990,
+        427,
         770,
         410
       ],
       "point": [
-        1165,
-        779
+        1158,
+        555
       ]
     },
     {

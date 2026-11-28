@@ -29,8 +29,11 @@ await captureEpisode(import.meta.url, { login:true }, async capture => {
   await page.setViewportSize({ width: 1320, height: 870 });
   const { number } = await openVerse(capture, target);
   const menu = await openVerseMenu(page, number);
-  const list = menu.getByText(target.collection, { exact: true });
-  await snap(6, list, { size: [395, 275], offset: [0,-50], point: list });
+  const collections = menu.getByRole('menuitem', { name: 'Stellensammlungen', exact: true });
+  await collections.click();
+  const list = menu.getByRole('menuitemcheckbox', { name: target.collection, exact: true });
+  const label = list.getByText(target.collection, { exact: true });
+  await snap(6, [collections, list], { size: [395, 275], offset: [0,-16], point: label });
   await go(href);
   const comment = page.getByText(target.comment, { exact: true });
   await snap(7, page.locator('main ol > li').filter({has:comment}).first(), { size: [775, 350] });

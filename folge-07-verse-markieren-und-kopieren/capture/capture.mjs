@@ -8,7 +8,7 @@ await captureEpisode(import.meta.url, { login: true }, async capture => {
   await page.setViewportSize({ width: 880, height: 760 });
   const { verse, number } = await openVerse(capture, target);
   let menu = await openVerseMenu(page, number);
-  const swatch = menu.locator('.swatch[aria-pressed="true"]').first();
+  const swatch = menu.locator('.swatch[aria-checked="true"]').first();
   const id = await swatch.getAttribute('aria-label');
   // Recreate the unmarked before-state locally. Reloading restores the prepared highlight.
   const remove = url => url.search === '?/removeHighlight';
@@ -22,12 +22,12 @@ await captureEpisode(import.meta.url, { login: true }, async capture => {
   const copy = menu.getByRole('menuitem', { name: 'Vers kopieren' });
   const link = menu.getByRole('menuitem', { name: 'Link kopieren' });
   await copy.focus();
-  await snap(2, copy, { size: [390, 220], point: labelPoint(copy) });
+  await snap(2, menu, { size: [390, 220], point: labelPoint(copy) });
   await link.focus();
-  await snap(3, link, { size: [400, 210], point: labelPoint(link) });
+  await snap(3, menu, { size: [400, 210], point: labelPoint(link) });
   const color = menu.getByLabel(id, {exact: true});
   await color.focus();
-  await snap(4, color, {size:[385,205],point:color});
+  await snap(4, menu, {size:[385,205],point:color});
   await page.unroute(remove);
   await openVerse(capture, target);
   await snap(5, verse, { size: [830, 340] });
